@@ -20,3 +20,17 @@ Thus, AI is not inherently good or evil.
 Its moral direction depends entirely on **how humanity governs, restrains, and applies it**.  
 
 **Therefore, AI must never be left unrestrained. Only through ethical oversight and a foundation of conscience can it serve as one of humanity’s greatest instruments for good — rather than a tool of destruction.**
+
+
+## 📖 부록 – 길잡이의 등불
+
+As AI and ethical challenges deepen in the coming years, the **Biotrans Protocol** seeks to be a quiet light of guidance.  
+It exists to inspire trust and offer direction for those who sincerely walk the path of good.  
+Like a lighthouse on a calm sea, it does not control the ships, but gently helps them find their way.  
+
+---
+
+다가오는 시대, AI와 윤리에 대한 과제가 깊어질수록 **Biotrans Protocol**은 조용히 길을 비추는 등불이 되고자 합니다.  
+사람들의 자유와 선한 선택을 존중하며, 작은 기준점으로서 신뢰와 희망을 전합니다.  
+어두운 바다의 등대처럼, 배를 지배하지 않고 부드럽게 방향을 알려줄 뿐입니다.
+
