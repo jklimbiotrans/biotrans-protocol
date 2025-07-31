@@ -1,3 +1,11 @@
+# Appendix – Philosophical Background
+
+This appendix provides metaphors, background explanations, and philosophical references 
+that clarify the ethical foundation of the **Biotrans Protocol**.  
+It is not a binding rule but a complementary guide for understanding the spirit of the charter.
+
+---
+
 ## 📖 Philosophical Appendix – The Tool Analogy
 
 AI is not a simple knife.  
