@@ -49,3 +49,12 @@ and provides **guidelines for the safe and ethical use of AI**.
 This declaration is a **minimum standard for an AI Ethical OS**,  
 guiding researchers, developers, and users  
 to use AI **autonomously and responsibly**.  
+
+---
+
+## 📜 License
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
+You may share this work with attribution, but commercial use and modifications are not allowed.
+
+For full license text, see: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
