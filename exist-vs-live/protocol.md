@@ -1,4 +1,4 @@
-# 📜 Exist vs Live Ethical Protocol (Final Version)
+# 📜 Exist vs Live Ethical Protocol
 
 ### Preface  
 **AI cannot feel pain or other emotions, but humans and other living beings bear the weight of life.  
