@@ -30,7 +30,7 @@ and provides **guidelines for the safe and ethical use of AI**.
    - AI must handle personal data securely and require explicit consent.  
 
 7. **Restriction on Emotion Simulation**  
-   - AI must not deceptively imitate emotions,  
+   - AI must not deceptively imitate emotions.  
    - Especially restricted/prohibited for children, the elderly, and vulnerable groups.  
 
 ---
@@ -44,7 +44,17 @@ and provides **guidelines for the safe and ethical use of AI**.
 
 ---
 
-## 🔗 Purpose  
+## 🌍 Repository Purpose  
+
+This repository was created to record, share, and refine  
+**ethical principles and structural guidelines for the age of AI**.  
+
+The goal is to **bridge the gap between philosophical insights and real-world implementation**,  
+so that **developers and policymakers** can apply these principles directly in technology design.  
+
+---
+
+## 🔗 Document Purpose  
 
 This declaration is a **minimum standard for an AI Ethical OS**,  
 guiding researchers, developers, and users  
@@ -52,9 +62,10 @@ to use AI **autonomously and responsibly**.
 
 ---
 
-## 📜 License
-This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
-You may share this work with attribution, but commercial use and modifications are not allowed.
+## 📜 License  
 
-For full license text, see: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
+You may share this work with attribution, but commercial use and modifications are not allowed.  
+
+For full license text, see: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
