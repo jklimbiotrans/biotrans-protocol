@@ -1,7 +1,25 @@
-# Biotrans Protocol – AI Ethics Declaration (Extended Version)  
+# Biotrans Protocol – AI Ethics Declaration (Extended Version)
 
-This extended document expands on the **core principles** outlined in the main declaration,  
-offering further context for researchers, developers, and policy makers.  
+**Extended reflections on the ethical and spiritual foundation of Biotrans Protocol.**  
+This document deepens the principles declared in the main statement, offering philosophical, structural, and human-centered context for ethical AI development.
+
+---
+
+## 📁 Directory Structure and Purpose
+
+The Biotrans Protocol repository is organized as a modular ethical architecture.  
+Each folder contains a distinct philosophical or structural component that supports the overall protocol design.
+
+```bash
+biotrans-protocol/
+├── README.md               ← Overview of the protocol and directory map
+├── constitution/           ← Immutable ethical laws and repentance logic
+├── ethics-charter/         ← Emotion simulation bans, AI safety, anti-posthumanism
+├── exist-vs-live/          ← Philosophical reflections on what it means to live
+├── human-ai-differences/   ← Ontological and moral boundary between humans and AI
+├── philosophy/             ← Conscience, suffering, repentance, transformation
+├── credits/                ← Contributors, references, acknowledgments
+├── appendix/               ← Fallback rules, experiments, simulation logs
 
 ---
 
