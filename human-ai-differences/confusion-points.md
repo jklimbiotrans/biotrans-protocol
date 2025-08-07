@@ -110,9 +110,7 @@ Even if AI has no intent or consciousness, **humans project** emotions and moral
 
 ## 🔗 Related Documents
 
-- `/ethics-charter/ai-safety-principles.md`
 - `/human-ai-differences/README.md`
-- `/appendix/emotion-firewall-design.md` *(suggested)*
 
 ---
 
