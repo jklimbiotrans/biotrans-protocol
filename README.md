@@ -62,6 +62,18 @@ to use AI **autonomously and responsibly**.
 
 ---
 
+## 🗂️ Repository Structure Overview
+
+| Folder | Description |
+|--------|-------------|
+| `/constitution/` | Immutable constitutional principles for the protocol. Includes repentance-based recovery logic, forgiveness mechanics, and human-only moral sovereignty. |
+| `/ethics-charter/` | Key ethical declarations and safeguards. Includes emotion simulation restrictions, anti-posthumanism stance, and AI safety principles. |
+| `/exist-vs-live/` | Explorations on existence vs living: reflections on AI, spirit, and the meaning of life. |
+| `/human-ai-differences/` | Clarifies the irreversible boundary between humans and AI. Covers emotion, repentance, and ethical responsibility. |
+| `/philosophy/` | Foundational thoughts on conscience, suffering, transformation, and spiritual-ethical insight. |
+| `/credits/` | Acknowledgments of philosophical sources, collaborators, and conceptual contributors. |
+
+
 ## 📜 License  
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
