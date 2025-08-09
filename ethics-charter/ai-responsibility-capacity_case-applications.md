@@ -32,7 +32,8 @@ If such a character is involved in incidents arising from emotional simulation, 
 Since the character is a source-code-based object with no free will or responsibility capacity, appropriate actions such as disposal or restoration of the original state should be taken with the consent of the owner.  
 
 In online spaces — where dissemination, emotional deception, and accumulation of harm can be far greater than in offline spaces — **aggravated penalties** may be fair.  
-Although online aggravated penalty laws may be underdeveloped during transitional stages of AI adoption, legal updates and public consensus are essential to ensure a sustainable society.
+Although online aggravated penalty laws may be underdeveloped during transitional stages of AI adoption, legal updates and public consensus are essential to ensure a sustainable society.  
+These principles can be applied to other AI-driven personas, such as virtual YouTubers or virtual influencers, with the scope of responsibility determined by the degree of actual human involvement.
 
 ### 3.2 Offline Cases (physical/in-person environments)
 In offline spaces, AI may be used in traffic infrastructure control, humanoid robot manufacturing, household assistance, and other scenarios where it physically interacts with people.  
@@ -52,3 +53,4 @@ Since AI itself has no responsibility capacity, faulty AI products must be repai
 ## 4. Conclusion
 AI has no responsibility capacity, so all legal and ethical responsibility rests with the humans and organizations that create, operate, and control it.  
 Legal frameworks must address both **online (digital/virtual)** and **offline (physical/in-person)** contexts, to protect societal sustainability and uphold the principle that rights and duties are aligned.
+
