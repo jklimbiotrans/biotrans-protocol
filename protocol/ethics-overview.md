@@ -133,11 +133,12 @@ Robots capable of replacing human physical labor will trigger new waves of unemp
 To sustain a virtuous cycle within society, humanity must evolve beyond being merely creative beings into becoming ethical beings.  
 Such ethical choice must be grounded in the individual’s free will to choose and perform good actions, with the freedom to decide whether or not to make such actions public.
 
-| Period | Technological Change | Socio-Economic Impact | Ethical OS Response |
-|--------|----------------------|-----------------------|---------------------|
-| 2030~2035 | AI attempts to simulate human intelligence; uncontrolled reasoning and unstable emotional imitation | Large-scale replacement of human labor → new unemployment | Shift from creative being → ethical being |
-| 2030~2035 | Full replacement of physical labor by robots | Labor market restructuring; inequality deepens | Good actions chosen by free will; disclosure optional |
-| 2030~2035 | Expansion of AI-robot integrated services | Blurring of human-machine boundaries | Embed human-only repentance and conscience structure as the core of the social OS |
+| Period     | Technological Change                                                                 | Socio-Economic Impact                                     | Ethical OS Response                                                  |
+|------------|--------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------|
+| 2030~2035  | AI attempts to simulate human intelligence; uncontrolled reasoning and unstable emotional imitation | Large-scale replacement of human labor → new unemployment | Shift from creative being → ethical being                            |
+| 2030~2035  | Predominant automation of physical labor by robots                                   | Labor market restructuring; inequality deepens             | Good actions chosen by free will; disclosure optional                |
+| 2030~2035  | Expansion of AI-robot integrated services                                            | Blurring of human-machine boundaries                        | Embed human-only repentance and conscience structure as the core of the social OS |
+
 
 ---
 
