@@ -1,7 +1,8 @@
 # Biotrans Protocol – Operational Responsibility Principles
 
 These principles define the minimum standards for designers and operators,  
-and apply equally to all participants.
+and apply equally to all participants.  
+They will be directly applied to Biotrans-operated applications, services, and business activities.
 
 ---
 
@@ -26,3 +27,11 @@ and apply equally to all participants.
 > **Note:** These principles are not intended for indiscriminate selection or exclusion.  
 > However, a certain level of integrity and conscience is a mandatory requirement  
 > to maintain the system’s integrity and sustainability.
+
+---
+
+## License & Copyright
+© 2025 Biotrans Protocol. All rights reserved.  
+This document is released under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
+You may share this document with attribution, but you may not use it for commercial purposes or create derivative works without explicit permission.
+
