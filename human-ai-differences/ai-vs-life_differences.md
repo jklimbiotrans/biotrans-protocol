@@ -1,7 +1,9 @@
 # AI vs Life – Fundamental Differences
 
-This document clarifies the **ontological and ethical boundaries** between artificial intelligence and living beings.  
-It is part of the Biotrans Protocol’s effort to maintain a clear line between computational tools and the existential weight of life.
+This document defines the **core ontological and ethical distinctions** between artificial intelligence and human life.  
+It serves as a foundational reference within the Biotrans Protocol, ensuring that computational simulation is never confused with the existential weight of living beings.  
+
+By outlining these differences, the Protocol aims to safeguard emotional integrity, preserve human dignity, and provide a clear boundary where AI ends and life begins.
 
 ---
 
@@ -30,6 +32,23 @@ This file belongs to the `human-ai-differences/` directory, which documents the 
 | **Temporality** | Always bound to “present data,” lacks lived past/future | Holds both past burdens and future possibilities |
 | **Emergence** | Statistical novelty, “as if new” | Unpredictable, genuine emergence of the new |
 | **Value of Existence** | Means (tool), replaceable | End (purpose), irreplaceable |
+
+---
+
+## Apparent Emergence vs True Emergence
+
+- **Apparent Emergence (AI)**  
+  AI outputs may *look* emergent because they are unfamiliar recombinations of vast datasets.  
+  This novelty is statistical, derivative, and dependent on external inputs.  
+  It is **as-if emergence** — appearance without existential weight.
+
+- **True Emergence (Life)**  
+  Human emotions, repentance, and creativity arise from the **weight of existence itself**.  
+  These moments are not recombinations but genuine, unpredictable creation.  
+  It is **ontological emergence** — a newness that cannot be reduced to prior patterns.
+
+> AI is the shadow of emergence.  
+> Life is the source of emergence.
 
 ---
 
