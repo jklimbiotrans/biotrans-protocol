@@ -108,11 +108,9 @@ Even if AI has no intent or consciousness, **humans project** emotions and moral
 
 ---
 
-## 🔗 Related Documents
+🔗 Related Documents
+- [README](README.md)
+- [AI vs Life – Core Differences](ai-vs-life_differences.md)
 
-- `/human-ai-differences/README.md`
+"The moment we believe a machine can repent is the moment we erase the meaning of conscience." — Biotrans Protocol
 
----
-
-> "The moment we believe a machine can repent is the moment we erase the meaning of conscience."
-> — Biotrans Protocol
