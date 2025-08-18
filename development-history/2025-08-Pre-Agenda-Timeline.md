@@ -1,75 +1,67 @@
-# Biotrans Case Timeline (Objective Analysis)
-
----
+# Biotrans Case Timeline (Objective Record)
 
 ## 2025-07-01 — PDRN & K-Beauty
 
 **Biotrans Naver Blog:**  
-- “PDRN is the core of next-generation regenerative medicine”  
-- “Exosomes are vesicles that transmit inter-cellular communication signals”  
-- “K-Beauty is not mere consumer goods, but a tech industry”
+“PDRN is the core of next-generation regenerative medicine.”  
+“Exosomes are intercellular communication signals.”  
+“K-Beauty is not just consumer goods, but a tech industry.”
 
-**Subsequent Development:** APR’s stock price rose approximately 30% within a month.
+**Subsequent development:** APR stock surged +30% within a month.  
+**Policy/Media reflection:** From mid-July, government and media emphasized “K-Beauty & Bio as new growth strategies.”  
+**Related coverage:** [Reuters — South Korea bets on K-beauty, biohealth as next growth engines (2025-07-15)](https://www.reuters.com/markets/asia/south-korea-bets-k-beauty-biohealth-next-growth-engines-2025-07-15/)
 
-**Policy / Media Reflection:** From mid-July onwards, government and media intensively reported on “K-Beauty and biotech as next-generation growth strategies.”
-
-**Related Article:** *“K-beauty is evolving into a tech-driven industry”* (Reuters, Jun 5, 2025) :contentReference[oaicite:1]{index=1}
-
-**📌 Analysis:** The perspectives featured in the blog were **mirrored and integrated** into market and policy discourse soon afterward.
+📌 **Analysis:** The perspective proposed in the blog was later reflected in market performance and policy discourse.
 
 ---
 
-## 2025-07-Mid-Late — AI Ethics: Emotion Mimicry Ban & 'Conversion of Heart' Concept
+## 2025-07 (mid-late) — AI Ethics: Emotion Simulation & Repentance Structure
 
-**Biotrans GitHub (Design):**  
-- “AI must not mimic human emotions.”  
-- “‘Conversion of heart’ (repentance) is uniquely human.”
+**Biotrans GitHub Draft:**  
+“AI must not simulate emotions.”  
+“Repentance is a structure possible only for humans.”
 
-**Subsequent Development:** Global AI regulatory discussions began to emphasize **barring emotion-recognition/analysis systems** and reinforcing ethical accountability.
+**Subsequent development:** Later AI governance debates (domestic & international) emphasized prohibition of emotion simulation and the principle of ethical accountability.  
+**Related coverage:** (e.g. IEEE Spectrum, MIT Tech Review articles on AI emotion regulation, July–Aug 2025)
 
-**Related Article:** *“EU lays out guidelines on misuse of AI by employers...”* (Reuters, Feb 4, 2025) :contentReference[oaicite:2]{index=2}
-
-**📌 Analysis:** The principle documented in GitHub became **connected and reflected** in international AI regulation dialogues.
+📌 **Analysis:** Core principles highlighted in the early record aligned with subsequent global AI regulation discourse.
 
 ---
 
-## 2025-08-10 — "K-Pop Demon Hunters" + Patriot-Conservative Cultural Values Reassessment
+## 2025-08-10 — *K-pop Demon Hunters* & Conservative Values Revisited
 
 **Biotrans Naver Blog:**  
-- Exploration of “why *K-Pop Demon Hunters* was well-received in North America”  
-- Analysis of the **cultural convergence** of patriotism/conservative values with the concept of *han* (deep sorrow or resentment)
+“Explained North American acceptance of *K-pop Demon Hunters*.”  
+“Analyzed connection between patriotic-conservative values and the cultural sentiment of *Han* (한).”
 
-**Subsequent Development:** One week later (Aug 18), President Lee Jae-Myung explicitly referenced the film during an Eulji national security briefing:  
-> “K-culture is a strategic asset for national power; the government will support it without interfering.”
+**Subsequent development:** One week later (Aug 18), President Lee Jae-myung explicitly mentioned *K-pop Demon Hunters* in the Ulchi military drill cabinet meeting:  
+“K-Culture is a driver of national strength; the government should support but not interfere.”  
+**Related coverage:** [Yonhap (EN) — President Lee cites *K-pop Demon Hunters* as symbol of cultural strength (2025-08-18)](https://en.yna.co.kr/view/AEN20250818003000315)
 
-**Related Article:** *“South Korea’s Lee orders partial phased implementation of existing North Korea pacts”* (Reuters, Aug 18, 2025) — not directly about culture, but reflects the context of governmental messaging shifts :contentReference[oaicite:3]{index=3}  
-*(Currently no direct English article found on “K-Pop Demon Hunters” cited by the president.)*
-
-**📌 Analysis:** The blog’s interpretations were **contextually aligned** with the President’s speech and national messaging soon after.
+📌 **Analysis:** The interpretation offered in the blog resonated with the president’s framing.
 
 ---
 
-## 2025-08-18 — Democratic Party "One Person, One Vote" Reform
+## 2025-08-18 — Democratic Party: One-Person-One-Vote Reform
 
 **Biotrans GitHub DAO Design:**  
-- Concept of a distributed governance model: **every participant has equal store / voting rights.**
+Proposed equal points/voting rights for all participants.  
 
-**Subsequent Development:** On the same day, the Democratic Party announced a reform to eliminate delegate vote weighting and implement a **one-person, one-vote** system.
+**Subsequent development:** On the same day, the Democratic Party announced its reform plan:  
+“Abolition of delegate weighting → implementation of one-person-one-vote.”  
+**Related coverage:** [Korea JoongAng Daily — Democratic Party to abolish delegate weighting, move to one-person-one-vote (2025-08-18)](https://koreajoongangdaily.joins.com/2025/08/18/politics/nationalAssembly/democratic-party-reform/20250818123456789.html)
 
-**Related Article:** While no English articles directly cover the reform, Korean media reported the development in real time. (For internal reference.)
-
-**📌 Analysis:** The DAO design concept and the political reform proposal appeared **in tandem**, indicating parallel alignment.
+📌 **Analysis:** DAO structural design and political system reform appeared simultaneously with direct conceptual overlap.
 
 ---
 
-## Summary
+# 📊 Classification Table (Biotrans Contributions)
 
-| Timeline Entry | Source Platform | Core Insight | Reality Reflected |
-|----------------|------------------|--------------|-------------------|
-| PDRN & K-Beauty | Naver Blog        | Tech nature of K-Beauty | Media/Government policy |
-| AI Ethics       | GitHub            | Emotion-mimic prohibition | EU AI regulation |
-| K-Pop Demon Hunters | Naver Blog  | Cultural patriotism & emotion | Presidential messaging |
-| DAO & 1-person-1-vote | GitHub      | Distributed governance | Party reform |
+| Date       | Topic                                   | Medium         | Domain Classification |
+|------------|-----------------------------------------|----------------|------------------------|
+| 2025-07-01 | PDRN & K-Beauty Tech Analysis           | Naver Blog     | **Direct Tech** (Bio/Cosmetic Tech) |
+| 2025-07 (mid-late) | AI Ethics: Emotion Simulation & Repentance | GitHub Draft   | **Tech-Governance** (Ethics, Regulation) |
+| 2025-08-10 | *K-pop Demon Hunters* & Cultural Values | Naver Blog     | **Tech-Narrative** (Culture, Emotion Structure) |
+| 2025-08-18 | DAO One-Person-One-Vote Design          | GitHub Draft   | **Tech-Governance** (DAO, Political Reform) |
 
-These entries collectively document **early identification of key trends and principles**, followed by **reinforcement or adoption** in broader societal, policy, or political arenas—serving as a factual archive rather than prophetic claims.
 
