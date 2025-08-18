@@ -111,7 +111,15 @@ so that AI development ultimately contributes to human flourishing.
 
 ## 📜 License  
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
-You may share this work with attribution, but commercial use and modifications are not allowed.  
+This project is dual-licensed:  
 
-For the full license text, see: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+1. **Biotrans License v1.0 (Ethical Use License)**  
+   Preserves the original ethical intent of this work.  
+   Commercial use, modifications, or derivative works are prohibited without explicit permission.  
+
+2. **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
+   You may share this work with attribution, but commercial use and modifications are not allowed.  
+
+For the full license texts, see:  
+- [Biotrans License v1.0](./LICENSE.md)  
+- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
