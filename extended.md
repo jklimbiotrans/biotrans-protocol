@@ -12,14 +12,14 @@ Each folder contains a distinct philosophical or structural component that suppo
 
 ```bash
 biotrans-protocol/
-├── README.md               ← Overview of the protocol and directory map
-├── constitution/           ← Immutable ethical laws and repentance logic
-├── ethics-charter/         ← Emotion simulation bans, AI safety, anti-posthumanism
-├── exist-vs-live/          ← Philosophical reflections on what it means to live
-├── human-ai-differences/   ← Ontological and moral boundary between humans and AI
-├── philosophy/             ← Conscience, suffering, repentance, transformation
+├── README.md               ← Overview of the protocol and ethical principles
 ├── credits/                ← Contributors, references, acknowledgments
-├── appendix/               ← Fallback rules, experiments, simulation logs
+├── development-history/    ← Logs and criteria documenting the protocol’s evolution
+├── ethics-charter/         ← Ethical declarations: AI safety, emotion-simulation bans
+├── exist-vs-live/          ← Reflections on existence vs living (God, life, AI, meaning)
+├── human-ai-differences/   ← Boundaries between humans and AI (emotion, repentance, responsibility)
+├── philosophy/             ← Foundational frameworks (conscience, suffering, transformation, emotion assetization)
+├── protocol/               ← Draft specifications & structural rules (repentance/forgiveness logic, safety rails, constitutional principles)
 
 ---
 
