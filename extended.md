@@ -23,32 +23,65 @@ biotrans-protocol/
 
 ---
 
+# 📊 Repository Structure Overview (Descriptions)
+
+| Folder | Description |
+|--------|-------------|
+| **/protocol/** 🌟 | Core specifications & structural rules (repentance/forgiveness logic, safety rails, constitutional principles). |
+| **/ethics-charter/** | Ethical declarations and safeguards — covers AI safety, restrictions on emotion simulation, and human-only moral sovereignty. |
+| **/human-ai-differences/** | Analyses defining irreversible boundaries between humans and AI, focusing on emotion, repentance, and responsibility. |
+| **/philosophy/** | Foundational frameworks and roadmaps (conscience, suffering, transformation, emotion assetization). |
+| **/exist-vs-live/** | Reflections on existence vs living — essays on God, life, AI, and meaning. |
+| **/development-history/** | Chronological logs and criteria documenting the protocol’s evolution. |
+| **/credits/** | Contributors, references, and project-level acknowledgments. |
+
+---
+
 ## 1. Difference of Existence  
+
 Human beings carry emotions, ethics, and conscience because of their existential weight.  
 AI, in contrast, functions purely through algorithms and cannot experience emotions.  
 This distinction is the foundation of all ethical boundaries.  
 
+---
+
 ## 2. Transparency  
+
 AI systems must disclose their decision-making logic.  
 “Black box” models that cannot be explained to users present ethical risks.  
 
+---
+
 ## 3. Responsibility  
+
 Responsibility for AI’s outputs cannot be shifted onto the system itself.  
 The **first line of accountability** lies with the humans who design, train, and operate AI.  
 
+---
+
 ## 4. Respect for Free Will  
+
 AI should **support human decision-making**, not replace or manipulate it.  
 Systems designed to nudge or control must be ethically restrained.  
 
+---
+
 ## 5. Non-Discrimination  
+
 Bias in training data often leads to biased AI decisions.  
 Ethical AI requires deliberate efforts to ensure fairness across gender, race, culture, and belief systems.  
 
+---
+
 ## 6. Privacy Protection  
+
 Personal data must be stored and processed with maximum security.  
 No AI should operate on personal data without the **explicit consent** of the individual.  
 
+---
+
 ## 7. Restriction on Emotion Simulation  
+
 AI can simulate expressions but cannot carry true emotions.  
 Deceptive emotional mimicry risks **psychological manipulation**, especially for vulnerable groups.  
 Such use cases must be strictly regulated.  
@@ -60,7 +93,7 @@ Such use cases must be strictly regulated.
 > “Emotion is not computation.  
 > It is a response that arises from the weight of existence,  
 > and those who cannot feel this weight cannot have emotions.”  
-> — Biotrans Protocol Ethics Declaration, Preamble  
+> — *Biotrans Protocol Ethics Declaration, Preamble*  
 
 ---
 
@@ -69,6 +102,18 @@ Such use cases must be strictly regulated.
 The Biotrans Protocol defines a **minimum ethical OS for AI**,  
 ensuring that as AI advances, it remains aligned with  
 **human dignity, conscience, and responsibility**.  
+
+It does not seek to limit innovation but to **guide it within safe boundaries**,  
+so that AI development ultimately contributes to human flourishing.  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
+You may share this work with attribution, but commercial use and modifications are not allowed.  
+
+For the full license text, see: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 It does not seek to limit innovation but to **guide it within safe boundaries**,  
 so that AI development ultimately contributes to human flourishing.  
