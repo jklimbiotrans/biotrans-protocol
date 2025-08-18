@@ -70,8 +70,10 @@ This declaration is a minimum standard for an **AI Ethical OS**, guiding researc
 ---
 
 ## 📜 License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+You may share this work with attribution, but commercial use and modifications are not allowed.
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
-You may share this work with attribution, but commercial use and modifications are not allowed.  
+For the full license text, see: CC BY-NC-ND 4.0.  
 
-For the full license text, see: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+👉 For detailed contribution rules, see [CONTRIBUTING.md](./CONTRIBUTING.md).
+
