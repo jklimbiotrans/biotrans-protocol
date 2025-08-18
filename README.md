@@ -80,7 +80,7 @@ This project is dual-licensed:
    You may share this work with attribution, but commercial use and modifications are not allowed.  
 
 For the full license texts, see:  
-- [Biotrans License v1.0](./extended/BIOTRANS_LICENSE.md)  
+- [Biotrans License v1.0](./LICENSE.md)  
 - [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
 👉 For detailed contribution rules, see [CONTRIBUTING.md](./CONTRIBUTING.md).
