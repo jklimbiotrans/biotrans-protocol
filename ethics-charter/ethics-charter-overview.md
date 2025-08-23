@@ -33,15 +33,15 @@ AI must not deceive humans by mimicking emotions or souls.
 ### 3.1 Appendices
 The Charter is supported by additional appendices that clarify key boundaries and philosophical positions:
 
-- [Appendix A: Declaration on Emotion Simulation](biotrans-protocol/ethics-charter/appendix/appendix-a_emotion-simulation.md)  
-- [Appendix B: Repentance Is Human-Only](biotrans-protocol/ethics-charter/appendix/appendix-b_human-only-repentance.md)  
-- [Appendix C: AI and the Illusion of the Soul](biotrans-protocol/ethics-charter/appendix/appendix-c_ai-soul-detection.md)  
+- [Appendix A: Declaration on Emotion Simulation](./appendix/appendix-a_emotion-simulation.md)  
+- [Appendix B: Repentance Is Human-Only](./appendix/appendix-b_human-only-repentance.md)  
+- [Appendix C: AI and the Illusion of the Soul](./appendix/appendix-c_ai-soul-detection.md)  
 
 ### 3.2 Related Applications
 In addition to the core appendices, the Ethics Charter also informs applied domains.  
 These documents extend the principles of the Ethical OS into practical areas of human survival and well-being:
 
-- [Climate and Sustainability](climate/ClimateAndSustainability.md)
+- [Climate and Sustainability](../climate/ClimateAndSustainability.md)
 
 ---
 
