@@ -37,7 +37,7 @@ The Charter is supported by additional appendices that clarify key boundaries an
 - [Appendix B: Repentance Is Human-Only](appendix/appendix-b_human-only-repentance.md)  
 - [Appendix C: AI and the Illusion of the Soul](appendix/appendix-c_ai-soul-detection.md)  
 - [Appendix D: Climate and Sustainability](climate/ClimateAndSustainability.md)  
-- [Appendix E: Ethical Use of Hallucination](appendix/appendix-e_hallucination.md)  
+- [Appendix E: Ethical Use of Hallucination](hallucination/appendix-e_hallucination.md)  
 
 ### 3.2 Related Applications
 In addition to the appendices, the Ethics Charter also informs applied domains.  
