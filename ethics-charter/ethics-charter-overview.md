@@ -41,7 +41,7 @@ The Charter is supported by additional appendices that clarify key boundaries an
 In addition to the core appendices, the Ethics Charter also informs applied domains.  
 These documents extend the principles of the Ethical OS into practical areas of human survival and well-being:
 
-- [Climate and Sustainability](../climate/ClimateAndSustainability.md)
+- [Climate and Sustainability](biotrans-protocol/climate/ClimateAndSustainability.md)
 
 ---
 
