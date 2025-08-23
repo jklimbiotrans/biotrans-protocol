@@ -38,6 +38,7 @@ The Charter is supported by additional appendices that clarify key boundaries an
 - [Appendix C: AI and the Illusion of the Soul](appendix/appendix-c_ai-soul-detection.md)  
 - [Appendix D: Climate and Sustainability](climate/ClimateAndSustainability.md)  
 - [Appendix E: Ethical Use of Hallucination](hallucination/appendix-e_hallucination.md)  
+- [Appendix F: AI Progress Timeline](ai/appendix-f_ai_progress-timeline.md)  
 
 ### 3.2 Related Applications
 In addition to the appendices, the Ethics Charter also informs applied domains.  
@@ -51,5 +52,5 @@ The Ethics Charter exists as a **reference point for future generations**.
 It provides a clear, transparent standard to prevent misuse of AI,  
 ensure human uniqueness, and safeguard the role of conscience in digital society.  
 
-The applied documents (e.g., climate, hallucination) demonstrate how the Charter’s principles can guide  
+The applied documents (e.g., climate, hallucination, AI progress) demonstrate how the Charter’s principles can guide  
 **sustainable, humane, and responsible practices** in broader social contexts.
