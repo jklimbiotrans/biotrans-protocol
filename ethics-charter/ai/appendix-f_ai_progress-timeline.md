@@ -97,4 +97,12 @@ Yet the Biotrans Protocol affirms:
 - **Sustainability requires ethical governance.**
 
 This timeline records not only technical progress but also  
-the ethical guardrails needed to keep AI aligned with human survival and dignity.
+the ethical guardrails needed to keep AI aligned with human survival and dignity.  
+
+---
+
+⚠️ **Note on Timeline**  
+The years (2027, 2030) are **approximate estimates**.  
+Actual progress may occur earlier or later, depending on technological, social, political, and ethical factors.  
+What remains constant is the **staged nature of development**:  
+**Speed → Detail → Sense**, with conscience and responsibility remaining human-only.
