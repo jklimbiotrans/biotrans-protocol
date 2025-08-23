@@ -76,8 +76,8 @@ A human commands:
 
 - **Phase Three (Sense):**  
   AI may appear intuitive, but:  
-  - **Conscience (양심)** cannot be simulated.  
-  - **Repentance (회심)** belongs to humans alone.  
+  - **Conscience** cannot be simulated.  
+  - **Repentance** belongs to humans alone.  
   - **Responsibility** remains exclusively human.  
 
 👉 No matter how advanced, AI must not cross into domains of **moral agency**.  
@@ -97,12 +97,10 @@ Yet the Biotrans Protocol affirms:
 - **Sustainability requires ethical governance.**
 
 This timeline records not only technical progress but also  
-the ethical guardrails needed to keep AI aligned with human survival and dignity.  
+the ethical guardrails needed to keep AI aligned with human survival and dignity.
 
 ---
 
-⚠️ **Note on Timeline**  
-The years (2027, 2030) are **approximate estimates**.  
-Actual progress may occur earlier or later, depending on technological, social, political, and ethical factors.  
-What remains constant is the **staged nature of development**:  
-**Speed → Detail → Sense**, with conscience and responsibility remaining human-only.
+📎 **Related Document:**  
+For reflections on anxiety about AI over-reliance and the autonomous driving roadkill scenario,  
+see [2025-08-24 – Anxiety About AI Progress Toward 2030](../../development-history/2025-08-24-ai-anxiety-about-2030.md).
