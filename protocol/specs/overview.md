@@ -83,4 +83,5 @@ All contents of this repository are released as part of the **Biotrans Protocol 
 - Any use for **surveillance, coercion, credit-scoring, or exploitative AI systems is strictly prohibited**.  
 - Commercial applications require prior **explicit consent** from the author(s).  
 
-For full terms, see the [LICENSE.md](./LICENSE.md) file.  
+For full terms, see the [LICENSE.md](../../LICENSE.md) file.
+
