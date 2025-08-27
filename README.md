@@ -97,7 +97,7 @@ Commercial use, modifications, or derivative works are prohibited without explic
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
 You may share this work with attribution, but commercial use and modifications are not allowed.  
 
-👉 For the full license, see [LICENSE.md](../../LICENSE.md).
-👉 For contribution rules, see [CONTRIBUTING.md](../../CONTRIBUTING.md).
+👉 For the full license terms, see [LICENSE.md](https://github.com/jklimbiotrans/biotrans-protocol/blob/main/LICENSE.md).  
+👉 For detailed contribution rules, see [CONTRIBUTING.md](https://github.com/jklimbiotrans/biotrans-protocol/blob/main/CONTRIBUTING.md).
 
 
