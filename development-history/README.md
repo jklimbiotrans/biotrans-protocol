@@ -43,6 +43,10 @@ This may correspond to:
 
 In all cases, the purpose is to preserve a clear chronological trail of the Biotrans Protocol’s development.  
 
+🕒 **Time Zone Note**  
+Dates are, unless otherwise noted, based on **KST (Korea Standard Time)**.  
+Commit timestamps on GitHub may appear in UTC, but the underlying records follow Korean local time.  
+
 ---
 
 ## ⚖️ Principles
