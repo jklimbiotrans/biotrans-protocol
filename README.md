@@ -87,19 +87,16 @@ This declaration is a minimum standard for an AI Ethical OS, guiding researchers
 
 ---
 
-## 📜 License
-
+📜 License
 This project is dual-licensed:
 
 **Biotrans License v1.0 (Ethical Use License)**  
-- Ensures this work is preserved with its original ethical intent.  
-- Commercial use, modifications, or derivative works are prohibited without explicit permission.  
+Ensures this work is preserved with its original ethical intent.  
+Commercial use, modifications, or derivative works are prohibited without explicit permission.  
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
-- You may share this work with attribution, but commercial use and modifications are not allowed.  
+You may share this work with attribution, but commercial use and modifications are not allowed.  
 
-For the full license texts, see:  
-- [Biotrans License v1.0](./LICENSE-Biotrans.md)  
-- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+👉 For the full license texts, see [LICENSE.md](../../LICENSE.md).  
+👉 For contribution rules, see [CONTRIBUTING.md](../../CONTRIBUTING.md).
 
-👉 For detailed contribution rules, see **CONTRIBUTING.md**.
