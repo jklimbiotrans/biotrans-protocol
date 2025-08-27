@@ -82,3 +82,9 @@ All decision-making algorithms must follow three principles:
 This extended guideline elevates robot ethics beyond **minimizing accidents**.  
 It ensures that robots actively **protect and support the most vulnerable humans**,  
 building systems that are not only safe, but also ethically responsible.  
+
+---
+
+For deeper discussion, see Principle 3 ("Protection of the Weakest") in the  
+[AI Safety Principles](../ai-safety-principles.md).
+
