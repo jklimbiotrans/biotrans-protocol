@@ -37,3 +37,9 @@ Critical systems require the consensus of at least three qualified experts and r
 ## Conclusion  
 The five principles—**Conscience, Universality, Protection of the Weakest, Transparency, and Human Oversight**—are not mere guidelines.  
 They must be upheld as **constitutional foundations** for humanity’s relationship with AI.  
+
+---
+
+📌 For more detailed explanations, practical measures, and extended discussion,  
+please see [AI Safety Principles – Extended](./ai-safety-principles-extended.md).
+
