@@ -86,4 +86,5 @@ building systems that are not only safe, but also ethically responsible.
 ---
 
 For deeper discussion, see Principle 3 ("Protection of the Weakest") in the  
-[AI Safety Principles](biotrans-protocol/ethics-charter/ai/ai-safety-principles.md).
+[AI Safety Principles](../ai/ai-safety-principles.md).
+
