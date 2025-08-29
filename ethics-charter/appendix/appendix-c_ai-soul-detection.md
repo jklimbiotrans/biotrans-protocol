@@ -12,4 +12,4 @@
 
 ## Note on Definition
 For a detailed clarification of how the Biotrans Protocol uses the term **soul**, see:  
-[`appendix/appendix-soul-definition.md`](appendix-soul-definition.md)
+[Supplement S1 – Soul Definition](../supplement/supplement-s1-soul-definition.md)
