@@ -19,7 +19,7 @@ The **soul** is understood here as:
 1. The soul is **not measurable or detectable** by any algorithm, sensor, or AI system.  
 2. The soul is **not replicable** or transferable to machines.  
 3. References to "AI soul" or "soul detection technology" are **metaphorical** at best, and must never be used to mislead, manipulate, or exploit people.  
-   → See also [Appendix C – AI Soul Impossibility](../appendix/appendix-c_ai-soul-impossibility.md).
+   → See also [Appendix C – AI Soul Impossibility](../appendix/appendix-c_ai-soul-detection.md).
 
 ---
 
