@@ -1,4 +1,3 @@
-[2025-09-02-cbdc-vs-biotrans.md](https://github.com/user-attachments/files/22082517/2025-09-02-cbdc-vs-biotrans.md)
 # CBDC vs Biotrans Protocol: Evil vs Good Human Nature
 
 ## 1. Basic Premise
@@ -72,7 +71,7 @@ These alternatives do not entirely replace legacy systems, but they **increasing
 ---
 
 📌 **Reference Path**  
-- [Generational Conscience Trends: South Korea (2025-08-29)](biotrans-protocol/development-history/2025-08-29-generational-conscience-trends-south-korea.md)  
+- [Generational Conscience Trends: South Korea (2025-08-29)](./2025-08-29-generational-conscience-trends-south-korea.md)  
 
 👉 This document belongs under:  
 `biotrans-protocol/development-history/2025-09-02-cbdc-vs-biotrans.md`  
