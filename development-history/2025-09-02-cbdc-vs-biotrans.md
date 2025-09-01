@@ -1,3 +1,4 @@
+[2025-09-02-cbdc-vs-biotrans.md](https://github.com/user-attachments/files/22082517/2025-09-02-cbdc-vs-biotrans.md)
 # CBDC vs Biotrans Protocol: Evil vs Good Human Nature
 
 ## 1. Basic Premise
@@ -39,14 +40,28 @@ This is not about blindly worshiping Eastern philosophy.
 
 ---
 
-## 4. Future Outlook (2035–2050)
+## 4. Modern Capitalism and Emerging Alternatives
+Modern capitalism has historically operated on the **basis of human selfishness and desire**. While this system has created growth, it also leads to recurring problems such as:  
+- Economic cycles and instability  
+- Distortions in resource allocation  
+- Widening inequality and polarization  
+
+In response, **new alternatives are emerging**, aligned with the spirit of free will, creativity, and decentralization:  
+- **YouTube and digital content creation** as decentralized, creativity-driven economic activity.  
+- **Distributed, voluntary voting and good-deed recognition systems** that reward positive actions in a bottom-up way.  
+
+These alternatives do not entirely replace legacy systems, but they **increasingly complement or substitute** traditional mechanisms, reflecting the **evolving needs of a new era**.  
+
+---
+
+## 5. Future Outlook (2035–2050)
 - **By 2035**: AI will assist in governance, justice, infrastructure, and traffic. Human actions, emotions, and even **inner motivations** may be inferred with high probability.  
 - **The irony**: The more everything is monitored, the more valuable **choosing good through free will** becomes.  
 - **By 2050**: Free creativity and voluntary virtue will be essential. A **transitional coexistence of CBDC and Biotrans Protocol** will be needed.  
 
 ---
 
-## 5. Conclusion
+## 6. Conclusion
 - A society cannot survive on **control (CBDC)** alone.  
 - Nor can it rely solely on **free will (Biotrans Protocol)**.  
 - Only through **complementary coexistence** can we preserve:  
