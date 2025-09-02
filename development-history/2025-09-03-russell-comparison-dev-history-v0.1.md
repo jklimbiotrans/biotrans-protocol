@@ -65,9 +65,9 @@ This history was drafted after watching Professor **Stuart J. Russell’s lectur
 ---
 
 ## 7. Future Directions
-- **Keep experimental records** in the development-history folder.  
-- **Separate formal declarations** into `ethics-charter.md`.  
-- **Specification work** will later move into `specs/biotrans-protocol-v0.1.en.md`.  
+- **Keep experimental records** in the `development-history/` folder.  
+- **Separate formal declarations** into the `ethics-charter/` folder.  
+- **Specification work** will later be organized inside the `protocol/specs/` folder.  
 - **Adjust after experiments:** Once real-world trials are conducted,  
   the protocol and algorithms may require **refinement, correction, or rebalancing**.  
 
