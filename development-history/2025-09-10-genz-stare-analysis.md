@@ -2,10 +2,11 @@
 
 **Description**  
 This document analyzes the “Gen Z Stare” phenomenon (as of September 2025) as part of the Biotrans Protocol development history.  
-It examines structural causes such as dopamine dependency, pandemic effects, economic insecurity, and online-dominant upbringing.  
-The analysis also includes hiring observations of early Gen Z (2004–2005) showing defensive dishonesty, and highlights how GDP growth does not automatically ensure well-being.  
-Looking ahead, it raises concern that as AI begins to mimic human emotions, language, and expressions, a new generation with weakened metacognition may emerge.  
-The purpose of this document is archival and conceptual: to preserve evidence of generational emotional conditions and inform the design of ethical structures for the Biotrans Protocol.  
+It explores structural causes such as dopamine dependency, the pandemic effect, economic insecurity, meme reinforcement, and online-dominant upbringing.  
+Additional notes include hiring observations of early Gen Z (2004–2005) showing defensive dishonesty, suggesting sociocultural pressures to never appear vulnerable.  
+The document also raises a future concern: as AI begins to mimic human emotions, language, and facial expressions, a new generation with weakened metacognition may emerge,  
+highlighting the urgent need to rethink how society teaches sociality, manners, and humanity itself.  
+Its purpose is archival and conceptual — to preserve evidence of generational emotional conditions and guide ethical design within the Biotrans Protocol.  
 
 ---
 
