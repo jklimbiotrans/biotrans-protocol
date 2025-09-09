@@ -84,7 +84,7 @@ Though it began as a meme, it may represent deeper signs of **emotional demobili
   but feel socially pressured to **never lose ground**.  
   As a result, tactical dishonesty becomes normalized as a survival strategy.  
 
-- **Systemic challenge**: GDP growth (Korea > $30k per capita, U.S. nearing $100k) coexists with poverty, drug addiction, and mental health crises.  
+- **Systemic challenge**: GDP growth (South Korea > $30k per capita, U.S. nearing $100k) coexists with poverty, drug addiction, and mental health crises.  
   → Economic progress alone does not guarantee human well-being.  
 
 - **Future concern**:  
@@ -115,3 +115,4 @@ It is interpretive and archival, not predictive.
 The purpose is to preserve evidence of generational emotional conditions for the design of the Biotrans Protocol.  
 
 ---
+
