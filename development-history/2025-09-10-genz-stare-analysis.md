@@ -72,7 +72,7 @@ Though it began as a meme, it may represent deeper signs of **emotional demobili
 ## Interpretation and Ethical Implication
 
 - **Ethical link**: Gen Z Stare aligns with observations in  
-  [Generational Conscience Trends in South Korea (2025)](/2025-08-29-generational-conscience-trends-south-korea.md)  
+  [Generational Conscience Trends in South Korea (2025)](/development-history/2025-08-29-generational-conscience-trends-south-korea.md)  
   where younger generations show higher rates of “conscience rejection.”  
   → Both ethical avoidance and emotional blankness reflect **structural demobilization**.  
 
@@ -105,13 +105,9 @@ Though it began as a meme, it may represent deeper signs of **emotional demobili
 
 ## 📎 Reference
 
-- [Generational Conscience Trends in South Korea (2025)](/2025-08-29-generational-conscience-trends-south-korea.md)  
+- [Generational Conscience Trends in South Korea (2025)](/development-history/2025-08-29-generational-conscience-trends-south-korea.md)  
 
 ---
 
 **Final Note**  
-This document represents observations as of **September 10, 2025 (KST)**.  
-It is interpretive and archival, not predictive.  
-The purpose is to preserve evidence of generational emotional conditions for the design of the Biotrans Protocol.  
-
----
+This document represents observations as of **September 1**
