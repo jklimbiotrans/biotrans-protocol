@@ -115,4 +115,3 @@ It is interpretive and archival, not predictive.
 The purpose is to preserve evidence of generational emotional conditions for the design of the Biotrans Protocol.  
 
 ---
-
