@@ -72,7 +72,7 @@ Though it began as a meme, it may represent deeper signs of **emotional demobili
 ## Interpretation and Ethical Implication
 
 - **Ethical link**: Gen Z Stare aligns with observations in  
-  [Generational Conscience Trends in South Korea (2025)](biotrans-protocol/development-history/2025-08-29-generational-conscience-trends-south-korea.md)  
+  [Generational Conscience Trends in South Korea (2025)](/2025-08-29-generational-conscience-trends-south-korea.md)  
   where younger generations show higher rates of “conscience rejection.”  
   → Both ethical avoidance and emotional blankness reflect **structural demobilization**.  
 
@@ -84,7 +84,7 @@ Though it began as a meme, it may represent deeper signs of **emotional demobili
   but feel socially pressured to **never lose ground**.  
   As a result, tactical dishonesty becomes normalized as a survival strategy.  
 
-- **Systemic challenge**: GDP growth (South Korea > $30k per capita, U.S. nearing $100k) coexists with poverty, drug addiction, and mental health crises.  
+- **Systemic challenge**: GDP growth (Korea > $30k per capita, U.S. nearing $100k) coexists with poverty, drug addiction, and mental health crises.  
   → Economic progress alone does not guarantee human well-being.  
 
 - **Future concern**:  
@@ -105,7 +105,7 @@ Though it began as a meme, it may represent deeper signs of **emotional demobili
 
 ## 📎 Reference
 
-- [Generational Conscience Trends in South Korea (2025)](biotrans-protocol/development-history/2025-08-29-generational-conscience-trends-south-korea.md)  
+- [Generational Conscience Trends in South Korea (2025)](/2025-08-29-generational-conscience-trends-south-korea.md)  
 
 ---
 
