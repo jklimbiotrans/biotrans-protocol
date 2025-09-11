@@ -1,14 +1,3 @@
-title: AI Ethics as a Safety Net for the Labor Market
-description: >
-  This document analyzes why ethics must serve as the structural safety net in the age of AI. 
-  It highlights how automation disrupts entry-level and mid-career jobs, creates risks of 
-  social division and loss of dignity, and demands fairness, transparency, and intergenerational 
-  justice. The analysis covers labor market, socio-cultural, and institutional dimensions, and 
-  proposes Biotrans Protocol as an alternative ethical framework linking information integrity, 
-  the 善點 (Good-Point) system, and the repentance principle.
-version: 1.0
-status: Draft
-date: 2025-09-12
 # AI Ethics as a Safety Net for the Labor Market  
 *(Biotrans Protocol – Development Analysis)*
 
