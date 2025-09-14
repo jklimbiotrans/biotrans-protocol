@@ -34,6 +34,15 @@
 - **Key Transition**: AI popularization, blockchain standardization, CBDCs and stablecoins rise as new “sovereign assets”  
 - **Result**: U.S. leads in AI but faces internal division, Multipolar balance: U.S. tech, China AI/industry, EU finance  
 
+### Background: Why Data Became Power (2020s)
+| Era        | Driver                        | Power Form                         |
+|------------|-------------------------------|------------------------------------|
+| Gold       | Physical scarcity             | Central banks, bonds               |
+| Oil        | Industrial scarcity           | Energy alliances, petro-dollar     |
+| Data       | Digital scarcity (access, trust, scale) | AI models, platforms, CBDCs |
+
+*(For deeper background, see OECD/IMF reports on “Data as the new oil”)*  
+
 ---
 
 ## 5. Implication for Biotrans Protocol
