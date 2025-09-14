@@ -1,7 +1,7 @@
 ---
-title: From AI Capital to an Ethical Vaccine: My Principles and Future Plans
+title: "From AI Capital to an Ethical Vaccine: My Principles and Future Plans"
 date: 2025-09-15
-description: Reflections on the vast capital invested in AI, the paradox of its low-cost public distribution, and what this reveals about global leadership. The document draws an analogy to penicillin, and sets out the author’s own future role: not a technical genius, but a conscience-driven architect aiming to create an “ethical vaccine” through content, ethics, and sustainable frameworks in the AI era.
+description: "Reflections on the vast capital behind AI and its low-cost public distribution, with an analogy to penicillin as an ethical vaccine. The document also outlines the author’s principles and future plans: to act not as a technical genius but as a conscience-driven architect, focusing on content, ethics, and sustainable frameworks in the AI era."
 ---
 
 # From AI Capital to an Ethical Vaccine: My Principles and Future Plans
