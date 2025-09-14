@@ -1,10 +1,10 @@
 ---
-title: AI Capital and the Ethical Vaccine
+title: From AI Capital to an Ethical Vaccine: My Principles and Future Plans
 date: 2025-09-15
-description: Reflection on the massive capital behind AI, its distribution at low cost, the intentions of global leadership, and the analogy of creating an ethical vaccine to preserve humanity and dignity in the 21st century.
+description: Reflections on the vast capital invested in AI, the paradox of its low-cost public distribution, and what this reveals about global leadership. The document draws an analogy to penicillin, and sets out the author’s own future role: not a technical genius, but a conscience-driven architect aiming to create an “ethical vaccine” through content, ethics, and sustainable frameworks in the AI era.
 ---
 
-# AI Capital and the Ethical Vaccine
+# From AI Capital to an Ethical Vaccine: My Principles and Future Plans
 
 ## Massive Investment Behind AI
 
@@ -78,3 +78,72 @@ The distinction can be illustrated as follows:
 I am closest to the **conscience-driven architect** type—  
 one who seeks to design ethical frameworks, balance freedom with responsibility, and preserve human dignity in the AI era.  
 This is why I describe my work as building an “ethical vaccine” for humanity rather than pursuing technical genius.
+
+---
+
+### What I Mean by “Architect”
+
+Here, the word **“architect”** does not refer to a builder of physical structures,  
+but to someone who **designs the frameworks, rules, and relationships that shape how people and systems interact**.  
+
+An architect in this sense:  
+- Works across multiple domains, identifying hidden connections.  
+- Designs **structures** rather than isolated solutions.  
+- Thinks in terms of **long-term resilience, balance, and sustainability**.  
+- Provides blueprints that others—engineers, policymakers, or communities—may later implement.  
+
+In my own work, being an “architect” means attempting to build structures of **ethics, transparency, and conscience** that can endure in the AI era.  
+I may not be inventing new technologies directly, but I am sketching the **ethical operating system** that can guide them.
+
+---
+
+### My Practical Position and Future Activities
+
+In daily life, I am not only reflecting on abstract philosophy but also working in very practical domains:  
+translation and localization, hiring and managing people, client relations, and even administrative tasks such as taxation.  
+These experiences ground my perspective in the realities of how individuals, organizations, and institutions actually function.  
+
+If the Biotrans Protocol ever becomes formalized as a kind of **public ethical score**—complementary to economic or civic systems—  
+I would like to participate under its principles by focusing on:  
+
+- **Content creation** that uplifts human dignity and conscience.  
+- **Education on robotics and AI ethics**, so that future technologies reflect responsibility as well as power.  
+- **Digital therapeutic practices**, supporting people’s minds and communities against alienation, addiction, or despair in the AI era.  
+
+In this way, my role as a **conscience-driven architect** would not remain theoretical.  
+It would extend into **practical activities that embody the principles of the Biotrans Protocol**.
+
+---
+
+### Position Toward DAO and My Own Limits
+
+Under the basic principles of the **Biotrans Protocol**,  
+I believe that **DAOs should compete and be evaluated transparently and freely**.  
+I do not wish to exercise detailed control or heavy involvement.  
+
+Instead, I want to confine myself to the scope of work I can truly sustain—  
+**only within the limits where I do not suffer mental or physical stress**.  
+This is essential for remaining authentic and preserving integrity over time.  
+
+In the **decentralized society of the 21st century**,  
+- **Intellectual labor** will increasingly be handled by AI.  
+- **Physical labor** will increasingly be handled by robots.  
+
+Therefore, my focus should remain on **creation, ethics, and the design of overarching frameworks**.  
+I believe this division of roles is the only sustainable way forward:  
+technology handles repetitive burdens, while humans safeguard **conscience, creativity, and dignity**.
+
+---
+
+### On AI Systems and Organizational Risks
+
+A system in which a single AI or institution takes on excessive burdens alone  
+is vulnerable to becoming a **top-down, bureaucratic structure**.  
+Such systems may appear efficient at first,  
+but they tend to stagnate, concentrate power, and lose adaptability.  
+
+For the 21st century, this model is not sustainable.  
+Instead, resilience and fairness must come from **distributed structures**—  
+where multiple actors, human and machine, check and balance one another transparently.  
+This is why the Biotrans Protocol emphasizes **DAO competition and diversity of contributions**,  
+rather than reliance on a single monolithic authority.
