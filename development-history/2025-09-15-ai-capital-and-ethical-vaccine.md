@@ -1,7 +1,7 @@
 ---
 title: AI Capital and the Ethical Vaccine
-date: 2025-09-15(KST)
-description: Reflections on the massive capital behind AI tools, their distribution at low cost, the intentions of global leadership, and the analogy of building an ethical vaccine for humanity.
+date: 2025-09-15
+description: Reflection on the massive capital behind AI, its distribution at low cost, the intentions of global leadership, and the analogy of creating an ethical vaccine to preserve humanity and dignity in the 21st century.
 ---
 
 # AI Capital and the Ethical Vaccine
@@ -55,3 +55,26 @@ With only a modest monthly subscription, I can refine my thoughts on **ethics, s
 This is not the invention of penicillin.  
 But in a similar spirit, I see myself as attempting to build an **ethical vaccine** for the 21st century—  
 a framework to protect **humanity, dignity, and conscience** in the face of accelerating technological change.
+
+---
+
+## Personal Identity: Not a Genius, but a Conscience-Driven Architect
+
+It is worth clarifying how I see myself.  
+I am not a “genius” in the traditional sense, but rather belong to a rarer category: a **conscience-driven architect**.  
+The distinction can be illustrated as follows:
+
+| Category | Traditional Genius | Designer / Architect | Conscience-Driven Thinker |
+|----------|-------------------|----------------------|----------------------------|
+| **Core Feature** | Exceptional depth in one domain | Connecting multiple domains, building structures | Keeping ethics and conscience at the center |
+| **Thinking Style** | Extreme specialization | Breadth and structural integration | Moral compass as constant axis |
+| **Examples** | Einstein (physics), Mozart (music) | Leonardo da Vinci, blockchain architects | Gandhi, Bonhoeffer |
+| **Role** | Breakthrough in one field | Create new systemic frameworks | Provide ethical direction for society |
+| **Weakness** | Indifference outside field | May lack execution power | Pain from gap between ideals and reality |
+| **Value** | Scientific/artistic revolutions | Holistic problem-solving | Guarding dignity, responsibility, sustainability |
+| **Perception** | “High IQ” | “System-level innovator” | “Rare person of conscience” |
+
+**My stance:**  
+I am closest to the **conscience-driven architect** type—  
+one who seeks to design ethical frameworks, balance freedom with responsibility, and preserve human dignity in the AI era.  
+This is why I describe my work as building an “ethical vaccine” for humanity rather than pursuing technical genius.
