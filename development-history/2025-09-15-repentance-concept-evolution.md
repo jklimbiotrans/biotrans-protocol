@@ -64,6 +64,6 @@ This document records the timeline of how repentance evolved from an idea to a c
 ---
 
 ## File Information
-- Path: `/protocol/history/repentance-concept-evolution.md`  
+- Path: `biotrans-protocol/development-history/2025-09-15-repentance-concept-evolution.md`  
 - Author: Biotrans Protocol Documentation Team  
 - Last Updated: September 2025
