@@ -4,7 +4,7 @@
 ## Description
 This document records the developmental history of the Biotrans Protocol from its earliest team-based translation practices before 2018 to its envisioned long-term outlook beyond the 2040s.  
 It traces how everyday practices—such as autonomy, quick payment, orientation, and repentance—evolved into a broader ethical framework.  
-The history includes pre-blockchain experiments, recognition of data scarcity in the AI era, the hidden risks of open systems as data absorption, adjustments under inflation in 2025, reflections on authority shifts in the 21st century, and the cultural role of South Korea.  
+The history includes pre-blockchain experiments, recognition of data scarcity in the AI era, the risks of open systems as data absorption, direct awareness of tool-assisted development, adjustments under inflation in 2025, reflections on shifting forms of authority in the 21st century, and the cultural role of South Korea.  
 Finally, it projects the protocol into the future, outlining renewal cycles designed for 500 years of ethical sustainability.  
 
 ---
@@ -63,6 +63,12 @@ Finally, it projects the protocol into the future, outlining renewal cycles desi
 - These records eventually concentrate in the hands of the platform operators—most often U.S.-based corporations or institutions.  
 - What appears to be global participation therefore becomes a **process of standardization through data absorption**, where rare and context-rich data are transformed into new foundations for global norms.  
 - This dynamic shows why openness, while valuable, must also be balanced with ethical safeguards that prevent cultural and philosophical contributions from being flattened into a single hegemonic database.  
+
+#### Awareness of Tool Usage
+- Even in the development of this Ethical OS, I am using tools such as ChatGPT.  
+- I fully recognize that these interactions are also recorded as contextual data, becoming part of broader datasets managed by external platforms.  
+- This awareness underscores the central theme: **rare data gains value only when supported by genuine ethical action**, and even tool-assisted reflections must be treated as part of that process.  
+- By explicitly acknowledging this, the Biotrans Protocol positions itself not in denial of data absorption, but as an effort to ensure that the meaning of such data is preserved with integrity.  
 
 ---
 
