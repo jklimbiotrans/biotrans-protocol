@@ -4,7 +4,8 @@
 ## Description
 This document records the developmental history of the Biotrans Protocol from its earliest team-based translation practices before 2018 to its envisioned long-term outlook beyond the 2040s.  
 It traces how everyday practices—such as autonomy, quick payment, orientation, and repentance—evolved into a broader ethical framework.  
-The history includes pre-blockchain experiments, recognition of data scarcity in the AI era, the risks of open systems as data absorption, direct awareness of tool-assisted development, adjustments under inflation in 2025, reflections on shifting forms of authority in the 21st century, and the cultural role of South Korea.  
+The history includes pre-blockchain experiments, recognition of data scarcity in the AI era, the hidden risks of open systems as data absorption, explicit awareness that even tool-assisted development (e.g., using ChatGPT) produces contextual data, and the distinction between ideas and verified actions.  
+It further covers adjustments under inflation in 2025, reflections on shifting forms of authority in the 21st century, the cultural role of South Korea, and the unique value of human pain, life, and free will.  
 Finally, it projects the protocol into the future, outlining renewal cycles designed for 500 years of ethical sustainability.  
 
 ---
@@ -40,7 +41,7 @@ Finally, it projects the protocol into the future, outlining renewal cycles desi
   - From 2019 until around 2023, wages were consistently paid within 2–3 days after project completion, even if it required taking out a short-term loan.  
   - While it was not possible to pay higher wages, this prompt payment built strong trust with team members during that period.  
 - **Orientation and Care**: Newly hired translators were welcomed with a friendly one-hour orientation, designed to build confidence and set ethical expectations from the very beginning.  
-- **Repentance**: Voluntarily stopped low-value projects such as tabloid-style reproduction of celebrity gossip, and shifted to reflective and ethical practice.  
+- **Repentance**: Voluntarily stopped low-value projects such as tabloid-style reproduction of gossip and shifted to reflective and ethical practice.  
 - Although not recorded on blockchain, this was a **verified ethical operation model proven through real actions**.  
 
 ---
@@ -49,6 +50,27 @@ Finally, it projects the protocol into the future, outlining renewal cycles desi
 - The translation team operation became the **Pre-Blockchain case** of Biotrans Protocol.  
 - Once blockchain becomes widely adopted (expected within 5–10 years), the same principles can be extended into **on-chain structures**.  
 - In other words, a real-world ethical experiment already in operation became the preparatory stage for integration with future technology.  
+
+---
+
+### 2023 – Company Formation & Structural Framing (via Blogspot/Naver Blog)
+- Biotrans company was formally established, initially triggered by tax-related reasons.  
+- Around this time, reflections on translation practices and ethical orientation began to be systematically recorded on **Naver Blog and Blogspot**.  
+- This year marks the **internal discovery stage**, when experiences were first articulated into a structural ethical framework.  
+- These writings were not yet globally visible like GitHub commits but served as the **blueprint for later public declarations**.  
+
+---
+
+### 2024 – Continued Blog-Based Records
+- Ethical reflections and developmental notes continued to be recorded primarily via blogging platforms.  
+- The structural framing of repentance, conscience, and autonomy gained further articulation.  
+- This year represents the **bridge between private structural framing and later public documentation**.  
+
+---
+
+### 2025 – GitHub Documentation Start
+- For the first time, Biotrans Protocol declarations and developmental history were uploaded systematically to **GitHub**.  
+- This marks the start of **publicly timestamped documentation**, securing originality and ensuring that philosophical and ethical structures are preserved as verifiable historical records.  
 
 ---
 
@@ -69,6 +91,17 @@ Finally, it projects the protocol into the future, outlining renewal cycles desi
 - I fully recognize that these interactions are also recorded as contextual data, becoming part of broader datasets managed by external platforms.  
 - This awareness underscores the central theme: **rare data gains value only when supported by genuine ethical action**, and even tool-assisted reflections must be treated as part of that process.  
 - By explicitly acknowledging this, the Biotrans Protocol positions itself not in denial of data absorption, but as an effort to ensure that the meaning of such data is preserved with integrity.  
+
+#### Ideas vs. Verified Actions
+- Ideas alone, no matter how novel, can be easily replicated in the AI era.  
+- What distinguishes rare data is **ideas that are tested and verified through real actions**.  
+- The Biotrans Protocol demonstrates this by grounding ethical concepts in actual translation team operations and repentance-driven decisions.  
+- In this way, actions transform abstract ideas into irreplaceable, non-fungible historical records.  
+
+#### Beyond AI Imitation: Pain, Life, and Free Will
+- AI can imitate patterns of language and simulate decision processes, but it cannot embody **human pain, lived life, or free will**.  
+- True rarity comes from choices made under suffering, uncertainty, and moral responsibility.  
+- The Biotrans Protocol insists that ethical records gain their lasting value precisely because they emerge from **human struggle and voluntary conscience-driven decisions**—domains beyond AI’s reach.  
 
 ---
 
