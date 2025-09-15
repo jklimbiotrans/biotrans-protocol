@@ -6,19 +6,24 @@ To document the pre-blockchain stage of the Biotrans Protocol (2018–2024), whe
 
 ---
 
-## Background (2018–2022)
+## Background (2018–2024)
+
+### Early Team Operations (2018–2020)
 - Translation team operated on principles of autonomy, trust, and rapid reward.  
-- Payments within 2–3 days, voluntary repentance, and team-based cooperation.  
+- Wages were paid within 2–3 days after project completion, even if it required short-term personal loans.  
+- Orientation sessions (about one hour) were offered for new translators, emphasizing kindness and clarity.  
 - No blockchain records existed, but **actions themselves verified ethical integrity**.  
 - Served as a **proof-of-concept** for later blockchain-based conscience protocols.  
 
----
+### Transition to Formal Business (2021–2023)
+- Biotrans was officially registered as a **sole proprietorship** between 2021–2023.  
+- This ensured legal tax compliance while maintaining the same trust-based operating style.  
+- Ethical reflections began to be documented more deliberately.  
 
-## 2023–2024: Structural Framing via Blogs
-- Company formation (Biotrans) in 2023.  
-- Ethical reflections and records posted on Naver Blog and Blogspot.  
-- These writings articulated the **blueprint of repentance, conscience, and rare data**.  
-- This was the bridge between lived practice and future blockchain documentation.  
+### Company Formation (2024)
+- In January 2024, Biotrans transitioned from sole proprietorship to a **corporation**.  
+- Ethical and structural reflections were shared on Naver Blog and Blogspot throughout 2023–2024.  
+- These writings articulated the **blueprint of repentance, conscience, and rare data**, bridging lived practice and future blockchain documentation.  
 
 ---
 
