@@ -5,8 +5,8 @@ Its trajectory can be understood in parallel with **Samsung Electronics’ semic
 
 ⚠️ **Disclaimer**  
 This analogy does **not** imply endorsement or support for any specific private corporation.  
-The reference to Samsung Electronics is solely about its **founder’s philosophy (Lee Byung-chul’s Analects-inspired humanistic vision)** and the **principle of contributing to humanity through technology**, which deeply resonated with the author of Biotrans Protocol.  
-What inspired me was not corporate power itself, but the **philosophical commitment to ethics, human dignity, and long-term contribution to global welfare.**
+The reference to Samsung Electronics is solely about its **founder’s philosophy (Analects-inspired humanistic vision)** and the **principle of contributing to humanity through technology**, which deeply resonated with the author of Biotrans Protocol.  
+What inspired me was not corporate power itself, but the **commitment to ethics, human dignity, and long-term contribution to global welfare.**
 
 ---
 
@@ -14,7 +14,7 @@ What inspired me was not corporate power itself, but the **philosophical commitm
 
 | Aspect | Samsung Electronics (Lee Byung-chul) | Biotrans Protocol (jklimbiotrans) |
 |--------|--------------------------------------|-----------------------------------|
-| **Core Source** | Inspired by *Analects of Confucius* (논어): human respect, moral management, social contribution | Inspired by the Bible, conscience, repentance, and grace |
+| **Core Source** | Inspired by *Analects of Confucius*: human respect, moral management, social contribution | Inspired by conscience, ethical responsibility, and repentance |
 | **Motto** | “Contribute to human welfare through technology.” | “This structure exists for love and the possibility of repentance.” |
 | **Political Position** | Independent from state politics, guided by corporate philosophy | Independent from left/right politics, guided by universal conscience |
 | **Long-Term Vision** | Technology as a tool for humanity’s well-being | Ethics OS as infrastructure for human and robot moral education |
