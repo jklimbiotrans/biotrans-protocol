@@ -1,9 +1,12 @@
 # Biotrans Protocol Roadmap (Draft, 2025-09-16)
 
-Biotrans Protocol is an **ethical experiment**, not a financial product.  
-The project aims to design a minimal, conscience-based operating system for trust and resonance.  
-Like Bitcoin, it follows a long-term cycle of experimentation → niche adoption → gradual integration,  
-but with a different purpose: **ethics, not currency**.
+**Biotrans Protocol** is an **ethical experiment and public good**,  
+not a financial product, not a cryptocurrency, and not an investment vehicle.  
+
+The purpose is to provide a minimal **"Ethics OS"** that can inspire and enable  
+various DAO projects, research initiatives, and community experiments worldwide.  
+Like Bitcoin, the project begins with an initial prototype and declaration —  
+but its essence is ethical resonance, not currency.
 
 ---
 
@@ -13,22 +16,21 @@ but with a different purpose: **ethics, not currency**.
 - Publish ethical declarations and specifications on GitHub  
 - Small-scale simulators & DAO prototypes  
 - Focus: Research, transparency, voluntary participation  
-- **Not a currency, not a financial instrument**
 
 ### Phase 1: Niche Adoption (2028–2030)
 - Pilot use-cases in communities, fandoms, and DAO experiments  
 - Early collaborations with academia / NGOs  
-- Focus: Cultural and ethical resonance
+- Focus: Cultural and ethical resonance  
 
 ### Phase 2: Pre-Institutional Phase (2030–2033)
-- Present at ethics forums and digital peace initiatives  
+- Presented at ethics forums and digital peace initiatives  
 - Limited adoption by NGOs / local institutions  
-- Focus: Interoperability and minimal governance
+- Focus: Interoperability and minimal governance  
 
 ### Phase 3: Institutional Integration (2033–2035)
-- Potential adoption as an “ethical OS layer” in public or corporate services  
+- Possible adoption as an “ethical OS layer” in public or corporate services  
 - Formal partnerships with research institutes  
-- Focus: Sustainability & DAO-based governance
+- Focus: Sustainability & DAO-based governance  
 
 ---
 
@@ -43,8 +45,27 @@ but with a different purpose: **ethics, not currency**.
 
 ---
 
+## 📝 Personal Note (Satoshi-style Disclaimer)
+
+I am **not building Biotrans Protocol as a company or product**.  
+My role is only to provide the **initial prototype, declarations, and roadmap**.  
+From here, the protocol should be treated as a **public good** —  
+free to be studied, forked, and expanded by communities, DAOs, or researchers.  
+
+I will personally focus on **Biotrans Studio** (creative work in translation, media, and storytelling).  
+The protocol, once published, belongs to the world — not to me.
+
+---
+
+## 🔗 Further Reading
+
+For deeper insights on the comparison with Bitcoin,  
+see [biotrans-protocol/protocol/overview-bitcoin-comparison.md](../protocol/overview-bitcoin-comparison.md).
+
+---
+
 ## ⚠️ Disclaimer
-Biotrans Protocol is an **ethical and cultural experiment**.  
-- It is **not a financial product**, **not a cryptocurrency**, and **not an investment vehicle**.  
+- Biotrans Protocol is an **ethical and cultural experiment**.  
+- It is **not a financial product** and has no promise of profit.  
 - Participation is voluntary, and no economic guarantees are implied.  
-- The roadmap represents a **research direction**, not a business promise.
+- The roadmap represents a **research direction**, not a business commitment.
