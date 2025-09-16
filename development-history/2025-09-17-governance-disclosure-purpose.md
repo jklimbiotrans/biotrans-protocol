@@ -15,7 +15,7 @@ It is an open ethical experiment where transparency ensures that the protocol ca
 ## Politics and the Need for Ethical Records
 
 In politics, no party or faction is ever 100% right or 100% wrong.  
-Both in South Korea and the United States, it is common that a policy once supported while in government is opposed after moving into opposition, regardless of its intrinsic value.  
+Both in Korea and the United States, it is common that a policy once supported while in government is opposed after moving into opposition, regardless of its intrinsic value.  
 This inconsistency shows why a transparent reference record of ethical actions would be valuable — a kind of *conscience ledger* that is independent of political or religious affiliation.  
 
 The idea is similar to how Bitcoin transparently records issuance and transactions of money:  
@@ -25,14 +25,30 @@ Biotrans Protocol aims to transparently record *acts of goodness and resonance* 
 
 ## Background of Resonance Diversity
 
-The concept of *Resonance Diversity* emerged from observing the rise of political polarization and irrational extremism across many countries.  
-Each nation expresses these divisions differently, but the underlying pattern is similar: loyalty to factions often outweighs consistent reasoning or long-term conscience.  
-In such an environment, ethical actions risk being captured or reinterpreted according to shifting partisan agendas.  
+The concept of *Resonance Diversity* did not arise directly from political polarization itself.  
+Originally, the idea was only to ensure diversity through basic demographic factors such as **age** and **gender**, since people naturally differ in perspective across these dimensions.  
 
-That is why Biotrans Protocol seeks a foundation deeper than politics.  
-At the very least, **conscience and the Golden Rule principle (“treat others as you would like to be treated”)** are more universal.  
-Even if interpretations vary across cultures, the idea of empathy, fairness, and reciprocity can serve as a minimal baseline for valid resonance.  
-Resonance Diversity is thus not just a technical safeguard but a philosophical response to the erosion of shared ethical ground in modern politics.  
+However, observing the recent rise of political extremism and irrational polarization across countries made it clear that this principle must go deeper.  
+It is not enough to guarantee demographic variety alone — diversity in resonance must also guard against capture by partisan agendas or factional dominance.  
+
+This realization reinforced the importance of Resonance Diversity as a core safeguard.  
+It is not only a technical feature but a philosophical response to the erosion of shared ethical ground.  
+By openly publishing governance principles and concrete IT protocol designs, the aim is to stimulate competition and cooperation among diverse beta versions,  
+so that the system can evolve and strengthen through practical testing in the real world.  
+
+At the very least, **conscience and the Golden Rule principle (“treat others as you would like to be treated”)** remain more universal than partisan loyalties.  
+Even if interpretations vary across cultures, the ideas of empathy, fairness, and reciprocity can serve as a minimal baseline for valid resonance.  
+
+---
+
+## Conscience Over Politics
+
+Each individual case must be judged solely by **conscience**, not by political alignment or partisan pressure.  
+Biotrans Protocol therefore explicitly refuses to participate in political disputes or ideological debates.  
+Its role is to provide transparent ethical reference records, independent of shifting power struggles, so that trust is built on conscience rather than faction.  
+
+Furthermore, judgments must be made with professional rigor, guided by **conscience** and by considerations of **social sustainability**.  
+Only by holding to these standards can the protocol maintain legitimacy and long-term resilience.  
 
 ---
 
@@ -52,3 +68,4 @@ helping societies move beyond partisan suspicion toward a baseline of trust.
 For details, see:  
 [Operation Principles: Resonance Diversity](../protocol/governance/operation-principles-resonance-diversity.md)
 
+— jklimbiotrans
