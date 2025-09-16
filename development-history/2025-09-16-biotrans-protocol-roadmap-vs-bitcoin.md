@@ -45,6 +45,47 @@ but its essence is ethical resonance, not currency.
 
 ---
 
+## 🌍 Intent: Complementing Competitive Capitalism
+
+The current global structure is based on endless competition and uniform growth,  
+which creates pressure not only on ordinary people but also on the global elite.  
+Even those at the very top are locked into a race of survival, expansion, and control.  
+
+**Biotrans Protocol** proposes a complementary layer:  
+a transparent **Merit System (善點)** that rewards ethical resonance.  
+
+This is not meant to replace markets or currencies,  
+but to function as a *balancing mechanism* —  
+similar to how **social safety nets and modified capitalism** (welfare state, post-Depression reforms)  
+helped stabilize societies in the 20th century.  
+
+By introducing a **conscience-based OS**,  
+the aim is to provide *room for breathing* even for the global upper class,  
+while enabling fairness, forgiveness, and long-term trust across layers of society.  
+
+---
+
+## ⚖️ Dehumanization Across All Layers
+
+In the current competitive-capitalist structure,  
+**everyone risks becoming dehumanized** — not only the lower classes.  
+
+- Ordinary citizens: bound by debt, rent, and credit cycles.  
+- Middle layers: trapped in endless performance and survival races.  
+- Global elites: pressured to maintain power and capital, unable to stop running.  
+
+This system does not discriminate — it reduces all participants into *functions of survival*.  
+
+**Biotrans Protocol** seeks to counter this trend.  
+By introducing a transparent **Merit System (善點)** based on conscience, forgiveness, and resonance,  
+it offers a supplemental layer where human dignity can be recognized and rewarded.  
+
+The aim is not to overthrow capitalism,  
+but to *humanize it* — in the same way that modified capitalism (welfare states, post-crisis reforms)  
+once provided balance after periods of unchecked exploitation.  
+
+---
+
 ## 📝 Personal Note (Satoshi-style Disclaimer)
 
 I am **not building Biotrans Protocol as a company or product**.  
@@ -65,7 +106,7 @@ see [biotrans-protocol/protocol/overview-bitcoin-comparison.md](../protocol/over
 ---
 
 ## ⚠️ Disclaimer
-- Biotrans Protocol is an **ethical and cultural experiment**.  
+Biotrans Protocol is an **ethical and cultural experiment**.  
 - It is **not a financial product** and has no promise of profit.  
 - Participation is voluntary, and no economic guarantees are implied.  
 - The roadmap represents a **research direction**, not a business commitment.
