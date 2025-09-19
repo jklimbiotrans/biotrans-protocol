@@ -48,16 +48,3 @@
 > However, this incident shows that such disclaimers are not enough. In the future, **AI-generated videos will likely require embedded watermarks or persistent provenance markers.** Even more critically, since the voices and faces of politicians or public figures can be fully replicated (deepfakes), societies will need to decide **how to introduce unique identity mechanisms (e.g., SBT-based authentication) in a sustainable way — balancing privacy, human rights, and trust.**  
 >  
 > This entry should remain in the development history as the point where **the human–AI boundary blurred for the masses, while also becoming a philosophical moment to reaffirm human dignity.**
-
----
-
-### Chronology Description (for 2018-2025 master file)
-
-```markdown
-### 2025-09-19 — AI Realism Turning Point
-- A YouTube fanmade video (*K-pop Demon Hunters*) [link](https://www.youtube.com/shorts/WpjfwHqg1R0) reached over 2.9M views within two days, blurring the line between real and synthetic media.  
-- Viewers overwhelmingly mistook the AI-generated content as real, despite YouTube’s automated disclaimer.  
-- Best comment reactions reflected fear and unease — “too natural, it’s scary” became the dominant sentiment.  
-- This marks the first mass-scale moment where “video = evidence” collapsed for the public.  
-- Record emphasizes the need for AI watermarks, provenance tracking, and sustainable identity mechanisms (e.g., SBT) to protect privacy and human rights.  
-- Linked Record: [2025-09-19-ai-realism-turning-point.md](development-history/2025-09-19-ai-realism-turning-point.md)
