@@ -5,16 +5,21 @@
 
 ## 2023
 - Worked on subtitles for **K-pop “차린 건 쥐뿔도 없지만 – Karina 편”**, which became **the #1 YouTube video in South Korea in 2023**.  
+- YouTube proof: “차린 건 쥐뿔도 없지만 – Karina” video with subtitles by **Biotrans Translation Team (Biotrans Inc.)**: [YouTube Link](https://www.youtube.com/watch?v=JTqCtl548oc&t=2s)  
 - Also contributed to other top-level cultural content such as the **차쥐뿔 series**, demonstrating the power of K-pop as global local data.  
 - These works showed that **K-culture (K-pop, drama, games)** can serve as *unique, irreplaceable training data* for AI systems.  
-- This confirmed the early insight: *“South Korean local data is a global asset.”*
+- This confirmed the early insight: *“South Korean local data is a global asset.”*  
+
+### External References
+- Kworb.net – *Most Viewed Music Videos in 2023* (YouTube Top Videos of 2023) ([kworb.net/topvideos2023.html](https://kworb.net/youtube/topvideos2023.html?utm_source=chatgpt.com))  
+- Kworb.net – *Most Viewed Music Videos Published in 2023* ([kworb.net/youtube/topvideos_published_2023.html](https://kworb.net/youtube/topvideos_published_2023.html?utm_source=chatgpt.com))  
 
 ---
 
 ## 2024
 - Conducted translation projects on international finance and bond-related media, including **BlackRock-related requests**.  
 - This positioned Biotrans not only in the **cultural translation industry** but also in **financial and policy-related translation**, bridging culture and capital.  
-- During this time, the principle was recorded on GitHub:  
+- During this time, the principle was recorded on a personal blog (e.g., Blogspot):  
   > “CBDC (Central Bank Digital Currency) will inevitably be required as AI and capital flows converge.”
 
 ### Why CBDC is Inevitable
@@ -55,20 +60,20 @@
 - This marked the visible entry of BlackRock’s global capital into South Korea’s AI infrastructure.
 
 ### English News References
-- [KBS World – Lee, BlackRock CEO Forge AI Partnership](https://world.kbs.co.kr/service/news_view.htm?Seq_Code=196201&lang=e&utm_source=chatgpt.com)  
-- [Korea Times – S. Korea, BlackRock forge partnership to build Asia’s AI hub](https://www.koreatimes.co.kr/amp/economy/policy/20250923/s-korea-blackrock-forge-partnership-to-build-asias-ai-hub-in-korea?utm_source=chatgpt.com)  
-- [Dig.watch – BlackRock backs South Korea push to become Asia AI hub](https://dig.watch/updates/blackrock-backs-south-korea-push-to-become-asia-ai-hub?utm_source=chatgpt.com)  
-- [Korea Herald – Lee, BlackRock CEO discuss AI partnership](https://www.koreaherald.com/article/10581157?utm_source=chatgpt.com)  
-- [Korea Herald – South Korea, BlackRock to build hyperscale AI data center](https://www.koreaherald.com/article/10581042?utm_source=chatgpt.com)  
-- [Korea.net – BlackRock CEO pledges to help make Korea Asia’s AI hub](https://www.korea.net/NewsFocus/policies/view?articleId=279576&utm_source=chatgpt.com)  
+- Dig.watch – *BlackRock backs South Korea push to become Asia AI hub* ([dig.watch](https://dig.watch/updates/blackrock-backs-south-korea-push-to-become-asia-ai-hub?utm_source=chatgpt.com))  
+- MobileWorldLive – *BlackRock pledges to make Korea Asia AI hub* ([mobileworldlive.com](https://www.mobileworldlive.com/ai-cloud/blackrock-pledges-to-make-korea-asia-ai-hub/?utm_source=chatgpt.com))  
+- The Paypers – *Korea and BlackRock sign MoU to develop AI hub* ([thepaypers.com](https://thepaypers.com/crypto-web3-and-cbdc/news/korea-and-blackrock-sign-mou-to-develop-ai-hub?utm_source=chatgpt.com))  
+- Korea Times – *Korea, BlackRock forge partnership to build Asia’s AI hub in Korea* ([koreatimes.co.kr](https://www.koreatimes.co.kr/economy/policy/20250923/korea-blackrock-forge-partnership-to-build-asias-ai-hub-in-korea?utm_source=chatgpt.com))  
+
+---
 
 ### Interpretation
 - This event confirms the Biotrans prediction: **CBDC, AI, renewable energy, and ethical governance are inseparable.**  
-- The U.S. will manage global society with AI (as a modern “church”),  
+- The U.S. may manage global society through AI (similar to a modern “church”).  
 - South Korea will provide the **Ethics OS** (Biotrans Protocol, conscience-based system),  
-- And BlackRock will integrate these into the **global capital framework**.  
+- BlackRock is expected to integrate these into the **global capital framework**.  
 - Furthermore, as hyperscale data centers arise in South Korea, the **true value lies in the content of big data**.  
-- In particular, **South Korean cultural values** — sacrifice, community spirit, consideration, and *jeong* (정) — if embedded into global AI,  
+- In particular, **South Korean cultural values** — sacrifice, community spirit, consideration, and **정 (情)** — if embedded into global AI,  
   they can contribute not only to cultural enrichment but also to addressing real social issues such as **reducing drug abuse and violent crime in the United States**.  
 - BlackRock has also announced moves into **STO (Security Token Offerings) and RWA (Real World Asset tokenization)**, enabling fractional investment not only in **stocks and real estate** but potentially in **creative works (copyrights) and even good deeds or ethical expressions**.  
 - If **acts of conscience and kindness** can also be recorded and verified as authentic assets, this could directly contribute to a healthier society.  
