@@ -11,8 +11,7 @@
 - This confirmed the early insight: *“South Korean local data is a global asset.”*  
 
 ### External References
-- Kworb.net – *Most Viewed Music Videos in 2023* (YouTube Top Videos of 2023) ([kworb.net/topvideos2023.html](https://kworb.net/youtube/topvideos2023.html?utm_source=chatgpt.com))  
-- Kworb.net – *Most Viewed Music Videos Published in 2023* ([kworb.net/youtube/topvideos_published_2023.html](https://kworb.net/youtube/topvideos_published_2023.html?utm_source=chatgpt.com))  
+- Koreaboo – *Top-Ranking YouTube Video in Korea 2023 Features K-pop Idol* ([koreaboo.com](https://www.koreaboo.com/news/top-ranking-youtube-video-in-korea-2023-features-kpop-idol/))  
 
 ---
 
