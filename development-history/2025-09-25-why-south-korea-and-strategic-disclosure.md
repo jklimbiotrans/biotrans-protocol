@@ -140,9 +140,15 @@ Following this structure ensures that:
 
 ## 📎 References & Further Reading
 
+### 🇰🇷 Korean Media (Context & Original Coverage)
 - [Lee to preside over UNSC debate on AI governance – The Korea Herald](https://www.koreaherald.com/article/10582863?utm_source=chatgpt.com)  
 - [Full text: President Lee Jae-myung’s speech at the United Nations – The Korea Herald](https://www.koreaherald.com/article/10581929?utm_source=chatgpt.com)  
 - [President Lee urges new AI governance framework at UN – Chosun English](https://www.chosun.com/english/national-en/2025/09/25/E4O3MDV4BNFMFEIRZORZMBLW54/?utm_source=chatgpt.com)
+
+### 🌍 International Media (English Sources)
+- [At UN, South Korean leader vows to reduce tensions with North Korea – Reuters](https://www.reuters.com/world/asia-pacific/un-south-korean-leader-vows-reduce-tensions-with-north-korea-2025-09-23/)  
+- [South Korea’s president vows to restore 2018 inter-Korean military agreement – AP News](https://apnews.com/article/d6d190d7b4cc4d8394bcbd7e057bf990)  
+- [Global trade chaos threatens South Korea’s ‘survival,’ says Lee Jae-myung – The Guardian](https://www.theguardian.com/world/2025/jun/04/global-trade-chaos-threatens-south-koreas-survival-says-lee-jae-myung-in-inauguration-speech)
 
 ---
 
