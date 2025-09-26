@@ -1,5 +1,5 @@
 # 🏰 Neo-Feudalism and the Ethical OS – From Capitalist Freedom to Conditioned Order  
-**File:** 2025-09-28-neo-feudalism-and-balance.md
+**File:** 2025-09-27-neo-feudalism-and-balance.md
 
 ---
 
