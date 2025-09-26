@@ -27,15 +27,17 @@ This document records how Biotrans Protocol emerged and evolved through time and
 
 ### 📍 2018 – PyeongChang Olympics and Global Demand Explosion  
 - Global demand for multilingual translation and subtitling surged around the **2018 Winter Olympics**.  
-- Startups such as **Voicero** appeared, using similar concepts.  
-- By the early 2020s, many **factory-style subtitle companies** entered, and the market began to mature.
+- What was once a peripheral task began to evolve into a dedicated service industry.  
+- By the early 2020s, the subtitle service market rapidly expanded and matured.
 
 ---
 
 ### 📍 2020–2023 – Automation Era: Mass Production and Quality Decline  
 - Aggressive price and speed competition led to a drop in quality and loss of emotional resonance.  
 - We deliberately focused on **human-touch subtitles** that retained emotion, conscience, and context.  
-- Maintained a **top-tier position** in the market based on quality and emotional depth.
+- Maintained a **top-tier position** in the market based on quality and emotional depth.  
+- ✅ Completed projects including the **#1 most-viewed Korean YouTube video in 2023**, proving the commercial viability and cultural impact of human-centered subtitling.  
+  - 📎 Reference: [The most viewed videos and music videos on YouTube in South Korea in 2023 – AllKpop](https://www.allkpop.com/article/2023/12/the-most-viewed-videos-and-music-videos-on-youtube-in-south-korea-in-2023)
 
 ---
 
@@ -108,4 +110,3 @@ This approach ensures that Biotrans Protocol remains grounded in reality, builds
 It also honors the principle that **lasting ethical transformation is not imposed — it is adopted.**
 
 ---
-
