@@ -5,6 +5,17 @@
 
 ---
 
+## 0. Historical Context: From the Internet of Information to the Internet of Value
+
+The birth of the internet marked the beginning of the *Information Age* — an era in which data could move instantly across the globe, but its authenticity and ownership were often unclear. The internet excelled at copying, transmitting, and distributing information, yet it struggled to represent *value* itself.
+
+Blockchain technology changed that paradigm. Often described as the **“Internet of Value,”** it enables the transfer of not just information, but **scarce, verifiable, and irreplaceable assets** — from money (e.g., Bitcoin) and identity credentials to property titles and beyond. Unlike the duplicable nature of digital information, blockchain establishes uniqueness, provenance, and trust at the protocol level.
+
+The next frontier extends even further: the transmission of **intangible yet foundational human qualities** — such as authenticity, sincerity, conscience, and moral transformation. These are not merely data points but living signals of human presence and ethical weight.  
+The **Resonance Video Platform**, built under the **Biotrans Protocol**, seeks to pioneer this new phase — where **goodness itself** can be recorded, transmitted, and rewarded as a first-class digital primitive.
+
+---
+
 ## 1. Purpose & Vision
 
 The **Resonance Video Platform** is not a simple decentralized clone of YouTube.  
@@ -51,7 +62,8 @@ Its mission is to transform video content from a metric of views and clicks into
 
 ## 4. System Architecture Overview
 
-The Resonance Video Platform connects human actions, cryptographic proofs, and blockchain records into a single ethical flow. Its lifecycle unfolds horizontally as follows:
+The Resonance Video Platform connects human actions, cryptographic proofs, and blockchain records into a single ethical flow.  
+Its lifecycle unfolds horizontally as follows:
 
 **User Action** → **Resonance Event (emotional impact detected)** → **ZK Proof (validation and privacy)** → **Blockchain Record (immutable ethical ledger)** → **Merit SBT (validated goodness)** → **Compound Score / Proof of Goodness (evolving ethical reputation)**
 
