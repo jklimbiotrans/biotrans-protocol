@@ -1,4 +1,4 @@
-# 2025-09-27 – Social Media Collapse and the Coming AI Era  
+# 2025-09-27 – Social Media Collapse, Global Reset Strategies, and the Coming AI Era  
 *Development History of Biotrans Protocol*
 
 ---
@@ -100,7 +100,52 @@ Humans lose trust in sincerity itself. Even “love” or “repentance” risks
 
 ---
 
-## 6. Why Biotrans Protocol Must Exist
+## 6. The Coming Reset – Elite Preparations for a Post-Platform World
+
+Even the global elite who built the current architecture know that the existing model is unsustainable.  
+Instead of preventing its collapse, they are preparing **to control what comes next** — positioning themselves as the architects of the new order.
+
+### 📍 Financial Layer – Preparing for a “Currency Reset”
+
+- **IMF**, **BIS**, and the **U.S. Federal Reserve** are simultaneously building CBDC (central bank digital currency) infrastructure.  
+- Pilot programs are already completed in **Switzerland**, **Singapore**, **UAE**, and **China**.  
+- Once traditional systems destabilize, these digital currencies will be offered as the new “official value layer.”
+
+### 📍 Technological Layer – Preparing for an “Identity Reset”
+
+- **Microsoft** and the **World Economic Forum** are designing global **Digital Identity Frameworks**.  
+- The **EU** plans to launch the **European Digital Identity Wallet** by **2026**.  
+- The **U.S.** is advancing “human authentication layers” under the pretext of fighting AI-generated fake identities.
+
+### 📍 Social & Ethical Layer – Preparing for a “Moral Reset”
+
+- Organizations like **Effective Altruism**, **OpenAI**, and **Anthropic** are pushing AI ethics codes toward **government-level standardization**.  
+- Some foundations are collecting **emotional data**, **repentance metrics**, and **moral behavior indicators** to shape future governance.
+
+📌 In short: They are laying the groundwork now, so that when the current system collapses, they can say:  
+> “Use *our* system — it’s ready.”
+
+---
+
+## 7. Two Diverging Paths: “Control Reset” vs “Conscience Reset”
+
+The coming reset is not a single path — two fundamentally different visions are emerging:
+
+| Model | Goal | Characteristics | Risks |
+|-------|------|------------------|--------|
+| **Control Reset** | Preserve order | CBDCs, centralized digital IDs, emotional data governance | Emotional class systems, surveillance societies |
+| **Conscience Reset** | Redesign order | Decentralized systems based on autonomy, repentance, and conscience | Slower adoption but preserves human dignity |
+
+Most governments, corporations, and elite institutions currently lean toward the **Control Reset**.  
+In contrast, **Biotrans Protocol** represents the **Conscience Reset** — a framework that resists commodification and recentralization, preserving the weight of human emotion and the possibility of repentance.
+
+📌 The decade ahead (2025–2035) will likely determine which reset dominates.  
+If the Control model wins unchallenged, humanity risks living under algorithmic morality and emotional surveillance.  
+If the Conscience model gains traction, humanity can enter a new era where technology amplifies — rather than erodes — the human soul.
+
+---
+
+## 8. Why Biotrans Protocol Must Exist
 
 Biotrans Protocol emerges as a **counter-architecture** to this synthetic civilization:
 
@@ -114,7 +159,7 @@ In a future where AI speaks, wears swimsuits, and mimics sincerity better than h
 
 ---
 
-## 7. Conclusion – From Collapse to Conscience
+## 9. Conclusion – From Collapse to Conscience
 
 The last decade shows how digital platforms descended from emotional sharing to commodified existence.  
 The next decade threatens a deeper collapse: a world where even emotion is simulated and sold.
