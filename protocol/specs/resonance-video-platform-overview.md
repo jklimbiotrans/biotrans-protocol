@@ -51,16 +51,14 @@ Its mission is to transform video content from a metric of views and clicks into
 
 ## 4. System Architecture Overview
 
-The Resonance Video Platform is built as a multi-layered ethical infrastructure that connects human actions, cryptographic verification, and blockchain-based recording into a single coherent flow.
+The Resonance Video Platform connects human actions, cryptographic proofs, and blockchain records into a single ethical flow. Its lifecycle unfolds horizontally as follows:
 
-When a user performs an action that resonates with others — such as creating meaningful content, inspiring transformation, or demonstrating sincere repentance — it is registered as a **Resonance Event**.  
-This event is then processed through a **Zero-Knowledge (ZK) Proof** layer, ensuring authenticity and validation while preserving privacy and sensitive user data.  
+**User Action** → **Resonance Event (emotional impact detected)** → **ZK Proof (validation and privacy)** → **Blockchain Record (immutable ethical ledger)** → **Merit SBT (validated goodness)** → **Compound Score / Proof of Goodness (evolving ethical reputation)**
 
-Once verified, the event is recorded immutably on the blockchain. At this stage, one or more **Soulbound Tokens (SBTs)** may be issued:
-- A **Merit SBT**, representing a validated act of goodness.  
-- A **Demerit SBT** (optional), recording harmful actions that can later be erased through genuine repentance or forgiveness.
+If a harmful action occurs, an **optional branch** is triggered:  
+**Demerit SBT (record of harm)** → **Repentance or Forgiveness (can erase demerit)** → **Updated Compound Score**
 
-All of these records contribute to a user’s evolving **Compound Score** — also referred to as a **Proof of Goodness**. This score reflects not only the quantity of good deeds but also their consistency, sincerity, and transformative power over time. It is designed to function as an evolving ethical footprint rather than a fixed reputation metric, emphasizing growth, change, and redemption within the ecosystem.
+This linear flow captures not only positive resonance but also accountability, growth, and redemption — forming the foundation of a transparent, ethical reputation system built for a future where technology reflects conscience.
 
 ---
 
