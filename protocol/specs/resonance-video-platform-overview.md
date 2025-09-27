@@ -50,17 +50,16 @@ Its mission is to transform video content from a metric of views and clicks into
 ---
 
 ## 4. System Architecture Overview
-
-```text
-[ User ]  
-   │  
-   ▼  
-[ Resonance Event ]  →  [ ZK Proof ]  →  [ Blockchain Record ]  
-   │                         │  
-   ▼                         ▼  
-[ Merit SBT ]         [ Demerit SBT (optional) ]  
-   │  
-   ▼  
+```plaintext
+[ User ]
+   │
+   ▼
+[ Resonance Event ] → [ ZK Proof ] → [ Blockchain Record ]
+   │                        │
+   ▼                        ▼
+[ Merit SBT ]        [ Demerit SBT (optional) ]
+   │
+   ▼
 [ Compound Score / Proof of Goodness ]
 
 ### Components
@@ -120,3 +119,5 @@ it is **a prototype of a future digital civilization where technology carries co
 This document describes a conceptual prototype under the **Biotrans Protocol**.  
 It is part of a broader ethical OS experiment and does **not guarantee commercialization or token issuance**.  
 Participation is **voluntary**, and records are **non-monetary by default**.
+
+---
