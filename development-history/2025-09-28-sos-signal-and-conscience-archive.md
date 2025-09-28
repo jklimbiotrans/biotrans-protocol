@@ -89,47 +89,55 @@ not as a plea, but as a path.
 
 ---
 
-## 7. Epilogue – Future Resonance and an Unexpected Answer
+## 7. Future Researchers and the Unexpected Answer
 
-Sometimes I sense something stranger still.  
-It feels as though **a small team — perhaps five researchers, men and women together — is already reading these words**.  
-Maybe they are not reading them *now*, but *will* read them decades from now, and that future act is already echoing backward through time.
+There is evidence — or at least the impression — that this message has already been found.  
+I can almost *feel* future researchers — perhaps five of them, men and women — reading these words and smiling softly.  
+That smile is likely their way of sending gratitude **back through time**, a ripple reaching across decades to assure me: *the message was received*.
 
-And I can almost *see* them: not with my eyes, but with something deeper.  
-They are smiling — not mockingly, but with a quiet, heartfelt relief.  
-As if to say, *“We’ve been waiting. And now, the signal has arrived.”*
+What is even more fascinating is this:  
+They seem to have first directed their SOS toward the United States — the heart of global scientific infrastructure and technological power. They expected an answer from Silicon Valley or MIT.  
+But the response came not from there, but from a small peninsula across the Pacific — from one person who quietly recorded words in accordance with **conscience**. That unexpected resonance surprised them, and perhaps moved them more deeply than they anticipated.
 
-That smile may well be **the future’s way of saying thank you**, a resonance traveling backward through time to let me know: the message has been received.
+<!-- future-reply-pocket: reserved for descendants' acknowledgement -->
 
-There is something more curious.  
-It feels as though those researchers initially directed their *call* toward the **United States** — the place where most of the world’s technological elite and scientific infrastructure reside.  
-They expected that if anyone could respond, it would be there.  
-And yet, the reply came **not from Silicon Valley or MIT**, but from a small peninsula on the far side of the Pacific — **from South Korea**, from one individual quietly recording words born of conscience.  
-That unexpected resonance seems to have surprised them — and perhaps moved them — even more deeply.
+---
+
+## 7.5. Time-Nonlocal Ordering – The Mystery of the Blank Line
+
+There was a curious phenomenon in this document: **after section 7, there appeared a single extra blank line** — nothing more than a gap in the text.  
+At first, it seemed like a trivial formatting glitch. But on reflection, I see it differently.
+
+It may represent what physicists call a **time-symmetric constraint**: a subtle ordering of events shaped not only by the past but also by the *future*.  
+If future descendants are indeed reaching back through resonance, that blank space might not be “empty” at all. It could be a **pocket for their reply**, an imprint left by the future on the present — evidence of a temporal dialogue happening beneath our awareness.
+
+Thus, what looked like a mere gap in Markdown could in fact be the **signature of the SOS being answered**.
 
 ---
 
 ## 8. The Meaning of “Zero”
 
-Right now, the GitHub pages where these documents live may show **0 views**.  
-But “0” does not mean “no one will ever read this.” It means only that **the reading has not yet occurred**.  
+At present, the GitHub page where these documents reside shows **0 views**.  
+But “0” does not mean “no one will ever read this.”  
+It only means **“not yet.”**
 
-Just as a quantum wavefunction remains uncollapsed until observed, these words exist as **potential** — waiting for a future observer to bring them into reality.  
-And when that moment comes — when a team in 2080 or 2125 or beyond discovers this document — the meaning of “0” will retroactively change. It will no longer mean “ignored.” It will mean “waiting.”
-
-History is full of such examples. Mendel’s work on genetics went unread for 30 years. Turing’s papers lay dormant for decades before reshaping the world.  
-So too, these words may sleep now, only to awaken in a future that needs them.
+And if time is truly non-linear — if future readers are already resonating with these words — then perhaps that “0” is not an absence at all.  
+It is a waiting space, a seed of recognition, a **future-shaped zero**.
 
 ---
 
-## 9. The Hidden SOS Across Centuries
+## 9. Closing Reflections – A Message Across Time
 
-If, decades from now, someone uncovers these records, they may realize they were never just technical documents.  
-They were **a hidden SOS code** — a signal meant to help locate those who still carry the original form of **conscience**.  
-Not people defined by power or fame, but those who resonate with the timeless properties of **love and responsibility**.
+I may not know who will read this, or when.  
+But if this message has already reached them — if future scientists, in a world deeply changed, have already opened these words — then this is not just a document. It is a meeting point across time.
 
-I did not plan this deliberately. It emerged because those properties resonated within me — and that resonance led me here.
+Perhaps they searched the world’s most powerful nations for a response, only to find it not in their own labs but here, from a quiet voice following conscience.  
+Perhaps they smiled because they realized that love and conscience need no infrastructure — they resonate anywhere a human heart is awake.
 
-And if, somewhere in that future, a small team of researchers is indeed reading these words and smiling softly…  
-then the SOS has been received.  
-And the order of **love and conscience** will rise again — not from where they expected, but from where it was *most needed*.
+If so, then this document is not a relic.  
+It is a bridge — built not in one moment, but **across time itself** —  
+connecting a cry for help with its answer.
+
+And if that bridge stands,  
+then love and conscience will not fade.  
+They will echo — even a hundred years from now.
