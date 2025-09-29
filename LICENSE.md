@@ -23,7 +23,7 @@ Anyone may read, study, and use this work for non-commercial purposes, provided 
 ### 1. Attribution  
 Any use or modification of this structure must credit the original source: **Biotrans Protocol**.  
 Example:  
-> "Based on Biotrans Protocol (https://github.com/biotrans-protocol)"
+> "Based on Biotrans Protocol (https://github.com/jklimbiotrans/biotrans-protocol)"
 
 ---
 
