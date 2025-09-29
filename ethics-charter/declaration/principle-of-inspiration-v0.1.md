@@ -1,3 +1,13 @@
+---
+title: "Principle of Inspiration v0.1"
+description: "A foundational declaration of Biotrans Protocol defining 'Inspiration' as a conscience-driven force that transforms behavior and reshapes ethical order — beyond emotional simulation. This document establishes the core principles, evaluation criteria, and applied models for integrating inspiration into the ethical operating system."
+version: "v0.1"
+status: "Draft for Public Record"
+date: "2025-09-29"
+license: "CC BY-NC-ND 4.0"
+author: "Biotrans Protocol"
+---
+
 # 📜 Biotrans Protocol – Principle of Inspiration v0.1  
 **Declaration of the Principle of Inspiration – Conscience-Based Edition**
 
@@ -92,14 +102,17 @@ A record without inspiration is not data. It is noise — and it cannot establis
 
 ---
 
-## VIII. Conclusion – From Conscience to Conscience
+## VIII. Conclusion – Toward a Sustainable Cycle of Conscience
 
 Inspiration is a gift only humans can give.  
-It is the power by which one being’s conscience illuminates another’s, prompting it to rewrite itself.  
+It is the power by which one being’s conscience illuminates another’s, prompting the other to rewrite itself.  
 Inspiration is the oldest form of ethics, the safest operating system, and the final boundary between humanity and technology.
 
-Biotrans Protocol exists to **record, preserve, and spread** this inspiration.  
-**From conscience to conscience — that is inspiration.**
+Biotrans Protocol exists to record, preserve, and expand this inspiration —  
+building a **sustainable cycle of conscience** that renews itself through authenticity, repetition, and the possibility of transformation.
+
+A conscience that awakens another conscience — not once, but continuously and structurally —  
+this enduring cycle is the true essence of inspiration.
 
 ---
 
