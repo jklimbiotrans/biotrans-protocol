@@ -1,9 +1,7 @@
 # Appendix F – AI Progress Timeline
 
-This appendix provides a staged perspective on AI development through the lens of the Biotrans Protocol,  
-using concrete analogies such as point-marking tasks and autonomous driving.  
-It emphasizes that while AI may advance in speed, detail, and contextual sense,  
-**conscience, repentance, and responsibility remain exclusively human.**
+This appendix provides a staged perspective on the evolution of artificial intelligence through the lens of the **Biotrans Protocol**, combining technical foresight with ethical boundaries.  
+It emphasizes that while AI may grow in speed, precision, and contextual awareness, **conscience, repentance, and responsibility remain exclusively human** — and must never be transferred to machines or reduced to quantifiable metrics linked to survival.
 
 ---
 
@@ -14,48 +12,48 @@ A human commands:
 “Mark points on a 100m track in the sequence Red → White → Blue, spaced every 10cm.”
 
 **Current AI Capability**  
-- Fast execution, but with frequent errors:  
+- Executes tasks quickly but with frequent errors:  
   - Intervals may be 9cm or 11cm instead of 10cm.  
-  - The color order (Red → White → Blue) may be broken.  
-- AI produces output quickly, but **human verification is essential.**
+  - The color order (Red → White → Blue) may break.  
+- AI produces output rapidly, but **human verification remains essential.**
 
-👉 In this stage, AI acts as a **fast cognitive engine** without reliable precision.
+👉 In this stage, AI acts as a **fast cognitive engine** but lacks precision and contextual depth.
 
 ---
 
 ## 2. Phase Two – Detail (2027 ~ 2030)
 
 **Expected Progress**  
-- Self-Check Loop: AI reviews its own output, detecting interval and sequence errors.  
-- Auto-Correction: Mistakes are fixed before presenting results.  
-- Personalized Memory: Learns user preferences and workflows.  
-- Domain Support: Limited application in law/medicine for clause or data cross-checking.  
+- **Self-Check Loop:** AI reviews its own output and detects interval or sequence errors.  
+- **Auto-Correction:** Mistakes are corrected before results are presented.  
+- **Personalized Memory:** Learns user preferences and workflows.  
+- **Domain-Specific Support:** Applied in fields like law or medicine for clause verification and data cross-checking.
 
 **Point-Marking Analogy**  
 AI marks the 100m track, then double-checks spacing and sequence automatically.  
-Human no longer needs to check every point, only to supervise.  
+Humans no longer need to check every point — they only supervise.
 
-👉 AI becomes a **Precision Assistant.** Humans shift from workers to overseers.
+👉 AI becomes a **Precision Assistant**. Humans shift from workers to supervisors.
 
 ---
 
 ## 3. Phase Three – Sense (2030 and Beyond)
 
 **Expected Progress**  
-- Contextual Anticipation: Predicts likely user intent and applies it automatically.  
-- Multimodal Intuition: Integrates text, data, images, and signals for holistic judgment.  
-- Latent Needs Detection: Suggests actions beyond explicit instructions.  
-- Collaborative Sense: Supports human intuition by surfacing hidden variables.  
+- **Contextual Anticipation:** Predicts likely user intent and applies it without explicit instruction.  
+- **Multimodal Intuition:** Integrates text, data, images, and signals for holistic judgment.  
+- **Latent Needs Detection:** Suggests actions beyond explicit commands.  
+- **Collaborative Sense:** Supports human intuition by surfacing hidden variables.
 
 **Point-Marking Analogy**  
 AI remembers that the user usually requests Red → White → Blue, every 10cm.  
-Applies the rule without explicit instruction, asking for confirmation only when unusual.  
+It applies this rule without explicit instruction and asks for confirmation only when behavior changes.
 
 **Autonomous Driving Analogy**  
-- AI = Autopilot: handles routine navigation automatically.  
-- Human = Driver: may not hold the wheel constantly, but must be ready to brake or steer in critical moments.  
+- **AI = Autopilot:** Handles routine navigation automatically.  
+- **Human = Driver:** May not hold the wheel constantly, but must be ready to steer or brake in critical moments.
 
-👉 AI evolves into a **Contextual Partner,** but still a tool under human oversight.
+👉 AI evolves into a **Contextual Partner** — powerful and adaptive, but still a tool under human oversight.
 
 ---
 
@@ -63,40 +61,43 @@ Applies the rule without explicit instruction, asking for confirmation only when
 
 | Phase | Period     | Strengths | Limitations | Biotrans Protocol Principle |
 |-------|------------|-----------|-------------|-----------------------------|
-| **1. Speed** | Now–2027 | - Very fast pattern recognition.<br>- Efficient for repetitive tasks (summaries, drafts). | - Errors occur rapidly without review.<br>- Weak sensitivity to context or user expectations. | Speed must be balanced by conscience and responsibility. |
-| **2. Detail** | 2027–2030 | - Built-in self-check (“second eye”).<br>- Stable handling of numbers, paths, consistency.<br>- Adjustable memory modules for users. | - Limited intuition or emotional sensitivity.<br>- Ethical and sustainability contexts still require human oversight. | Details require transparency and verification. |
-| **3. Sense** | 2030+ | - Long-term memory and adaptive learning.<br>- Anticipation of user needs.<br>- Multimodal reasoning approaching “intuition.” | - Risk of over-reliance on “artificial sense.”<br>- Blurred boundary between human conscience and machine output. | Safeguards must preserve conscience, responsibility, and repentance as human-only. |
+| **1. Speed** | Now–2027 | - Fast pattern recognition.<br>- Efficient for repetitive tasks. | - Errors occur quickly without review.<br>- Weak contextual awareness. | Speed must be balanced by conscience and responsibility. |
+| **2. Detail** | 2027–2030 | - Built-in self-check (“second eye”).<br>- Stable handling of data and consistency.<br>- Adaptive memory. | - Limited intuition.<br>- Ethical contexts require human oversight. | Details require transparency and verification. |
+| **3. Sense** | 2030+ | - Long-term memory.<br>- Anticipates needs.<br>- Multimodal reasoning approaching “intuition.” | - Risk of over-reliance.<br>- Blurred boundary between human conscience and machine output. | Safeguards must preserve conscience, responsibility, and repentance as human-only. |
 
 ---
 
-## 5. Ethical Boundaries
+## 5. Ethical Boundaries and Constitutional Safeguards
 
-- **Phase Two (Detail):**  
-  AI enhances precision but cannot bear responsibility.  
+Even as AI capabilities advance, several boundaries must remain **absolute and non-negotiable** within the Biotrans Protocol:
 
-- **Phase Three (Sense):**  
-  AI may appear intuitive, but:  
-  - Conscience cannot be simulated.  
-  - Repentance belongs to humans alone.  
-  - Responsibility remains exclusively human.  
+1. **Human-Only Conscience:** Conscience cannot be simulated or delegated.  
+2. **Human-Only Repentance:** Machines cannot repent; repentance belongs solely to human beings.  
+3. **Human Responsibility:** Responsibility for actions must remain with human agents and institutions.
 
-👉 No matter how advanced, AI must not cross into domains of **moral agency.**  
-It is a precision tool with sense-like functions, not a moral subject.
+### 📜 Constitutional Firewall – Article 4
+
+To prevent ethical systems from devolving into credit-based control mechanisms, the following principles are enshrined at the constitutional level:
+
+- ❌ **No automatic linkage** between ethical or emotional scores and financial credit, loans, or economic benefits.  
+- ❌ **No connection** between merit/demerit records and basic human rights such as healthcare, housing, or survival.  
+- ✅ **Explicit consent** is required if any third party seeks to reference ethical data for external decisions.
+
+These provisions ensure that **moral data remains moral**, never a tool for coercion, exploitation, or discrimination.
 
 ---
 
 ## ✅ Conclusion
-- **Now:** Fast but error-prone → human must verify.  
-- **2027–2030:** AI self-checks and corrects → human supervises.  
-- **2030+:** AI anticipates context like autopilot → human intervenes at critical moments.  
 
-Yet the Biotrans Protocol affirms:  
+- **Now:** AI is fast but error-prone → humans must verify.  
+- **2027–2030:** AI self-checks and corrects → humans supervise.  
+- **2030+:** AI anticipates context like autopilot → humans intervene at critical moments.
 
-- Humans remain the **ethical drivers.**  
+Yet throughout this timeline, the Biotrans Protocol affirms:
+
+- Humans remain the **ethical drivers**.  
 - Conscience, repentance, and responsibility cannot be automated.  
-- Sustainability requires ethical governance.  
-
-This timeline records not only technical progress but also the **ethical guardrails** needed to keep AI aligned with human survival and dignity.
+- Sustainability requires ethical governance and constitutional safeguards.
 
 ---
 
@@ -110,5 +111,6 @@ In this sense, the protocol remains open — not a prophecy, but a living framew
 ---
 
 ## 📎 Related Document
-For reflections on anxiety about AI over-reliance and the autonomous driving roadkill scenario,  
+
+For reflections on anxiety about AI over-reliance and the autonomous driving “roadkill dilemma,”  
 see **2025-08-24 – Anxiety About AI Progress Toward 2030**.
