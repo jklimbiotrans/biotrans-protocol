@@ -1,8 +1,14 @@
+---
+title: 2025–2035 – The Warped Tree Generation and the Coming Crisis
+description: This document analyzes the emergence of the Warped Tree Generation — a cohort that grew without real resistance or responsibility in an online-first world, leading to distorted development and fragile identities. It explores how this generation will collide with social, economic, and ethical realities between 2030 and 2035, and how the Biotrans Protocol is designed as a civilizational safety system to transform collapse into repentance, repentance into transformation, and transformation into lasting maturity.
+date: 2025-09-30
+---
+
 # 2025–2035: The Warped Tree Generation and the Coming Crisis 🌍
 
 ## 3.1. The First Generation for Whom Online Is More Real Than Reality
 
-The generation born into the 2020s is the first in human history to grow up where **the online world feels more real than the physical one**.  
+Those born after the late 1990s — the so-called **Warped Tree Generation**, encompassing Generation Z and the first wave of Generation Alpha — are the first in human history to grow up in a world where **the online realm often feels more real than the physical one**.  
 For them, the internet is not a tool — it is the primary arena where identity is formed, relationships are built, money is earned, and existence is validated. The offline world is merely a place to “log off” temporarily.
 
 - 📲 **Identity**: Online personas matter more than physical presence.  
@@ -74,10 +80,10 @@ Without deliberate pruning and repentance, they cannot correct their course.
 
 ---
 
-## 3.6. The Coming Collision – 2035 and Beyond
+## 3.6. The Coming Collision – 2030 to 2035 and Beyond
 
-The warped tree generation will collide with reality around their mid-30s (circa 2035).  
-The world they enter will not resemble the frictionless digital playground they grew up in:
+The warped tree generation will collide with reality as they enter their 30s — **likely between 2030 and 2035, depending on the country and social context**.  
+The world they face will no longer resemble the frictionless digital playground they grew up in:
 
 | Domain | Reality After 30 | Collision Point |
 |--------|------------------|------------------|
@@ -112,4 +118,4 @@ It turns collapse into repentance, repentance into transformation, and transform
 ## 📜 One-line Summary
 
 > **2025–2035** marks the rise of the **Warped Tree Generation** — those who grew without friction or responsibility.  
-> As they collide with reality, Biotrans Protocol offers the ethical OS capable of turning inevitable collapse into repentance and renewal.
+> As they collide with reality between 2030 and 2035, Biotrans Protocol offers the ethical OS capable of turning inevitable collapse into repentance and renewal.
