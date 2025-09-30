@@ -1,11 +1,3 @@
----
-title: "Distributed Strategist DAO – From Zhuge Liang to Invisible Order"
-description: "This document introduces the concept of the Distributed Strategist DAO, tracing the evolution from singular strategists to collective intelligence networks. It argues that while centralized command becomes obsolete in the age of AI, sensors, and quantum computation, an invisible order — a shared ethical and structural core — must anchor the system to sustain coherence and prevent chaos."
-date: 2025-09-30
-tags: ["philosophy", "strategy", "distributed intelligence", "invisible order", "Biotrans Protocol"]
-version: "v0.1"
----
-
 # 📜 Distributed Strategist DAO – From Zhuge Liang to Invisible Order
 
 > “The throne disappears, but the seat of order remains.”  
