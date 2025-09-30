@@ -74,9 +74,10 @@ It links philosophical, ethical, and technical dimensions and is expected to ser
 - **Emotion OS** – resonance-based evaluation structures  
 - **DAO design** – decentralized governance built on ethical regeneration
 
-This document officially records **2025-09-30** as the emergence date of the Biotrans Core Structure and establishes its origin as a condition-based, emergent framework within the Biotrans Protocol development history.
-
 ---
 
-📌 **Suggested commit message:**  
-`Add 2025-09-30-biotrans-core-structure-emergence.md – record emergent origin of L0–L5 civilizational framework`
+## 📆 Future Revisions
+
+These three core documents were first structured on **2025-09-30** as the foundational grammar of Biotrans Protocol.  
+However, as society evolves and technology advances, **they may undergo revisions in alignment with the fundamental principles of conscience**.  
+This ensures that the framework remains a living structure — faithful to its original intent, yet responsive to future realities.
