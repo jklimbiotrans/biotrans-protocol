@@ -83,7 +83,48 @@ These invariants define the **constitutional floor**, not the implementation cei
 
 ---
 
-## 8. Success Metrics
+## 8. On Philosophy Sharing and Paid Advisory
+
+The Biotrans Protocol is founded on the principle that **core ethical ideas, foundational concepts, and philosophical language must remain freely accessible to all**.  
+Words like *repentance*, *forgiveness*, *resonance*, and *conscience* — as well as the basic moral principles behind them — are part of humanity’s shared heritage and should never be locked behind paywalls.
+
+However, **sharing philosophy is not the same as providing applied intellectual labor.**
+
+While the *conceptual foundations* are open and free to use, the following activities involve substantial intellectual work and may justifiably involve compensation:
+
+- Crafting tailored advisory memos and structural recommendations.  
+- Evaluating whether a proposed design aligns with constitutional invariants.  
+- Producing custom analytical reports, governance blueprints, or ethical audits.  
+- Translating abstract concepts into domain-specific architectures and actionable models.
+
+In this model:
+
+- 📜 **Open:** Anyone may read, cite, or build upon the philosophical ideas and public specifications.  
+- 💼 **Compensable:** When my time, judgment, and expertise are required to contextualize, interpret, or apply those ideas to specific systems, organizations, or decisions.
+
+This distinction is not only ethically sound but **essential for sustainability**.  
+If all specialized work had to be free, the depth and continuity of the protocol’s development would suffer.  
+By keeping the *language* open but compensating the *application*, we ensure that the Biotrans philosophy remains a public good **and** a living system capable of evolving responsibly.
+
+---
+
+## 9. Income and Legal Structure (Current Plan)
+
+At present, all advisory and IP consulting fees related to the Biotrans Protocol will be received under the legal and tax identity of **Biotrans Studio**, the existing registered business entity.  
+While the studio’s original focus has been creative services such as translation, subtitling, and video production, its official business scope will be **expanded to include “ethical structure consulting, philosophical advisory, and digital ethics research.”**
+
+This approach has several advantages:
+
+- ✅ **Legal clarity:** All payments are invoiced, taxed, and reported transparently under a registered business.  
+- ✅ **Consistency:** The Biotrans name remains the public interface for both creative and advisory activities.  
+- ✅ **Scalability:** Should the project evolve, this structure can later connect seamlessly with a dedicated foundation or DAO if one is established.  
+- ✅ **Sustainability:** It allows advisory work to generate the revenue needed to support ongoing public work — without compromising the principle that the *core philosophy itself remains free*.
+
+A separate foundation or non-profit entity **may be considered in the future** to steward the protocol’s long-term constitutional mission. However, such a decision remains **undetermined** at this time. Until then, **Biotrans Studio will serve as the official entity for advisory service contracts and payments.**
+
+---
+
+## 10. Success Metrics
 
 To evaluate whether this strategic model works, the following metrics will be tracked:
 
@@ -95,30 +136,28 @@ To evaluate whether this strategic model works, the following metrics will be tr
 
 ---
 
-## 9. Limitations & Non-Goals
-
-To avoid scope creep, the following are explicitly outside my primary responsibilities:
-
-- Running production services, managing staff, storing user data, or handling legal incidents.  
-- Participating in routine legal disputes, administrative investigations, or minor internal conflicts.  
-- Providing operational SLAs or engaging with investor relations.  
-- Approving or overseeing monetization schemes (my role is to evaluate **ethical and structural alignment** only).
-
----
-
-## 10. Why This Model Is Rational
+## 11. Why This Model Is Rational
 
 - **Comparative advantage:** Maximizes my unique contribution — first-principles design — to ecosystem welfare.  
 - **Systemic resilience:** Multiple implementers reduce single-point-of-failure risk and resist central capture.  
 - **Standard formation:** History shows de facto standards emerge from **clear specifications and public exemplars**, not from any single company’s roadmap.  
-- **Risk-adjusted impact:** Reduced operational and legal exposure → more time for invariant design → higher integrity per unit time.
+- **Risk-adjusted impact:** Reduced operational and legal exposure → more time for invariant design → higher integrity per unit time.  
+- **Philosophy integrity:** Keeps the ideas free while protecting the quality and depth of their application.  
+- **Transparency:** Using Biotrans Studio as the official entity ensures clean accounting, lawful tax reporting, and public trust.
 
 ---
 
-## 11. Revision Policy
+## 12. Revision Policy
 
 This declaration and rationale will be **versioned**. Substantive updates require a changelog entry explaining what changed and why.  
 If empirical evidence challenges key assumptions (e.g., adoption is slow due to insufficient demos), I may commission more reference implementations — **without altering the constitutional invariants**.
+
+---
+
+## 📜 Changelog
+
+- **v1.0 – 2025-10-01**: Initial publication of the *Role Declaration & Strategic Rationale*.  
+  Defined the scope of my role as IP originator and ethical advisor, clarified the principle that *philosophy remains open while advisory work is compensable*, and documented the decision to process advisory revenue transparently under **Biotrans Studio** while leaving open the future possibility of a dedicated foundation.
 
 ---
 
