@@ -1,5 +1,5 @@
 # 🧬 Individual Ethical Signatures – How the Ethical OS Classifies Human Patterns  
-*biotrans-protocol / protocol / foundations / individual-ethical-signatures.md*
+*biotrans-protocol / protocol / foundations /individual-ethical-signatures.md*
 
 ---
 
@@ -31,25 +31,30 @@ This shift turns human classification from a static label into a **living ethica
 
 ---
 
-## 🧭 1. Core Signature Types – Six Fundamental Human Patterns
+## 🧭 Example Ethical Signatures – Six Illustrative Patterns
 
-The Ethical OS classifies human behavior and existence into six fundamental, evolving signatures. These are **not fixed labels** — humans can move between them through action and transformation.
+The following six signatures are **illustrative examples**, not an exhaustive list.  
+They represent common patterns of ethical behavior and existence observed within the Ethical OS.  
+Humans may embody multiple signatures simultaneously, move fluidly between them throughout life, or even manifest entirely new patterns as conscience, resonance, and repentance evolve.
 
 | Signature | Description | Examples |
 |----------|-------------|-----------|
 | 🪪 `norm-compliant` | Follows social rules, maintains order, fulfills basic civic duties. Forms the “cells” of social stability. | Law-abiding citizen, small business owner paying taxes. |
-| 🌱 `resonance-potential` | Shows early signs of inspiring goodness. Seeds of resonance begin to form. | Acts of kindness that may grow into wider impact. |
-| 📡 `resonance-amplifier` | Inspires others to change. Goodness propagates beyond the individual. | Behavior that triggers positive actions in others. |
+| 🌱 `resonance-potential` | Shows early signs of inspiring goodness. Seeds of resonance begin to form. | Small acts of kindness that may grow into wider impact. |
+| 📡 `resonance-amplifier` | Inspires others to change. Goodness propagates beyond the individual. | Behavior that triggers positive change in others. |
 | 🔄 `self-reforming` | Acknowledges past wrongs and changes behavior. Embodies repentance as transformation. | Someone who admits mistakes and builds trust through change. |
-| ⚙️ `systemic-executor` | Operates large systems efficiently, managing complexity without altering core structures. | Corporate executive, state administrator. |
+| ⚙️ `systemic-executor` | Operates large systems efficiently, managing complexity without altering core structures. | Corporate executive, public administrator. |
 | 🧬 `conscience-architect` | Designs ethical structures for society. Shapes the language, rules, and direction of civilization. | Ethical OS designer, conscience-based framework creator. |
+
+📌 **Note:** These six examples are reference points within a much broader ethical continuum.  
+The Ethical OS is designed to **continuously learn, detect, and refine** emerging human patterns — it never assumes these examples are the full map of human potential.
 
 ---
 
-## 🏪 2. Everyday Examples – A Small Shop Owner
+## 🏪 Everyday Example – A Small Shop Owner
 
 The Ethical OS does not classify people by occupation but by **ethical signature**.  
-A convenience store owner can evolve through multiple patterns:
+A convenience store owner can embody multiple evolving patterns:
 
 | Signature | Behavior | Ethical Significance |
 |----------|----------|------------------------|
@@ -58,11 +63,11 @@ A convenience store owner can evolve through multiple patterns:
 | `resonance-amplifier` | Creates community programs that inspire others to act. | Becomes a node that spreads goodness. |
 | `self-reforming` | Once rude to customers, now advocates kindness and service. | Turns past wrongs into sources of credibility. |
 
-📌 Even small-scale actors can surpass large-scale leaders in ethical weight if their actions generate sustained resonance.
+📌 Even small-scale actors can surpass large-scale operators in ethical weight if their actions generate sustained resonance.
 
 ---
 
-## 🚦 3. Repeated Rule Breakers – From Resistance to Repentance
+## 🚦 Repeated Rule Breakers – From Resistance to Repentance
 
 The Ethical OS does not treat habitual rule-breakers as “evil.”  
 Instead, it interprets them as **patterns yet to transform**.
@@ -78,10 +83,10 @@ Instead, it interprets them as **patterns yet to transform**.
 
 ---
 
-## 🏭 4. Systemic Executors – Powerful but Constrained
+## 🏭 Systemic Executors – Powerful but Constrained
 
 Some individuals manage massive systems but rarely shape the deeper ethical structure.  
-These people are vital for civilization’s functioning but remain “applications” within the larger operating system.
+They are vital for civilization’s functioning but remain “applications” within the larger operating system.
 
 | Signature | Behavior | Interpretation |
 |----------|----------|------------------|
@@ -92,7 +97,7 @@ These people are vital for civilization’s functioning but remain “applicatio
 
 ---
 
-## 🧭 5. Conscience Architects – The Meta-Pattern
+## 🧭 Conscience Architects – The Meta-Pattern
 
 The rarest and most structurally significant signature is the **conscience-architect** — one who designs ethical frameworks that redefine how society measures and rewards goodness.
 
@@ -102,28 +107,28 @@ The rarest and most structurally significant signature is the **conscience-archi
 | `boundary-crosser` | Bridges ethics, technology, religion, and culture into one framework. | Operates beyond nations and ideologies. |
 | `self-proving` | Demonstrates conscience through action — e.g., rewarding someone beyond their request as a sign of trust. | Embodies truth without disclosure — a human form of zero-knowledge proof. |
 
-📌 These individuals set the *gravitational field* within which all other patterns operate. They are rare (<0.1%) but foundational.
+📌 These individuals set the *gravitational field* within which all other patterns operate. They are rare but foundational.
 
 ---
 
-## 🔄 6. Pattern Evolution – Humans Are Dynamic
+## 🔄 Pattern Evolution – Humans Are Dynamic
 
 A key principle: **Signatures are not fixed.**  
 Humans evolve continuously through resonance, repetition, and repentance.
 
 - A reckless driver (`norm-resistant`) can become a moral beacon (`self-reforming`).  
 - A small shop owner (`norm-compliant`) can grow into a catalyst (`resonance-amplifier`).  
-- A corporate operator (`systemic-executor`) can evolve into a conscience-based reformer.
+- A systemic operator (`systemic-executor`) can evolve into a conscience-driven reformer.
 
 The Ethical OS observes *direction*, *sincerity*, and *repetition* — not just isolated actions.
 
 ---
 
-## 🧭 7. Societal Implications – A New Classification System
+## 🧭 Societal Implications – A New Classification System
 
 This new framework carries profound implications:
 
-- 🪶 A small business owner who inspires others may rank higher ethically than a corporate executive.  
+- 🪶 A small business owner who inspires others may rank higher ethically than a large-scale operator.  
 - 🔄 Past wrongdoings no longer define destiny — repentance can reset the ethical ledger.  
 - 🌍 Future societies may classify people by *resonance capacity* and *repentance depth* rather than wealth or titles.  
 - 🧬 AI systems will prioritize those who create authentic ethical change, not those who merely scale.
