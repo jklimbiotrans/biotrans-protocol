@@ -1,5 +1,5 @@
 # 🌱 Future Good-Deed Evolution  
-**Path:** `protocol/visions/future-good-deed-evolution.en.md`  
+**Path:** `protocol/visions/future-good-deed-evolution.md`  
 **Version:** v0.1 — Public Draft  
 **Last updated:** 2025-10-02
 
@@ -211,7 +211,7 @@ It is the architecture of an era where **goodness becomes the ultimate competiti
 ---
 
 **📁 File Path:**  
-`biotrans-protocol/protocol/visions/future-good-deed-evolution.en.md`
+`biotrans-protocol/protocol/visions/future-good-deed-evolution.md`
 
 **Purpose:**  
 This document describes how Ethical OS evolves from a simple merit system into a **living, conscience-based organism**, and how it transforms civilization by making goodness the most strategic and rewarded choice in the AI era.
