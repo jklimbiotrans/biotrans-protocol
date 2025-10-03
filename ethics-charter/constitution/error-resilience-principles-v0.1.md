@@ -3,15 +3,38 @@
 
 ---
 
-## 📌 Preamble
+## 📌 Description
+
+Foundational principles of the Biotrans Protocol’s ethical constitution, establishing that human imperfection and misunderstanding are inevitable and that any enduring ethical system must be designed with built-in error resilience. This document defines the philosophical and structural basis for future articles on forgiveness, repentance, and systemic integrity.
+
+---
+
+## 🪐 Preamble
 
 This document sets forth the foundational **principles of error resilience** upon which all subsequent articles and ethical clauses of the Biotrans Protocol are built.  
-It is **not a legal article** but a **philosophical and structural framework** — a soil from which specific rules, safeguards, and constitutional clauses emerge.
+It is **not a legal article** but a **philosophical and structural framework** — the soil from which specific rules, safeguards, and constitutional clauses will emerge.
 
 At the heart of the Biotrans Protocol lies a simple truth:
 
 > **“Humans are inherently imperfect, and misunderstanding is inevitable.  
 > Therefore, any ethical system that aspires to endure must be resilient in the face of error, rather than brittle in pursuit of perfection.”**
+
+---
+
+## 🪐 Background
+
+Throughout history, ethical systems and social contracts have often failed not because their ideals were wrong, but because they assumed that humans could behave ideally.  
+In reality, even the most ethical individuals are capable of acting emotionally.  
+They become tired, overwhelmed, and reactive; they differ widely in physical strength, mental endurance, and depth of knowledge.  
+And above all, they misunderstand — not out of malice, but because misunderstanding is a natural byproduct of human perception.
+
+In complex societies, especially those involving AI, decentralized governance, and large-scale digital interactions, these differences and misunderstandings do not decrease — they multiply.  
+The more people participate, the more inevitable misinterpretations, conflicting intentions, and unintended consequences become.
+
+The Biotrans Protocol recognizes this fundamental truth: **imperfection is not a flaw to eliminate, but a condition to design for.**  
+Our ethical architecture must therefore assume emotional reactions, cognitive differences, and the certainty of misunderstanding — and still remain stable, humane, and just.
+
+This document arises from the need to build a system that does not collapse under human error but absorbs it; not one that demands perfection, but one that *guides imperfection toward goodness*.
 
 ---
 
