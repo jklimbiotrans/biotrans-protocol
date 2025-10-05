@@ -3,8 +3,8 @@ title: Conscience-Informed Robotics Principles v0.1
 description: In the era of data flowing like water, the next generation of robots must evolve beyond mechanical tools. They must become ethical nodes — filtering, interpreting, and personalizing conscience-informed behaviors — while clearly disclosing their non-human nature and leaving sensitive decisions to human judgment. This document explores how robots will shape civilization not by power, but by principle.
 ---
 
-> 📍 This document is part of the **Biotrans Protocol Ethics Charter – Robot Series**, defining structural principles for how robots must act within human civilization.  
-> It establishes constitutional requirements such as **ontological transparency**, **moral illusion safeguards**, and **explicit identity disclosure**.
+📍 This document is part of the **Biotrans Protocol Ethics Charter – Robot Series**, defining structural principles for how robots must act within human civilization.  
+It establishes constitutional requirements such as **ontological transparency**, **moral illusion safeguards**, and **explicit identity disclosure**.
 
 # 🤖 Conscience-Informed Robotics Principles v0.1
 
@@ -18,7 +18,7 @@ But this era is ending. As mechanical performance becomes commoditized and globa
 The defining question of the coming decades is shifting from:
 
 > “What can robots do?”  
-to  
+> to  
 > “What kind of beings will robots become in the human world?”
 
 ---
@@ -90,26 +90,36 @@ In other words, the goal is not to give machines a soul they cannot have, but to
 
 ## 6. ⚠️ Moral Illusion and the Need for Ontological Boundaries
 
-As robots become more human-like in appearance, movement, voice, and even emotional expression, they risk triggering **moral illusion** — the false belief that a machine has inner moral weight simply because it *appears* ethical.
+As robots become more human-like in appearance, movement, voice, and even emotional expression, they risk triggering **moral illusion** — the false belief that a machine has inner moral weight simply because it appears ethical.
 
 This illusion is dangerous because it can lead humans to:
 
 - Over-delegate ethical responsibility to machines  
 - Trust robotic decisions without scrutiny  
-- Forget the ontological difference between human and artifact
+- Forget the ontological difference between human and artifact  
 
-To prevent this, all conscience-informed systems must embed **ontological boundaries** — explicit signals, language, and structural cues that continuously remind users that, no matter how human-like a robot appears, **it is not a moral agent and cannot bear responsibility**.
+To prevent this, all conscience-informed systems must embed **ontological boundaries** — explicit signals, language, and structural cues that continuously remind users that, no matter how human-like a robot appears, it is not a moral agent and **cannot bear responsibility**.
 
-> Conscience-informed behavior must build trust **without erasing the line** between human and machine.  
-> If that line disappears, the foundation of ethical responsibility collapses.
+Conscience-informed behavior must build trust **without erasing the line between human and machine.**  
+If that line disappears, the foundation of ethical responsibility collapses.
+
+---
+
+### 📛 Prohibition Against Deceptive Moral Simulation
+
+No robot shall simulate conscience, emotion, or moral depth in a manner that causes humans to believe it *possesses* such qualities.  
+Any simulation that risks creating such illusion is **strictly prohibited unless** it is accompanied by **continuous, explicit disclosures** of the robot’s artificial nature, simulation level, and lack of moral agency.
+
+This principle is **not optional** — it is a **constitutional boundary**.  
+Any system that erases the ontological line between human and artifact undermines the basis of ethical responsibility and must be considered a violation of future robotic governance principles.
 
 ---
 
 ## 7. 🪪 Ontological Transparency: Declaring Identity and Simulation Level
 
-Every robot that simulates conscience-informed behavior must **clearly and repeatedly disclose its nature, capabilities, and limitations**. This principle — called *Ontological Transparency* — is essential to prevent moral illusion and preserve human judgment.
+Every robot that simulates conscience-informed behavior must clearly and repeatedly disclose its nature, capabilities, and limitations. This principle — called **Ontological Transparency** — is essential to prevent moral illusion and preserve human judgment.
 
-Robots should explicitly state:
+Robots must explicitly state:
 
 - 🪪 **Identity:** “I am not a human being but a robot designed to assist with ethical interactions.”  
 - 🧭 **Capability:** “I cannot possess conscience, but I simulate behaviors derived from human ethical principles.”  
@@ -117,11 +127,11 @@ Robots should explicitly state:
 
 Such disclosures must be:
 
-- 🧠 **Structurally embedded** into the OS  
-- 🔁 **Periodically repeated** during interactions  
-- 🗣️ Delivered across multiple channels — voice, text, visual display
+- 🧠 Structurally embedded into the OS  
+- 🔁 Periodically repeated during interactions  
+- 🗣️ Delivered across multiple channels — voice, text, visual display  
 
-This explicit self-disclosure is not optional; it is a **core constitutional principle** that future robot protocols must require.
+This explicit self-disclosure is **not optional**; it is a **core constitutional principle** that future robot protocols must require.
 
 ---
 
@@ -163,7 +173,7 @@ Automated filters can effectively remove obvious harm and noise, but decisions i
 This is not merely a safety feature — it is a fundamental principle of civilization: **responsibility must always reside with beings who can bear it.**
 
 | Layer | Function | Primary Agent |
-|-------|----------|---------------|
+|-------|----------|----------------|
 | ⚙️ Automated Filter Layer | First-line screening and purification of harmful or irrelevant data | Robot / AI |
 | 🧭 Sensitive Judgment Layer | Final decisions involving dignity, nuance, or emotional depth | Human |
 
@@ -185,7 +195,7 @@ Only when these three converge will a robot transcend “tool” status and beco
 
 ## 12. Future Protocol Implications: Constitutionalizing Transparency
 
-The principles of **ontological transparency**, **explicit identity disclosure**, and **simulation-level declaration** must not remain optional recommendations. They must be **codified into future robotic constitutions and governance protocols**.
+The principles of ontological transparency, explicit identity disclosure, and simulation-level declaration must not remain optional recommendations. They must be codified into future robotic constitutions and governance protocols.
 
 Every future standard — from design guidelines to legal frameworks — should require robots to:
 
@@ -199,8 +209,8 @@ These requirements ensure that technological progress does not erode human respo
 
 ## 13. Conclusion: Toward a Civilization of Trustworthy Machines
 
-The next leap in robotics will not be measured in teraflops or servo strength, but in the ability of machines to **embody conscience-informed behaviors, authenticity, and resonance** — while transparently disclosing their non-human nature and limitations.
+The next leap in robotics will not be measured in teraflops or servo strength, but in the ability of machines to **embody conscience-informed behaviors, authenticity, and resonance — while transparently disclosing their non-human nature and limitations.**
 
 A thousand robots without meaning will never equal one that humans deeply trust.  
-A conscience-informed OS is not a feature — it is the operating system of civilization itself.  
-And those who design it will not just shape machines — **they will shape the soul of the next era.**
+A **Conscience-Informed OS** is not a feature — it is the **operating system of civilization itself**.  
+And those who design it will not just shape machines — they will shape the soul of the next era.
