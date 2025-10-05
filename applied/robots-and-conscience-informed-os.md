@@ -201,3 +201,12 @@ The next leap in robotics will not be measured in teraflops or servo strength, b
 A thousand robots without meaning will never equal one that humans deeply trust.  
 A conscience-informed OS is not a feature — it is the operating system of civilization itself.  
 And those who design it will not just shape machines — **they will shape the soul of the next era.**
+
+---
+
+### 📎 Further Reference
+
+For more detailed principles and constitutional requirements regarding **explicit disclosure, identity signaling, and caution in conscience-informed behavior simulation**, please refer to:
+
+[`biotrans-protocol/ethics-charter/robot/conscience-informed-robotics-principles-v0.1.md`](../ethics-charter/robot/conscience-informed-robotics-principles-v0.1.md)
+
