@@ -6,14 +6,22 @@ _Biotrans Protocol – Foundational Document_
 
 ---
 
+### 📜 Description
+
+> Declares the **First Principle of the Biotrans Protocol**:  
+> **Capital drifts with time, but conscience stands beyond it.**  
+> While capital — physical or financial — changes with policies, markets, and power cycles, conscience remains a timeless axis of order.  
+> This principle proposes the next step in protocol design: **from energy, to stake, to conscience**, positioning conscience as the ultimate foundation for long-term, human-centered systems.
+
+---
+
 ## 1. Principle Declaration
 
 This document defines the **first foundational principle** of the Biotrans Protocol:  
 that **capital is inherently bound to time** — influenced by politics, policy cycles, populist tides, and short-term agendas — while **conscience transcends time**, serving as a stable axis across eras.
 
 Any system rooted solely in capital will inevitably follow the ebb and flow of temporal forces.  
-A system grounded in conscience, however, retains integrity even as civilizations transform their outer form.  
-It is this timeless quality that allows conscience to serve as the ultimate anchor for ethical architectures, digital protocols, and human-centered technologies.
+A system grounded in conscience, however, retains integrity even as civilizations transform their outer form.
 
 > Capital is a wave.  
 > Conscience is the axis around which waves revolve.
@@ -39,7 +47,26 @@ This shift marked a profound step forward — but it was still a system anchored
 
 ---
 
-## 3. Beyond Capital – Conscience as the Next Structural Layer
+## 3. Bitcoin’s Role – A Tool for the Laws of Money
+
+Bitcoin represents another powerful but limited paradigm.  
+Its Proof of Work system converts **real-world physical energy** into digital scarcity, anchoring its value in an unforgeable link to reality.  
+This makes Bitcoin an extraordinarily robust **store of value** — often described as *digital gold* — because its supply is secured by irreversible energy expenditure.
+
+Yet this same design reveals a structural limitation:  
+Bitcoin records **what happened**, but not **why** it happened.  
+It can prove that 1 BTC moved from A to B, but it cannot distinguish whether the act was charity or crime, repentance or exploitation.  
+It encodes **transactions**, not **intentions**.
+
+> Bitcoin uses blockchain as a tool to encode the **laws of money**.  
+> Biotrans uses blockchain as a foundation to encode the **laws of meaning**.
+
+Thus, Bitcoin excels as a “vault” — preserving value — but does not create an *ethical order*.  
+Biotrans seeks to build that next layer: recording **context, conscience, repentance, and resonance** as structural variables, not just numbers.
+
+---
+
+## 4. Beyond Capital – Conscience as the Next Structural Layer
 
 The Biotrans Protocol proposes the next step in this evolutionary arc:  
 from **resource** → **stake** → **conscience**.
@@ -61,11 +88,26 @@ This approach enables the creation of digital orders that:
 > Capital seeks power; conscience seeks rightness.  
 > Capital governs by force; conscience governs by resonance.
 
-The Biotrans Protocol positions itself not merely as a system for transactions or governance, but as an **ethical axis** upon which future socio-digital orders can revolve.
+---
+
+## 5. Foundational Governance Principle – Original Intent and Authority
+
+Even if capital, stake, or foundation contributions enter the ecosystem,  
+**the ultimate decision-making authority over the protocol’s ethical architecture remains with its original designer.**
+
+This principle safeguards the protocol from capture by financial or political interests.  
+It ensures that the original conscience-driven intent — the axis upon which all structures revolve — cannot be overridden by transient agendas or majority vote.
+
+> Capital may participate, but it shall not rule.  
+> Stake may contribute, but it shall not rewrite the original intent.  
+> The foundational conscience remains sovereign.
+
+This clause is essential to preserve the structural integrity and timeless orientation of the Biotrans Protocol.  
+It draws a clear boundary: **capital is a resource within the system, not the architect of the system.**
 
 ---
 
-## 4. Implications for Future Systems
+## 6. Implications for Future Systems
 
 1. **Governance Beyond Economics** – Systems must incorporate repentance, forgiveness, resonance, and influence metrics as primary state variables, not just token balances or voting power.  
 2. **Capital Within Ethical Bounds** – Investments and financial participation must operate within conscience-based rules (e.g., diversity resonance, repentance conditions), ensuring they cannot dominate structure.  
@@ -74,7 +116,7 @@ The Biotrans Protocol positions itself not merely as a system for transactions o
 
 ---
 
-## 5. Final Statement
+## 7. Final Statement
 
 The first principle of the Biotrans Protocol is not a technical specification but a **constitutional axis**:  
 it declares that the ultimate foundation of a resilient digital order is not the power of capital but the constancy of conscience.
