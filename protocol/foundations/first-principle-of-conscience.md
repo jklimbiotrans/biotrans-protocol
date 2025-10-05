@@ -10,8 +10,14 @@ _Biotrans Protocol – Foundational Document_
 
 > Declares the **First Principle of the Biotrans Protocol**:  
 > **Capital drifts with time, but conscience stands beyond it.**  
-> While capital — physical or financial — changes with policies, markets, and power cycles, conscience remains a timeless axis of order.  
-> This principle proposes the next step in protocol design: **from energy, to stake, to conscience**, positioning conscience as the ultimate foundation for long-term, human-centered systems.
+> Bitcoin used blockchain as a tool to encode the laws of money, and Ethereum evolved from energy to stake — yet both remain bound by capital.  
+> Biotrans proposes the next step: **from energy, to stake, to conscience**, where capital may participate but never rule, and the original intent of the protocol remains sovereign.
+
+---
+
+⚖️ **Note:** This document defines a **foundational principle**, not a legal article.  
+It functions as the *constitutional spirit* above all clauses — including Article 1 — and informs their meaning and legitimacy.  
+It does not conflict with constitutional articles; rather, it anchors and empowers them.
 
 ---
 
