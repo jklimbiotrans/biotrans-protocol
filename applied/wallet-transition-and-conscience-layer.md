@@ -209,13 +209,6 @@ Author: Biotrans Protocol – Applied Ethics OS Initiative
 Version: Draft 0.1 – 2025-10-08
 
 ---
-# 7. Implementation Roadmap – From Concept to Prototype
-...
-
-# 7.3. Future Governance Principles
-...
-
----
 
 ## 📎 Appendix – Example Ethical Primitive Structure
 
