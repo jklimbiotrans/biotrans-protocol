@@ -1,5 +1,17 @@
 # 🌐 Ethics OS × Quantum Infrastructure Scenario  
-### — The Core Framework for a Conscience-Driven Digital Order (2030–2040)
+### — A Foundational Framework for a Conscience-Driven Digital Civilization (2030–2040)
+
+---
+
+## 📜 Founder's Preface: From Human Fragility to Structural Integrity
+
+This framework was not born in laboratories or boardrooms.  
+It emerged from failure, loneliness, and moments when conscience was the only thing worth holding onto — even when everything else felt meaningless.  
+
+It is precisely this human vulnerability that shapes the design.  
+Just as quantum physics encodes nature’s uncertainty, conscience is humanity’s way of navigating uncertainty.  
+This protocol exists to unite the two: the randomness of nature and the responsibility of choice.  
+It transforms suffering into structure and conscience into computation — so that even in the most uncertain future, humanity retains direction.
 
 ---
 
