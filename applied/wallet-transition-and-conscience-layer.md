@@ -209,8 +209,18 @@ Author: Biotrans Protocol – Applied Ethics OS Initiative
 Version: Draft 0.1 – 2025-10-08
 
 ---
+# 7. Implementation Roadmap – From Concept to Prototype
+...
 
-## 📎 Appendix – Ethical Primitives Example
+# 7.3. Future Governance Principles
+...
+
+---
+
+## 📎 Appendix – Example Ethical Primitive Structure
+
+Below is a conceptual example of how repentance, merit, and resonance could be defined in a machine-readable format.  
+⚠️ This block is intentionally placed at the very end of the document to avoid rendering issues.
 
 ```json
 {
