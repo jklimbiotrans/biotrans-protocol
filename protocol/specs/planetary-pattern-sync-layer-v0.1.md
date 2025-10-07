@@ -107,6 +107,18 @@ To further mitigate corruption risk, PPSL relies on a **redundant relay mesh**:
 This distributed verification layer acts as a *planetary immune system* for the ethical ledger.
 
 ---
+## **8. State Proof Interface (SPI)**
+
+PPSL uses a lightweight proof layer to ensure verifiability of state transitions.  
+This interface allows nodes to submit and verify state proofs without transmitting the full ledger, ensuring that changes are legitimate and reconstructable across planetary distances.
+
+```solidity
+interface IStateProof {
+    function submitStateProof(bytes32 stateIdentifier, bytes calldata zkProof) external;
+    function verifyStateProof(bytes32 stateIdentifier) external view returns (bool);
+    function getLexiconVersion() external view returns (uint256);
+}
+---
 
 ## **9. Implementation Considerations**
 
