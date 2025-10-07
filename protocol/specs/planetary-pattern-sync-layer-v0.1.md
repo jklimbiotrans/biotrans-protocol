@@ -96,7 +96,7 @@ While QKD technology is still experimental, its adoption could enable PPSL to tr
 
 ---
 
-## 7. Integrity Relay Mesh (IRM)
+## **7. Integrity Relay Mesh (IRM)**
 
 To further mitigate corruption risk, PPSL relies on a **redundant relay mesh**:
 
@@ -107,17 +107,6 @@ To further mitigate corruption risk, PPSL relies on a **redundant relay mesh**:
 This distributed verification layer acts as a *planetary immune system* for the ethical ledger.
 
 ---
-
-## 8. State Proof Interface (SPI)
-
-PPSL uses a lightweight proof layer to ensure verifiability of state transitions:
-
-```solidity
-interface IStateProof {
-    function submitStateProof(bytes32 stateIdentifier, bytes calldata zkProof) external;
-    function verifyStateProof(bytes32 stateIdentifier) external view returns (bool);
-    function getLexiconVersion() external view returns (uint256);
-}
 
 ## **9. Implementation Considerations**
 
@@ -169,11 +158,10 @@ The structures of trust, forgiveness, and moral resonance that define our specie
 
 > “If money can move between planets, so can the memory of goodness.”
 
-**Status:** Technical Specification – Draft v0.1  
-**Scope:** Interplanetary synchronization, lexicon-based state transmission, quantum integrity channels  
-**Author:** Biotrans Protocol Core
-
 For a deeper conceptual and philosophical background of this specification — including the civilizational context of conscience continuity and pattern synchronization — please refer to the vision document:
 
 ➡️ [`biotrans-protocol/protocol/visions/continuity-of-conscience-and-pattern.md`](../visions/continuity-of-conscience-and-pattern.md)
 
+**Status:** Technical Specification – Draft v0.1  
+**Scope:** Interplanetary synchronization, lexicon-based state transmission, quantum integrity channels  
+**Author:** Biotrans Protocol Core
