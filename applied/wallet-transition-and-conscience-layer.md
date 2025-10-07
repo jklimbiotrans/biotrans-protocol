@@ -103,6 +103,8 @@ For projects like **Biotrans Protocol**, the next two years are decisive. Before
 
 To ensure the conscience layer becomes a real, usable part of the future wallet OS, the following phased roadmap is proposed.
 
+📌 **Note:** My role in this phase is to propose the ethical framework and demonstrate small-scale proofs of concept — *not* to build full commercial products.
+
 ### 🪶 1. Define Ethical Primitives (2025–2026 Q2)
 
 Translate core ethical values into machine-readable logic that developers can integrate into smart contracts, wallet logic, and backend systems. These definitions become the “moral grammar” of the wallet.
@@ -131,7 +133,8 @@ Run **small-scale community experiments (20–50 participants)** or DAO governan
 
 ## 7.2. Standardization and Integration (2028–2030)
 
-After successful prototypes and early experiments, the next step is to **embed the conscience layer into global wallet infrastructure**.
+📌 **Role clarification:** My role here is limited to providing the philosophical blueprint, ethical definitions, and advisory input.  
+The actual standardization, legal adoption, and infrastructure integration must be led by international bodies, governments, and institutional partners.
 
 ### 🏛️ 1. Formalize Ethical Standards (2028)
 
@@ -155,15 +158,14 @@ After successful prototypes and early experiments, the next step is to **embed t
 
 ## 7.3. Evolution and Governance – Post-2030 Era
 
-Once the conscience layer becomes foundational, the focus shifts to **long-term resilience, governance, and adaptation.**
+📌 **Role clarification:** My work here focuses on proposing governance principles and renewal mechanisms.  
+Execution at scale will require DAO networks, cross-border alliances, and collaborative stewardship beyond any single individual.
 
 ### 🧬 1. DAO-Driven Ethical Governance (2030–2040)
 
 - Transition oversight from private consortia to **DAO-based governance** guided by the Biotrans charter.  
 - Ensure **no single entity** (state or corporation) can capture the conscience layer.  
 - Distribute decision-making across culturally diverse nodes to preserve neutrality.
-
-📌 Result: Conscience becomes a *public trust* managed by decentralized stewardship.
 
 ### 🌀 2. Periodic Ethical Renewal Cycles (33 · 77 · 111 Years)
 
@@ -172,15 +174,11 @@ Once the conscience layer becomes foundational, the focus shifts to **long-term 
   - **77 years:** DAO governance model review.  
   - **111 years:** Ethical charter re-examination and renewal.
 
-📌 Result: The system remains dynamic, prevents dogmatism, and adapts to evolving moral understanding.
-
 ### 🌍 3. Cross-Civilizational and Inter-Planetary Ethics (Post-2040+)
 
 - Expand conscience primitives for cross-cultural and possibly inter-planetary contexts.  
 - Develop **resonance oracles** to track ethical influence across diverse ecosystems.  
 - Explore conscience-linked interaction with AI agents and autonomous systems.
-
-📌 Result: The conscience layer matures into a *universal ethical protocol* beyond human boundaries.
 
 ---
 
@@ -206,8 +204,10 @@ Once the conscience layer becomes foundational, the focus shifts to **long-term 
 Embedding the conscience layer during this transition ensures that humanity does not lose its soul in the process.
 
 ---
+
 Author: Biotrans Protocol – Applied Ethics OS Initiative
 Version: Draft 0.1 – 2025-10-08
+
 ---
 
 ## 📎 Appendix – Ethical Primitives Example
