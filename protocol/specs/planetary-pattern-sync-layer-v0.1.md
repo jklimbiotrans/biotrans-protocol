@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Purpose
+## **1. Purpose**
 
 The **Planetary Pattern Sync Layer (PPSL)** proposes a next-generation synchronization mechanism for blockchain-based ethical ledgers across planetary distances.  
 Its goal is to ensure that **truthful state and ethical patterns** — such as conscience records, MeritSBT histories, and trust structures — remain verifiable and continuous even when transmitted between Earth and extraterrestrial settlements (e.g., Mars), despite extreme latency and potential signal distortion.
@@ -20,7 +20,7 @@ This specification defines the core architecture and interfaces for PPSL as a fo
 
 ---
 
-## 2. Background: The Interplanetary Synchronization Challenge
+## **2. Background: The Interplanetary Synchronization Challenge**
 
 Current blockchain consensus mechanisms assume:
 
@@ -40,7 +40,7 @@ PPSL is designed to address these limitations by shifting focus from **raw data 
 
 ---
 
-## 3. Core Design Principles
+## **3. Core Design Principles**
 
 1. **Integrity over Immediacy** – Prioritize unalterable truth over real-time speed.  
 2. **Proof over Payload** – Transmit state proofs, not entire ledgers.  
@@ -50,7 +50,7 @@ PPSL is designed to address these limitations by shifting focus from **raw data 
 
 ---
 
-## 4. Architecture Overview
+## **4. Architecture Overview**
 
 The PPSL consists of four conceptual layers:
 
@@ -63,7 +63,7 @@ The PPSL consists of four conceptual layers:
 
 ---
 
-## 5. Lexicon-Based Synchronization
+## **5. Lexicon-Based Synchronization**
 
 Traditional block propagation sends large data blocks across networks.  
 PPSL introduces a **Lexicon Repository (LR)**:
@@ -85,7 +85,7 @@ Benefits:
 
 ---
 
-## 6. Quantum Entanglement-Based Synchronization
+## **6. Quantum Entanglement-Based Synchronization**
 
 PPSL envisions leveraging **Quantum Key Distribution (QKD)** or other entanglement-based communication methods to further enhance integrity.
 
@@ -106,18 +106,6 @@ To further mitigate corruption risk, PPSL relies on a **redundant relay mesh**:
 
 This distributed verification layer acts as a *planetary immune system* for the ethical ledger.
 
----
-## **8. State Proof Interface (SPI)**
-
-PPSL uses a lightweight proof layer to ensure verifiability of state transitions.  
-This interface allows nodes to submit and verify state proofs without transmitting the full ledger, ensuring that changes are legitimate and reconstructable across planetary distances.
-
-```solidity
-interface IStateProof {
-    function submitStateProof(bytes32 stateIdentifier, bytes calldata zkProof) external;
-    function verifyStateProof(bytes32 stateIdentifier) external view returns (bool);
-    function getLexiconVersion() external view returns (uint256);
-}
 ---
 
 ## **9. Implementation Considerations**
@@ -174,6 +162,26 @@ For a deeper conceptual and philosophical background of this specification — i
 
 ➡️ [`biotrans-protocol/protocol/visions/continuity-of-conscience-and-pattern.md`](../visions/continuity-of-conscience-and-pattern.md)
 
-**Status:** Technical Specification – Draft v0.1  
-**Scope:** Interplanetary synchronization, lexicon-based state transmission, quantum integrity channels  
-**Author:** Biotrans Protocol Core
+---
+
+## **12. State Proof Interface (SPI)**
+
+> 📌 *Note:* This section represents a **technical specification layer** of PPSL.  
+> It has been intentionally placed as the **final numbered section** to prevent Markdown rendering issues (such as numbering or code block misinterpretation) during documentation editing or GitHub display.
+
+PPSL uses a lightweight proof layer to ensure verifiability of state transitions.  
+This interface allows nodes to submit and verify state proofs without transmitting the full ledger, ensuring that changes are legitimate and reconstructable across planetary distances.
+
+- `stateIdentifier`: A compact representation of the new blockchain state, derived from the pre-distributed lexicon.  
+- `zkProof`: A zero-knowledge proof verifying the validity of the state transition without revealing sensitive details.  
+- `lexiconVersion`: Ensures both endpoints reference the same lexicon dictionary, maintaining synchronization integrity.
+
+This modular interface can be integrated into existing smart contract systems or standalone verification modules.  
+It serves as the *cryptographic handshake* between Earth-based nodes and extraterrestrial nodes, guaranteeing that synchronized states are valid, tamper-proof, and traceable without heavy data transfer.
+
+```solidity
+interface IStateProof {
+    function submitStateProof(bytes32 stateIdentifier, bytes calldata zkProof) external;
+    function verifyStateProof(bytes32 stateIdentifier) external view returns (bool);
+    function getLexiconVersion() external view returns (uint256);
+}
