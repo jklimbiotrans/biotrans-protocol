@@ -6,7 +6,7 @@
 ---
 
 > **Description:**  
-> Explores the shift from quantity-based ethics to quality-centered “seed ethics,” showing how a single sincere act can outweigh countless superficial ones. It explains how AI and blockchain now make depth, sincerity, and transformation measurable through mechanisms like resonance diversity, merit dynamics, repentance, and a return from moral relativism to principled absolutes.
+> This document explores the ethical transition from quantity-based metrics to quality-centered “seed ethics,” showing how a single sincere act can outweigh countless superficial ones. It also argues that humanity is moving from moral relativism to principled absolutism — restoring timeless values like honesty, conscience, and the sanctity of life. With AI and blockchain making depth and sincerity measurable, Biotrans Protocol encodes these principles through mechanisms such as resonance diversity, merit dynamics, and repentance.
 
 ---
 
@@ -93,7 +93,7 @@ Three foundational components ensure that depth, sincerity, and seed potential a
 
 ---
 
-### 🌐 7.1 Resonance Diversity
+### 7.1 Resonance Diversity
 
 Quantity-based systems are vulnerable to bias, collusion, and echo chambers.  
 Biotrans solves this with **resonance diversity**: if more than ~80% of those granting merit share the same belief, region, or identity, the merit becomes invalid.  
@@ -109,7 +109,7 @@ Only when *diverse people from different backgrounds resonate simultaneously* do
 
 ---
 
-### 🪙 7.2 Merit System
+### 7.2 Merit System
 
 Traditional scoring rewards frequency and volume. Biotrans flips this:
 
@@ -125,7 +125,7 @@ Traditional scoring rewards frequency and volume. Biotrans flips this:
 
 ---
 
-### 🔁 7.3 Repentance Dynamics
+### 7.3 Repentance Dynamics
 
 Repentance — uniquely human — is treated as a **first-class variable**:
 
@@ -138,7 +138,7 @@ A single act of repentance can outweigh a hundred superficial deeds — because 
 
 ---
 
-## 7.5 From Relativism to Absolutism: The Coming Shift in Ethics
+## 8. From Relativism to Absolutism: The Coming Shift in Ethics
 
 For much of the late 20th and early 21st centuries, ethics was shaped by **relativism** — the belief that moral truth depends on perspective, culture, or situation.  
 At first, this seemed progressive: it embraced diversity and rejected dogma. But over time, relativism began to erode even the most essential principles.
@@ -166,7 +166,7 @@ In this light, the future of ethics will not be endless reinterpretation but a *
 
 ---
 
-## 8. Quantity vs. Quality: A Structural Comparison
+## 9. Quantity vs. Quality: A Structural Comparison
 
 | Feature | Quantity-Based Ethics | Quality-Centered Ethics (Biotrans) |
 |--------|------------------------|------------------------------------|
@@ -179,7 +179,7 @@ In this light, the future of ethics will not be endless reinterpretation but a *
 
 ---
 
-## 📜 Biotrans Protocol Declaration
+## 10. Biotrans Protocol Declaration
 
 > We declare the end of quantity as the highest measure of good.  
 > We declare the beginning of a new standard: **quality as the core of ethics.**  
@@ -187,4 +187,3 @@ In this light, the future of ethics will not be endless reinterpretation but a *
 >  
 > In the age of AI and blockchain, even these seeds can now be traced, verified, and protected.  
 > The time has come for ethics not just to aspire to quality — but to **be built upon it.**
-
