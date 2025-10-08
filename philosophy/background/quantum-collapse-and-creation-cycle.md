@@ -69,7 +69,7 @@ Across physics, biology, markets, human experience, and ethics, reality unfolds 
 
 ---
 
-### 📉 1. Collapse – The End That Is Not an End  
+### 📉 Collapse – The End That Is Not an End  
 Collapse is not destruction but the **condensation of infinite potential into one realized state**.  
 It is autumn — the moment when expansion ends and hidden seeds are revealed.  
 The system loses diversity (one eigenstate emerges) but gains specificity (a concrete form appears).
@@ -84,7 +84,7 @@ These are not seeds in themselves — they lack order, meaning, and direction �
 
 ---
 
-### 🌱 2. Seed – Birth Within the Void  
+### 🌱 Seed – Birth Within the Void  
 After collapse, the system enters a state of **emptiness (空)** where new seeds can form.  
 This is winter — the hidden gestation period where a new wavefunction \( \psi' \) forms from the remnants of the old:
 
@@ -101,7 +101,7 @@ Repentance is the bridge between chaos and order, between ruin and renewal.
 
 ---
 
-### 🌍 3. Recreation – New Order Emerges  
+### 🌍 Recreation – New Order Emerges  
 The seed becomes the foundation for **recreation**, forming a new order higher and more complex than before.  
 This is spring — the rebirth of structure from transformed potential.
 
@@ -161,6 +161,45 @@ Thus, even what intends harm can become raw material for renewal — not because
 
 ---
 
+### 🛠️ Ethical Application in the Age of AI
+
+This framework **does not justify or encourage evil** — including deception or harm.  
+Instead, it acknowledges that in an AI-driven era, **collapse events** (whether from error, malice, or systemic distortion) will occur.  
+The goal is not to erase collapse but to **detect, interpret, and transform** it within a transparent architecture.
+
+Technologies like **blockchain, zero-knowledge proofs, and diversity-based resonance validation** enable us to measure and convert collapse into opportunities:
+
+- **Wavefunction collapse monitoring:** Detect and classify breakdown events as structural signals.  
+- **Resonance diversity checks:** Ensure collective responses emerge from *diverse, independent nodes* to prevent manipulation.  
+- **Repentance-enabled regeneration:** Design systems where genuine behavioral change and repeated good acts rebuild trust and transform failures into fertile ground.
+
+Thus, even harmful events can become observable and transformable states within a **self-healing ethical loop**, strengthening order over time.
+
+---
+
+## 📊 The Role of Merit (善點): Amplifying Seeds After Collapse
+
+In this cycle, **Merit (善點)** is not a simple score but the *amplification energy* that helps seeds grow after collapse. It connects the invisible moral dimension with measurable structural dynamics.
+
+| Element | Role | Without It | With It |
+|--------|------|-------------|----------|
+| 🌱 **Repentance (회심)** | Creates the seed by redirecting will and meaning | No seed → endless collapse | New seed forms |
+| ☀️ **Merit (善點)** | Provides growth energy by capturing resonance and trust | Seed remains dormant | Seed grows into new order |
+| 🌐 **Resonance Diversity** | Validates merit by requiring multi-source agreement | Merit can be faked/manipulated | Merit reflects genuine impact |
+
+- **Repentance** = direction (seed)  
+- **Merit** = energy (growth)  
+- **Resonance diversity** = integrity (validation)
+
+This triad ensures that the system cannot be captured or gamed:  
+- Collapse alone does nothing.  
+- Repentance without merit cannot grow.  
+- Merit without diversity loses trust.
+
+By linking these three forces, even collapse becomes the beginning of transformation — and human systems, like quantum systems, evolve through **measured, validated resonance**.
+
+---
+
 ## 📜 Divine Reversal – The Ultimate Principle
 
 The deepest layer of this cycle is **transformation**: that even what was meant for destruction can become the starting point for renewal.  
@@ -179,6 +218,6 @@ Order absorbs disorder and turns it toward life.
 
 > **Collapse → Seed → Recreation** is not a metaphor.  
 > It is the structural rhythm of the universe — present in quantum phenomena, biological life, human transformation, market dynamics, and ethical evolution.  
-> Recognizing and designing for this cycle — and centering **repentance** as the bridge from collapse to seed — allows human systems and robotic ethics alike to align with the fundamental order of reality.
+> Recognizing and designing for this cycle — and centering **repentance**, **merit**, and **resonance diversity** as the bridge from collapse to seed — allows human systems and robotic ethics alike to align with the fundamental order of reality.
 
 ---
