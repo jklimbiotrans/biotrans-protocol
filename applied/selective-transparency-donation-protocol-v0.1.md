@@ -1,5 +1,5 @@
 # Selective Transparency Donation Protocol v0.1
-### — SBT-Based Selective Transparency Donation System (Biotrans Draft)
+### SBT-Based Selective Transparency Donation System (Biotrans Draft)
 
 ---
 
