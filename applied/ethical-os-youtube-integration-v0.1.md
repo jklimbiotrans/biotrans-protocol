@@ -1,5 +1,5 @@
 # Ethical OS × YouTube Integration v0.1  
-### — Emotional Resonance Interface for a Forgivable Media System (Biotrans Draft)
+### Emotional Resonance Interface for a Forgivable Media System (Biotrans Draft)
 
 ---
 
