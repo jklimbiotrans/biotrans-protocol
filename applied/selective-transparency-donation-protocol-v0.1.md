@@ -111,11 +111,12 @@ All applications must include the **Ethical Use Clause**:
 
 ---
 
+© 2025 Biotrans Protocol — for Transparent, Ethical, and Forgivable Systems.
+
 ## Note
 The example structure is intentionally placed at the very end of the Markdown document to prevent GitHub’s Markdown renderer from breaking or misinterpreting code blocks.  
 Adding the JSON at the bottom ensures a clean display and keeps the document’s logical sections intact.
 
-© 2025 Biotrans Protocol — for Transparent, Ethical, and Forgivable Systems.
 ---
 
 ## Example Structure
