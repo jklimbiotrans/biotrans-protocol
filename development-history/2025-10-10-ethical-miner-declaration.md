@@ -1,6 +1,6 @@
 ---
 title: "Ethical Miner Declaration"
-date: "2025-10-11"
+date: "2025-10-10"
 category: "development-history"
 author: "Biotrans"
 ---
