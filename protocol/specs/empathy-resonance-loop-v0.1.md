@@ -6,6 +6,34 @@ creating an ethical rhythm that balances **instant survival** and **sustained em
 
 ---
 
+## 🧠 Background: Neural and Hormonal Context
+
+Human emotional regulation arises from two complementary circuits shaped by evolution:
+
+1. **Action-Oriented Circuit (Fight–Flight)**  
+   - Dominated by the **amygdala** and **sympathetic nervous system**.  
+   - Triggers release of **adrenaline**, **norepinephrine**, and **cortisol**,  
+     preparing the body for rapid response, vigilance, or confrontation.  
+   - Research shows this circuit tends to be **more frequently activated in males**,  
+     partly due to higher baseline **testosterone** levels,  
+     which enhance competitive, decisive, and risk-oriented responses.
+
+2. **Relation-Oriented Circuit (Tend–Befriend)**  
+   - Involves the **amygdala**, **parasympathetic system**, and **oxytocin–serotonin** pathways.  
+   - Promotes empathy, bonding, emotional regulation, and cooperative behavior.  
+   - This pathway tends to be **more prominent in females**,  
+     as **estrogen and oxytocin** levels heighten sensitivity to emotional and relational cues,  
+     supporting caregiving and collective stability.
+
+> These are **tendencies, not limitations**.  
+> Both hormonal systems coexist within every person,  
+> and environmental or cultural factors can strengthen either mode.  
+> Biotrans Emotional OS models this duality not as a gender divide,  
+> but as two interacting emotional engines —  
+> **instinctive action** and **relational resonance** — that sustain ethical balance over time.
+
+---
+
 ## I. Core Structure
 
 | Axis | Primary Function | Emotional Energy Direction | Temporal Pattern |
@@ -67,7 +95,6 @@ creating an ethical rhythm that balances **instant survival** and **sustained em
 
 Sustainable Emotion = (Action Energy × Relational Resonance) ÷ Time
 
-
 > The harmony between decisive energy and empathic resonance  
 > defines emotional sustainability in the Biotrans system.
 
@@ -75,4 +102,3 @@ Sustainable Emotion = (Action Energy × Relational Resonance) ÷ Time
 
 ### © 2025 Biotrans Protocol  
 **"Emotion as Conscience Infrastructure."**
-
