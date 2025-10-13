@@ -7,7 +7,7 @@ The Biotrans Protocol recognizes that the age of **Soulbound Tokens (SBTs)** and
 will transform transparency from a technical feature into a moral challenge.  
 
 This declaration defines ethical boundaries for transparency, data usage,  
-and the sanctity of human existence within blockchain-based ecosystems.  
+and the sanctity of human existence within blockchain-based ecosystems. 
 
 > Transparency is inevitable.  
 > Intrusion is not.
