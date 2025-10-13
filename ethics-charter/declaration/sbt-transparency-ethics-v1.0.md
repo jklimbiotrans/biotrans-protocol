@@ -1,6 +1,4 @@
 # SBT Transparency Ethics Declaration (v1.0)
-> biotrans-protocol/ethics-charter/declaration/sbt-transparency-ethics-v1.0.md  
-> Linked background: [ethical-reset-data-consciousness.md](../../../philosophy/background/ethical-reset-data-consciousness.md)
 
 ---
 
@@ -52,7 +50,7 @@ These principles ensure that transparency supports conscience rather than survei
 
 ## V. Philosophical Context  
 The background philosophy for this declaration is detailed in:  
-[`biotrans-protocol/philosophy/background/ethical-reset-data-consciousness.md`](../../../philosophy/background/ethical-reset-data-consciousness.md)
+[`biotrans-protocol/philosophy/background/ethical-reset-data-consciousness.md`](../philosophy/background/ethical-reset-data-consciousness.md)
 
 That manifesto establishes the metaphysical logic behind this declaration:  
 that data is a mirror of existence,  
