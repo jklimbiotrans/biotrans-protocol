@@ -62,7 +62,7 @@ Give feedback when:
 - The person **shows self-reflection or effort after the first mistake.**  
   → They pause, listen, and attempt adjustment without defensiveness.  
 - The issue is **skill-related, not attitude-related.**  
-  → Translation accuracy, clarity, or process understanding — not arrogance or entitlement.  
+  → Execution quality, clarity, or process understanding — e.g., accuracy, collaboration flow, or ethical decision consistency.  
 - The person **asks with humility**, e.g.  
   > “Could you help me understand what I missed?”  
 - You sense **alignment with the protocol’s conscience**, even if results are incomplete.  
