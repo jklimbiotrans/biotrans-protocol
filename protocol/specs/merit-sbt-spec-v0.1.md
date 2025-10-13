@@ -3,7 +3,7 @@
 > **Biotrans Protocol – Core Ethical Token Architecture**  
 > Layer: *Post–Self-Purification (Quantified Conscience Layer)*  
 > Author: jklimbiotrans  
-> Visibility: Public Concept Spec  
+> Visibility: Public Concept Spec 
 
 ---
 
