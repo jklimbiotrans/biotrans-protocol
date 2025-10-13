@@ -50,7 +50,8 @@ These principles ensure that transparency supports conscience rather than survei
 
 ## V. Philosophical Context  
 The background philosophy for this declaration is detailed in:  
-[`biotrans-protocol/philosophy/background/ethical-reset-data-consciousness.md`](../philosophy/background/ethical-reset-data-consciousness.md)
+[ethical-reset-data-consciousness.md](../../../philosophy/background/ethical-reset-data-consciousness.md)
+
 
 That manifesto establishes the metaphysical logic behind this declaration:  
 that data is a mirror of existence,  
