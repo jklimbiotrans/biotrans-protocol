@@ -118,3 +118,7 @@ This note remains unverified but may serve as groundwork once physics and consci
 - **Preservation Goal:** To mark the philosophical frontier of Biotrans Protocol before empirical verification becomes possible in later scientific eras.
 
 ---
+> **Note:**  
+> The above content represents a speculative research note created with extended imagination.  
+> It may later inspire or evolve into experimental frameworks, cognitive simulations, or future protocol developments within the Biotrans ecosystem.
+
