@@ -1,3 +1,8 @@
+---
+title: "Dual Hegemony: GDP vs GTP (Gross Trust Product)"
+description: "An analysis of how global power divides between China's material GDP hegemony and America's moral-trust (GTP) hegemony, introducing the two-speed civilization concept where technology outpaces moral evolution. Predicts early GTP frameworks by 2045–2055, with moral convergence—especially in collectivist cultures like China—approaching maturity around 2070."
+---
+
 # Dual Hegemony: GDP vs GTP (Gross Trust Product)
 
 ## 1. The Great Divergence of Power Metrics
@@ -24,6 +29,31 @@ As a result:
 
 In this context, the **moral and ethical integrity** of creation itself becomes a new form of collateral.  
 The question is no longer *“What do you produce?”* but *“How ethically and helpfully do you create?”*
+
+---
+
+## 1.2 Socioeconomic Background — Inequality and the Necessity of Ethical Transition
+
+Much like the **late Roman Empire**, the contemporary world faces an extreme concentration of wealth and a breakdown of economic mobility.  
+Technological productivity has soared, yet the majority of citizens experience declining real wages, unaffordable housing, and increasing debt.  
+Capital growth now exceeds human growth; inherited assets multiply faster than creative labor can compensate.
+
+| Era | Systemic Pattern | Social Outcome |
+|------|-----------------|----------------|
+| **Rome (3rd–5th century)** | Land ownership concentrated in senatorial estates | Economic stagnation, depopulation, moral fatigue |
+| **Modern Era (21st century)** | Financial and digital capital concentrated in top 1% | Declining middle class, low birth rates, social alienation |
+
+Without structural reform, this imbalance threatens **civilizational sustainability** itself.  
+Just as Rome’s wealth centralization eroded civic virtue, today’s global inequality erodes **public trust**, the moral oxygen of any functioning economy.  
+
+The next phase of progress cannot rely on production or profit alone—it must be based on **ethical circulation**:  
+trust, fairness, and the measurable contribution of goodness.
+
+> Economic inequality is no longer just a moral issue—it is a systems failure.  
+> To restore balance, civilization must shift from **extractive capitalism** to **ethical capitalism**,  
+> where conscience, not capital, anchors legitimacy.
+
+This is the historical necessity behind the transition from **GDP to GTP**.
 
 ---
 
