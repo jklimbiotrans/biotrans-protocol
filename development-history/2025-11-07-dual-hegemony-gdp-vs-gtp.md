@@ -1,10 +1,3 @@
----
-title: "Dual Hegemony: GDP vs GTP (Gross Trust Product)"
-description: "An analytical essay describing how global power divides into two axes: China’s material GDP hegemony and America’s moral-trust (GTP) hegemony. Explains how the U.S. becomes the birthplace of human-centered capitalism—a new system measuring trust, empathy, and conscience instead of production—and how this ethical model gradually spreads worldwide by 2070, balancing China’s material dominance with America’s ethical innovation."
-date: 2025-11-07
-tags: [development-history, dual-hegemony, GDP, GTP, human-centered-capitalism, biotrans-protocol]
----
-
 # Dual Hegemony: GDP vs GTP (Gross Trust Product)
 
 > A conceptual and historical essay exploring how global power bifurcates
