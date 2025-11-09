@@ -127,7 +127,7 @@ never as systems of control.
 
 ---
 
-**File:** `/biotrans-protocol/governance/sbt-ethical-guidelines.md`  
+**File:** `/biotrans-protocol/protocol/governance/sbt-ethical-guidelines.md`  
 **Author:** jklimbiotrans (Biotrans Protocol)  
 **Version:** 0.1  
 **Status:** Foundational Ethical Governance Document
