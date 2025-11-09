@@ -108,7 +108,7 @@ Repentance is its firewall; diversity is its oxygen; humility is its root key.
 
 ---
 
-**File:** `/biotrans-protocol/governance/system-safeguards.md`  
+**File:** `/biotrans-protocol/protocol/governance/system-safeguards.md`  
 **Version:** v0.1  
 **Status:** Foundational governance guideline  
 **Author:** Biotrans Protocol design working note by jklimbiotrans  
