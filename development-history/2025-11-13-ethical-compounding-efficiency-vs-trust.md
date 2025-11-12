@@ -43,7 +43,7 @@ human biological and moral rhythms are not designed for it.
 
 ---
 
-### 4. Ethical Compounding
+### 4. Ethical Compounding Formula
 
 Ethical compounding means that trust, integrity, and rhythm accumulate over time  
 rather than being evaluated by single actions.
@@ -51,11 +51,33 @@ rather than being evaluated by single actions.
 **Formula**  
 > `Ethical Resonance(t) = (Trust × Integrity × Rhythm) ^ Time`
 
-The source of growth is not interest but **trust**.
+**Term Definitions**
+
+- **Trust:** Confidence that ethical action will yield meaningful outcomes over time.  
+  It replaces control with faith and forms the moral capital of the system.  
+- **Integrity:** Structural consistency between thought, word, and behavior.  
+  It prevents ethical drift and stabilizes compounding.  
+- **Rhythm:** Sustainable biological, behavioral, and ethical frequency that maintains inner balance.  
+  It represents the continuity of conscience and long-term harmony between action and meaning.
 
 ---
 
-### 5. Case Study: Warren Buffett’s Structural Transition
+### 5. Rhythm — The Hidden Variable of Longevity
+
+Rhythm is not merely timing; it is a **multi-layer frequency** that aligns body, mind, and ethics.
+
+| Layer | Description | Biotrans Correlation |
+|--------|--------------|---------------------|
+| Biological Rhythm | Stable hormonal cycles (serotonin-centered) | Emotional balance, recovery |
+| Behavioral Rhythm | Consistent habits and patience | Sustainable performance |
+| Ethical / Spiritual Rhythm | Alignment of conscience with action | Moral durability and grace |
+
+When rhythm collapses, even high trust and integrity cannot sustain resonance.  
+When rhythm stabilizes, conscience becomes self-reinforcing.
+
+---
+
+### 6. Case Study: Warren Buffett’s Structural Transition
 
 In his 20s–30s, Warren Buffett embodied the *mechanical investor*—  
 hyper-rational, data-driven, and obsessed with efficiency.  
@@ -93,7 +115,7 @@ from a “man of efficiency” to a “man of ethical compounding.”
 
 ---
 
-### 6. Personal Experiment: Serotonin-Based Investing
+### 7. Personal Experiment: Serotonin-Based Investing
 
 Through personal investing practice:
 
@@ -106,7 +128,7 @@ It aligns structurally with the Biotrans principle of **Compound Trust**.
 
 ---
 
-### 7. Biotrans Structural Interpretation
+### 8. Biotrans Structural Interpretation
 
 | Stage | Order Type | Core Value | Sustainability |
 |--------|-------------|-------------|----------------|
@@ -119,11 +141,11 @@ It aligns structurally with the Biotrans principle of **Compound Trust**.
 
 ---
 
-### 8. Conclusion
+### 9. Conclusion
 
 - Efficiency yields quick gains but moral exhaustion.  
 - Ethical compounding produces slower growth but infinite durability.  
-- Long-term serotonin-based rhythm ensures stability, trust, and social good.  
+- Trust × Integrity × Rhythm define the foundation of sustainable conscience.  
 - The evolutionary arc is: **Efficiency → Repentance → Ethical Resonance.**
 
 ---
