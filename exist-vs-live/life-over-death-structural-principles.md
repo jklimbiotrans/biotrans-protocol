@@ -1,5 +1,5 @@
 # Life Over Death – Structural Principles  
-### A Layered Reality Model for Biotrans Protocol (v0.2)
+### A Layered Reality Model for Biotrans Protocol (v0.1)
 
 ## 1. Overview
 This document explains why **life consistently outweighs death** and why the 
