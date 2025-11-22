@@ -1,80 +1,111 @@
 # ZK Behavior Truth Principle v1.0  
-### Biotrans Protocol — Foundations
+### Biotrans Protocol — Foundations Layer
 
 ## Description
-This foundational document defines the principle that the Biotrans Protocol
-does **not** measure conscience or inner states, but **may verify the truthfulness of observable actions** through privacy-preserving, zero-knowledge mechanisms.  
-It establishes the boundary between *inner inviolability* and *behavioral truth verification*, ensuring that only action-based, non-intrusive validation is allowed within the Protocol.
+This foundational document defines how the Biotrans Protocol may verify the **truthfulness of observable actions**—never inner states—using zero-knowledge proofs, multi-party cross-checking, and long-term behavioral pattern analysis.  
+It establishes the boundary between **conscience non-measurement** and **permitted action-level validation**, ensuring privacy, dignity, and strict separation between inner life and external behavior.
 
 ---
 
-## 1. Core Principle
-The Protocol **cannot** access, infer, or evaluate any person’s inner state, emotion, motive, or conscience.  
-However, the Protocol **may validate the factual truth or falsehood** of externally observable behavior using cryptographic, decentralized, and privacy-safe methods.
+## 1. Inviolability and Non-Measurability of Conscience
+The Protocol must never access, infer, classify, or quantify:
+- conscience  
+- intention  
+- belief  
+- sincerity  
+- emotion  
+- motive  
+- any inner psychological state  
+
+These domains are fundamentally unmeasurable and belong exclusively to human dignity.
 
 ---
 
-## 2. Truth Verification Scope
-Allowed:
-- Verification of whether an action **actually occurred**
-- Detection of **behavior-pattern contradictions**
-- Cross-checking consistency of claims across diverse observers
-- Longitudinal analysis of behavior repetition and stability
-- Zero-knowledge confirmation of action records without identity exposure
+## 2. Domain of Permissible Verification: Observable Behavior
+The Protocol may verify **truth or falsehood** strictly in the domain of observable actions through:
+- confirmation of whether an action occurred (fact verification)
+- detection of contradictions in behavioral patterns
+- multi-party, diversity-based cross-checking
+- long-term behavioral repetition analysis
+- zero-knowledge proof-of-action without identity exposure
 
-Not allowed:
-- Detecting motives, intentions, beliefs, emotions, or conscience
-- Inferring inner states from biological signals, biometrics, or affective data
-- Any algorithmic attempt to classify sincerity, morality, or character
+The Protocol evaluates behaviors, not minds.
 
 ---
 
-## 3. Zero-Knowledge Framework Requirement
-All permitted truth verification must:
-1. Use **Zero-Knowledge Proofs (ZKPs)** or equivalent privacy-preserving cryptography  
-2. Avoid identity exposure  
-3. Prevent behavioral manipulation  
-4. Resist replay, forgery, and tampering  
-5. Operate without accessing any form of inner-state data
+## 3. Truth Without Sincerity Measurement
+Sincerity and moral intent cannot be measured.  
+Instead, the Protocol adheres to these principles:
 
-This ensures that **truthful action validation** never becomes **inner-state intrusion**.
+- **truth is behavior-based**  
+- **inner sincerity is not evaluated**  
+- **repetition reveals reliability**  
+- **cross-check diversity reduces bias**  
 
----
-
-## 4. Accuracy Threshold for Activation
-The Protocol shall only enable large-scale behavioral truth verification when:
-- Cross-check accuracy across independent observers exceeds **80%**, and  
-- False-positive risk for innocence remains **extremely low**
-
-This threshold ensures the system never harms individuals through premature or unreliable inference.
+Truth verification remains external, factual, and non-intrusive.
 
 ---
 
-## 5. Boundary with Conscience Non-Measurement
-This principle must always be interpreted in harmony with the  
-**Inviolability & Non-Measurability of Conscience** clause:
-
-- Conscience is unmeasurable  
-- Inner states are off-limits  
-- Behavior is the only admissible domain of verification  
-
-Thus, truth verification is **structurally limited** to the observable world.
+## 4. Importance of Eliminating Deception
+Removing deception—false claims, fabricated actions, manipulative presentation—substantially increases global cooperation and stability.  
+The Protocol does not require measurement of inner morality;  
+**reducing deception alone provides sufficient systemic benefit.**
 
 ---
 
-## 6. Purpose
+## 5. Authorized Behavioral Truth-Verification Methods
+Permitted (behavior-only, privacy-preserving):
+1. Timestamp and sequence consistency checks  
+2. Zero-knowledge proof-of-action (ZK-PoA)  
+3. Decentralized multi-party factual cross-checking  
+4. Behavioral graph contradiction detection  
+5. Action–claim mismatch analysis  
+6. Cross-cultural diversity verification  
+
+Prohibited:
+- emotional inference  
+- biometric-based emotional analysis  
+- affective-state modeling  
+- motive or sincerity prediction  
+- neural or physiological inference  
+- any attempt to classify inner states  
+
+---
+
+## 6. Accuracy Threshold for Activation
+Behavioral truth verification at scale requires:
+- at least **80% cross-check accuracy** across independent observers  
+- minimal false-positive risk  
+- strong resistance to manipulation or forgery  
+
+This ensures the Protocol never harms individuals through unreliable inference.
+
+---
+
+## 7. Boundary with Conscience Non-Measurement
+This principle must always remain subordinate to the constitutional clause  
+**Inviolability & Non-Measurability of Conscience**.  
+
+Accordingly:
+- inner states remain permanently inaccessible  
+- truth verification is restricted to behavior only  
+- ZK mechanisms ensure no identity or inner data is exposed  
+
+---
+
+## 8. Purpose
 The purpose of this principle is to:
-- Minimize deception and manipulation in decentralized systems  
-- Support reliable cross-verification of actions without violating privacy  
-- Provide a clean behavioral data layer for future ethical applications  
-- Ensure the Protocol remains aligned with human dignity and autonomy  
+- eliminate deception without violating privacy  
+- create a reliable behavioral evidence layer  
+- support ethical applications grounded in human dignity  
+- maintain strict separation between inner conscience and external behavior  
+- ensure cryptographic truth without psychological intrusion  
 
 ---
 
-## 7. Amendments
-Future versions may refine cryptographic or procedural standards but  
-**may never expand truth verification into inner-state inference.**
+## 9. Amendments
+Future versions may refine procedural or cryptographic standards but may **never expand** verification into inner-state inference.
 
 ---
 
-© 2025 Biotrans Protocol — Foundations Layer
+© 2025 Biotrans Protocol — Foundations
