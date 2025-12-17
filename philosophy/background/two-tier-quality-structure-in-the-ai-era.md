@@ -22,7 +22,7 @@ The referenced development-history document establishes a key design shift:
 - Validation should rely on **zero-knowledge principles**
 - Moral authority, intent, and reputation are treated as non-secure inputs
 
-While that document focuses on *why trust-based ethics fail under AI-era conditions*,  
+While that document focuses on *why trust-based ethics fail under AI-era conditions*,
 this philosophy note extends the analysis to a second-order question:
 
 > If trust is removed from systems, what level of quality can systems realistically sustain?
@@ -42,6 +42,36 @@ Attempts to collapse these functions into a single layer tend to produce either:
 - Artificially capped outcomes (when rules dominate)
 
 This leads to a structurally stable resolution: **quality stratification**.
+
+---
+
+## Incident Resolution vs. Systemic Engineering
+
+A critical distinction underlies the two-tier model:
+
+**Responding to individual incidents is fundamentally different from engineering systems that prevent incidents.**
+
+Incident-centered approaches share common characteristics:
+
+- Intervention occurs only *after* failure has materialized
+- Effort is focused on symptoms rather than structural causes
+- Outcomes depend heavily on individual judgment, energy, and emotion
+- Similar failures tend to recur in slightly altered forms
+
+Such approaches are reactive by nature and scale poorly.
+
+By contrast, systemic engineering operates under different assumptions:
+
+- Human agents are finite, fallible, and inconsistent
+- Judgment quality degrades under fatigue, pressure, and immediacy
+- Systems should be designed so that individual failure does not propagate into systemic failure
+
+From this perspective, rule-based and zero-trust systems are not expressions of distrust in humans,
+but acknowledgments of **human limits**.
+
+The two-tier quality structure emerges as a natural consequence of this engineering stance:
+systems are assigned the role of *preventing the worst outcomes*,
+while humans retain responsibility for *defining and bearing the meaning of the best outcomes*.
 
 ---
 
@@ -153,7 +183,9 @@ A two-tier quality structure acknowledges an enduring constraint:
 > Systems can prevent collapse,  
 > but only humans can define what “better” ultimately means.
 
-This document frames the two-tier model not as a compromise, but as a necessary adaptation following the zero-trust / zero-knowledge design transition documented in the development history.
+This model is not a compromise,
+but a necessary adaptation following the zero-trust / zero-knowledge design transition
+and a shift from incident response toward systemic engineering.
 
 ---
 
