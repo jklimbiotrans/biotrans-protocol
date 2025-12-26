@@ -2,96 +2,102 @@
 
 ## Purpose
 
-This document defines biological and cognitive constraints
-under which human judgment is temporarily impaired.
+This document defines biological and cognitive conditions
+under which human judgment may be temporarily impaired.
 
-These constraints are foundational assumptions
-for ethical responsibility, governance design,
-and AI–human boundary definitions within the Biotrans Protocol.
+These conditions are **foundational assumptions** for
+ethical responsibility and system design within the Biotrans Protocol.
 
-## Core Premise
+This framework is **not** a liability escape mechanism.
+It exists to prevent misclassification of responsibility,
+not to eliminate it.
 
-Being awake does not imply being rational.
+## Core Principle
 
-Human ethical responsibility presupposes
-a sufficiently active prefrontal cortex.
-This condition is not met immediately after awakening.
+Being conscious does not guarantee rational agency.
 
-## Sleep Inertia
+Ethical responsibility presupposes
+a brain state capable of reflection,
+inhibition, and foresight.
+This condition is not continuously satisfied.
 
-### Definition
+## Impaired Judgment States (Illustrative, Not Exhaustive)
 
-Sleep inertia refers to a transitional neurobiological state
-occurring after awakening,
-during which cognitive performance remains degraded.
+Temporary impairment may occur during various conditions.
+Sleep-related states are one example, not the definition.
 
-### Characteristics
+| Category | Example | Nature | Voluntary |
+|---|---|---|---|
+| Transitional | Sleep inertia after waking | Temporary | No |
+| Physiological | Acute illness, hypoglycemia | Temporary | No |
+| Neurological | Sudden shock or disruption | Temporary | No |
+| Chemical | Alcohol or drug intoxication | Temporary | Yes |
+| Structural | Extreme fatigue imposed by system | Temporary | Mixed |
 
-During sleep inertia:
-- Cerebral blood flow in the prefrontal cortex remains reduced
-- Glucose metabolism supporting executive function is suppressed
-- Reaction time, inhibition, and reflective reasoning are impaired
+## Example: Sleep Inertia
 
-This state typically lasts between 30 and 90 minutes,
-and may extend longer depending on sleep debt and circadian disruption.
+Sleep inertia refers to a post-awakening state
+in which executive cognitive functions
+remain partially suppressed.
 
-## Subcortical Dominance
+Typical features include:
+- Reduced prefrontal cortical activity
+- Increased reliance on habitual or emotional responses
+- Distorted risk–reward evaluation
 
-While the prefrontal cortex is underactive,
-decision-making is disproportionately driven by subcortical systems.
+This state usually resolves within 30–90 minutes.
 
-- The basal ganglia favor habitual and automated responses
-- The amygdala amplifies threat detection and loss aversion
+Sleep inertia is **one illustrative case**,
+not a special exemption category.
 
-As a result, judgments tend toward
-immediate avoidance, risk aversion, and impulsive correction,
-rather than reflective evaluation.
+## Responsibility Is Not Removed
 
-## Neurochemical Transition Lag
+Cognitive limitation does **not** remove responsibility.
 
-Upon awakening:
-- Residual adenosine continues to suppress cortical activity
-- Cortisol rises sharply, increasing arousal without stability
-- Dopaminergic signaling remains temporarily imbalanced
+It modifies **how responsibility is classified and applied**.
 
-This neurochemical mismatch distorts risk–reward assessment
-and amplifies emotional weighting.
+## Responsibility Classification
 
-## Ethical Implications
+| Responsibility Type | Description | Affected by Impairment |
+|---|---|---|
+| Outcome Responsibility | Harm or impact caused by the action | No |
+| Moral Judgment Responsibility | Intent and quality of ethical reasoning | Yes (limited) |
+| Structural Responsibility | System conditions enabling the action | Increases |
 
-Decisions made during early post-awakening periods
-should not be interpreted as representative of:
-- stable personal values
-- long-term ethical orientation
-- full rational agency
+Outcome responsibility is never voided.
 
-Any ethical, financial, or computational system
-that evaluates or records human decisions
-must account for biological states
-in which rational responsibility is partially impaired.
+## Voluntary vs Non-Voluntary Impairment
+
+The protocol draws a strict boundary
+between impairment types.
+
+| Impairment Type | Ethical Treatment |
+|---|---|
+| Non-voluntary (e.g. sleep inertia, medical events) | Limit permanent ethical scoring |
+| Voluntary (e.g. alcohol, drugs) | No mitigation permitted |
+| Structurally imposed (e.g. forced exhaustion) | Shift responsibility toward system |
+
+Voluntarily induced impairment
+cannot be invoked to escape accountability.
 
 ## Protocol-Level Implication
 
-The Biotrans Protocol recognizes
-that ethical responsibility is conditional,
-not continuous.
+Ethical responsibility within the Biotrans Protocol
+is **conditional but non-optional**.
 
-Systems that assign merit, fault, or consequence
+Systems assigning merit, fault, or consequence
 must distinguish between:
-- biologically constrained judgment states
+- constrained judgment states
 - fully reflective moral agency
 
-Ignoring this distinction
-constitutes a structural ethical error.
+Failure to do so constitutes a structural ethical error.
 
 ## Conclusion
 
-Human rational responsibility
-requires more than consciousness.
+Recognizing cognitive limits
+does not weaken ethics.
 
-It requires a brain state
-capable of reflection, inhibition, and accountability.
-
-This biological constraint
-is not a weakness of ethics,
-but a boundary condition for its validity.
+It prevents ethical systems
+from becoming inaccurate,
+punitive,
+or exploitable.
