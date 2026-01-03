@@ -33,7 +33,7 @@ What was insufficiently recognized was the following:
 Large-scale systems were already being transformed
 by actors operating at different layers of reality.
 
-Figures such as **:contentReference[oaicite:0]{index=0}**
+Figures such as Masayoshi Son
 were not acting as isolated geniuses,
 but as **vision-driven system accelerators**.
 
