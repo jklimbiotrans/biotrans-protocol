@@ -19,8 +19,8 @@ It is a **core structural rationale** that future protocols should follow.
 
 Large-scale social systems face structural limits:
 
-- As participation scales, average ethical consistency declines
-- Preventive ethics and zero-incident standards become costly to maintain
+- As participation scales, ethical consistency becomes harder to maintain
+- Preventive ethics and near-zero-incident standards scale poorly
 - Forced ethics lead to:
   - resistance and backlash,
   - performative compliance,
@@ -38,83 +38,106 @@ Ethical consistency is inversely related to scale.
 - Small groups, teams, guilds:
   - strong mutual verification,
   - clear responsibility,
-  - high prevention capability
-  → **~95-point ethical standards are achievable**
+  - high prevention capability  
+  → **95–100 point consistency is achievable**
 
 - Large societies, platforms, nations:
   - many stakeholders,
   - distributed responsibility,
-  - political constraints
-  → **realistic upper bound ~90 points**
+  - political and operational constraints  
+  → **a practical ceiling emerges around ~90 points**
 
-This difference is not moral failure,
+This difference does not represent moral failure,
 but a **structural constraint**.
 
 ---
 
-## 3. Overview of the Tiered Model
+## 3. Overview of the Tiered Model (100-Point Reference)
 
 The model consists of three layers.
+All point ranges refer to **systemic ethical consistency**,  
+not individual morality.
 
-### Layer 0 — Baseline Society
+### Layer 0 — Baseline Society (≈70–80)
 - No ethical opt-in required
 - Minimal legal and social rules
-- Average ethical consistency: ~70–80
+- High behavioral diversity and variance
+- Ethical consistency distributed across a broad range  
+  (commonly observed around **70–80** under large-scale conditions)
 - Free entry and exit
 
-### Layer 1 — Ethical Opt-in Layer (~90)
+This layer reflects the **natural operating range**
+of large, heterogeneous societies.
+
+---
+
+### Layer 1 — Ethical Opt-in Layer (Upper-Bound Zone, ≈85–90)
 - Explicit, voluntary opt-in
 - Standards are publicly defined in advance
 - Stricter ethical requirements apply
-- Incentives are provided
+- Incentives reduce friction for consistent behavior
 - **Irreversible trust records are created**
+  (records are immutable; meaning and disclosure are adjustable)
 
-### Layer 2 — High-Standard Small-Scale Layer (~95)
+This layer represents a **structural ceiling** enabled by choice,
+not a social average or universal mandate.
+
+---
+
+### Layer 2 — High-Standard Small-Scale Layer (≈95–100)
 - Limited participants
 - Strong peer verification
 - Near zero-incident operation
 - Guilds, core teams, or protocol-critical groups
-- Not a general social layer
+- Not designed as general social infrastructure
+
+This layer is achievable only at small scale
+and serves as a **maximum consistency zone**, not a societal norm.
+
+---
 
 These layers represent **states of participation**, not social classes.
+Movement between layers is based on behavior and commitment,
+not identity, wealth, or status.
 
 ---
 
 ## 4. Why Opt-in Is Essential
 
-Ethics must operate as a **contract**, not a command.
+Ethics must function as a **contract**, not a command.
 
 Opt-in ensures:
 - no coercion,
 - informed consent,
 - clarity of expectations,
-- avoidance of “why am I disadvantaged?” disputes.
+- avoidance of perceived unfairness.
 
 Participation is determined by:
 - behavior,
 - consistency,
 - long-term commitment,
-not by identity, wealth, or status.
+
+not by identity, wealth, or social position.
 
 ---
 
 ## 5. What “Irreversible Trust Record” Means  
 ### (Plain Explanation)
 
-An irreversible trust record does **not** mean permanent punishment
-or public exposure.
+An irreversible trust record does **not** imply permanent punishment
+or permanent public exposure.
 
-It means the following:
+It means:
 
 - Once a record is created, it **cannot be deleted or altered**
-- The fact that an event occurred remains permanently verifiable
+- The fact that an event occurred remains verifiable
 - However:
   - scores,
   - weights,
   - interpretations,
-  - and consequences
-  **can change over time**
-- The level of public disclosure is **controlled by the participant**
+  - and consequences  
+  **may change over time**
+- Disclosure level is **controlled by the participant**
 
 In short:
 
@@ -124,55 +147,52 @@ In short:
 
 ---
 
-## 6. What “Irreversible” Does *Not* Mean
+## 6. What Irreversibility Does *Not* Mean
 
 Irreversibility does **not** imply:
 
-- permanent public scores
-- lifelong stigma
-- inability to recover or improve
-- frozen moral judgment
+- permanent stigma,
+- frozen moral judgment,
+- inability to recover,
+- universal transparency.
 
-This model explicitly rejects ethical blacklisting.
-
-The system records **facts**, not eternal verdicts.
+This model records **facts**, not eternal verdicts.
 
 ---
 
 ## 7. Why Irreversibility Is Structurally Necessary
 
-The purpose of irreversibility is not punishment,
-but the prevention of performative ethics.
+Irreversibility is not about punishment.
+It exists to prevent performative ethics.
 
-If records can be erased:
-- short-term image management becomes possible,
-- standards can be temporarily adopted and abandoned,
-- trust becomes cheap.
+If records are reversible:
+- short-term signaling becomes cheap,
+- ethical posture can be adopted and abandoned,
+- trust erodes.
 
-If records cannot be erased:
-- participation requires careful commitment,
+If records are irreversible:
+- participation requires deliberate commitment,
 - ethical status becomes something to maintain,
-- opportunistic behavior naturally filters out.
+- opportunistic behavior self-selects out.
 
-This makes ethics a **state with entry cost**,
-not a slogan that can be revoked.
+Ethics becomes a **state with an entry cost**, not a slogan.
 
 ---
 
 ## 8. Incentives as Friction Reduction
 
-Incentives in this model are not rewards for “being good.”
+Incentives are not rewards for moral virtue.
 
-They are mechanisms that reduce friction for ethical choices.
+They reduce friction for ethical consistency.
 
 Examples:
-- increased contractual reliability,
+- higher contractual reliability,
 - trust-weighted dispute resolution,
-- reduced mediation costs,
+- lower mediation costs,
 - priority access to long-term collaboration.
 
 The goal is not advantage,
-but **lower downside** for ethical consistency.
+but **lower downside** for consistent behavior.
 
 ---
 
@@ -181,43 +201,45 @@ but **lower downside** for ethical consistency.
 This model does not aim to:
 - enforce ethics universally,
 - control society,
-- declare moral superiority,
-- create a fixed elite class.
+- establish moral superiority,
+- create fixed elite classes.
 
-It is neither communism nor elitism.
+It is neither collectivist nor elitist.
 
-Its core principles are:
+Its foundation is:
 - voluntary participation,
-- transparent standards,
-- differential maintenance cost.
+- transparent criteria,
+- differentiated maintenance costs.
 
 ---
 
-## 10. Historical and Temporal Context
+## 10. Temporal and Structural Context
 
-Post-2030 societies are likely to stabilize
-around an average ethical consistency of ~85–90.
+Post-2030 societies are unlikely to become ethically ideal.
 
-In that context, this model:
-- does not replace society,
-- does not override law,
-- but provides a **high-standard upper layer**.
+However, they may enter conditions where
+maintaining low-consistency systems becomes
+more costly than sustaining moderately high-consistency ones.
 
-In simple terms:
+Any convergence toward higher consistency should be understood
+not as moral progress,
+but as a result of **structural cost realignment**.
 
-> Society maintains the average.  
-> The Ethics OS preserves the maximum.
+In this context:
+- society maintains the broad distribution (≈70–80),
+- opt-in systems define the upper bound (≈85–90),
+- small-scale groups preserve the maximum (≈95–100).
 
 ---
 
 ## Closing Note
 
-Forcing 95-point ethics on everyone breaks systems.  
-Allowing 90-point ethics as a voluntary, irreversible choice elevates them.
+Forcing 95–100 point ethics on everyone destabilizes systems.  
+Allowing 85–90 point ethics as a voluntary, irreversible choice stabilizes them.
 
-When that choice cannot be casually undone,
-ethics stops being a declaration
-and becomes a structure.
+When that choice carries lasting structural consequences,
+ethics ceases to be declarative
+and becomes architectural.
 
 This document defines the core structural principles
 that make such an Ethics OS possible.
