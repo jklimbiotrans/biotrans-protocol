@@ -39,16 +39,16 @@ Ethical consistency is inversely related to scale.
   - strong mutual verification,
   - clear responsibility,
   - high prevention capability  
-  → **95–100 point consistency is achievable**
+  → **a high but finite consistency range (≈90–95) is achievable**
 
 - Large societies, platforms, nations:
   - many stakeholders,
   - distributed responsibility,
   - political and operational constraints  
-  → **a practical ceiling emerges around ~90 points**
+  → **a practical ceiling emerges around ≈85–90**
 
 This difference does not represent moral failure,
-but a **structural constraint**.
+but a **structural constraint** inherent to scale.
 
 ---
 
@@ -79,20 +79,22 @@ of large, heterogeneous societies.
 - **Irreversible trust records are created**
   (records are immutable; meaning and disclosure are adjustable)
 
-This layer represents a **structural ceiling** enabled by choice,
+This layer represents a **structural ceiling enabled by choice**,
 not a social average or universal mandate.
 
 ---
 
-### Layer 2 — High-Standard Small-Scale Layer (≈95–100)
+### Layer 2 — High-Standard Small-Scale Layer (≈90–95)
 - Limited participants
 - Strong peer verification
-- Near zero-incident operation
+- Clear accountability
+- Near zero-incident operation (acknowledging human fallibility)
 - Guilds, core teams, or protocol-critical groups
 - Not designed as general social infrastructure
 
-This layer is achievable only at small scale
-and serves as a **maximum consistency zone**, not a societal norm.
+This layer approaches the **highest sustainable range**
+for human-centered systems,
+understood as a practical upper bound rather than an idealized maximum.
 
 ---
 
@@ -226,16 +228,16 @@ not as moral progress,
 but as a result of **structural cost realignment**.
 
 In this context:
-- society maintains the broad distribution (≈70–80),
+- society maintains a broad distribution (≈70–80),
 - opt-in systems define the upper bound (≈85–90),
-- small-scale groups preserve the maximum (≈95–100).
+- small-scale groups preserve the highest sustainable range (≈90–95).
 
 ---
 
 ## Closing Note
 
-Forcing 95–100 point ethics on everyone destabilizes systems.  
-Allowing 85–90 point ethics as a voluntary, irreversible choice stabilizes them.
+Forcing near-perfect ethics on everyone destabilizes systems.  
+Allowing high ethics as a voluntary, irreversible choice stabilizes them.
 
 When that choice carries lasting structural consequences,
 ethics ceases to be declarative
