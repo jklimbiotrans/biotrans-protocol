@@ -7,9 +7,10 @@ but as a **structural expression of trust in late-stage systems**.
 It explains how the meaning of credit has shifted over time,  
 and why that shift naturally leads to limits on credit expansion.
 
-This text does not promote specific policies, technologies, or institutions.  
-Its purpose is to describe how the concept of credit is repositioned  
-during periods of systemic transition.
+This text does not promote specific policies, criticize banking systems,
+or argue for or against quantitative easing (QE).
+Its purpose is to describe how the role of credit changes
+as systems enter late-stage conditions.
 
 ---
 
@@ -154,7 +155,30 @@ credit inevitably collides with monetary functions.
 
 ---
 
-## 8. Limits to Credit Expansion as Structural Outcome
+## 8. Credit Expansion and Quantitative Easing: A Clarification
+
+It is important to clarify what this document does **not** claim.
+
+This analysis does **not** argue that:
+- banking systems are inherently flawed,
+- quantitative easing (QE) is a policy mistake,
+- or that liquidity should be reduced.
+
+Instead, it highlights a structural similarity:
+
+When credit instruments begin to function like money —
+by being widely exchangeable, storable, and used for pricing —
+they generate pressures similar to those seen
+when monetary supply expands rapidly.
+
+The issue is not intent, policy choice, or error.
+It is a **role overlap**:
+credit is asked to perform a monetary function
+it was not designed to carry.
+
+---
+
+## 9. Limits to Credit Expansion as Structural Outcome
 
 In late-stage systems, limits on credit expansion  
 are not primarily matters of political control or moral judgment.
@@ -174,18 +198,21 @@ but **sustainability**.
 
 ## Closing Note (Plain Version)
 
-This document does not argue that credit should be banned or controlled.
+This document does not argue that credit should be banned or tightly managed.
 
 It simply points out a structural pattern:
 
-When credit moves away from being a record of trust  
-and starts to work like money —  
+Credit was originally a way to record trust —
+whether promises could be kept.
+
+When credit starts to behave like money —
 something that can be freely exchanged, stored, and used as a price —
+the system begins to face the same problems seen in currency systems.
 
-the system begins to face the same problems as a currency system.
+In late-stage systems, instability arises not because of bad intentions,
+policy failures, or excessive generosity,
+but because credit is asked to perform a role
+it was never meant to carry.
 
-In late-stage systems, instability arises not because of bad intentions,  
-but because credit is asked to perform a role it was never meant to carry.
-
-The limit appears before policy or regulation.  
+The limit appears before regulation or policy.
 It emerges from structure itself.
