@@ -99,6 +99,19 @@ can be considered ethically operational.
 
 ---
 
+## Reference
+
+For conceptual background on why the Ethical OS should be understood
+as an **alignment environment rather than a reward or moral scoring system**,
+see:
+
+- [`ethical-os-as-alignment-environment.md`](../../philosophy/background/ethical-os-as-alignment-environment.md)
+
+This reference provides interpretive context only
+and is **not required** to apply the operational requirements defined above.
+
+---
+
 ### Document Status
 
 - Foundational definition
